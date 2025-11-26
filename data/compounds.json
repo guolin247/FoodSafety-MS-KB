@@ -1,0 +1,4104 @@
+[
+  {
+    "CAS_number": "94-75-7",
+    "compound_english_name": "2,4-D",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94-82-6",
+    "compound_english_name": "2,4-DB",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120-23-0",
+    "compound_english_name": "2-Naphthyloxyacetic acid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2686-99-9",
+    "compound_english_name": "3,4,5-Trimethacarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122-88-3",
+    "compound_english_name": "4-CPA",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30560-19-1",
+    "compound_english_name": "Acephate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "135410-20-7",
+    "compound_english_name": "Acetamiprid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "135158-54-2",
+    "compound_english_name": "Acibenzolar-S-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74070-46-5",
+    "compound_english_name": "Aclonifen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101007-06-1",
+    "compound_english_name": "Acrinathrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "15972-60-8",
+    "compound_english_name": "Alachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "116-06-3",
+    "compound_english_name": "Aldicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1646-87-3",
+    "compound_english_name": "Aldicarb-sulfoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1646-88-4",
+    "compound_english_name": "Aldoxycarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55634-91-8",
+    "compound_english_name": "Alloxydim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "834-12-8",
+    "compound_english_name": "Ametryn",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120923-37-7",
+    "compound_english_name": "Amidosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2032-59-9",
+    "compound_english_name": "Aminocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "33089-61-1",
+    "compound_english_name": "Amitraz",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "61-82-5",
+    "compound_english_name": "Amitrole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "140-57-8",
+    "compound_english_name": "Aramit",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1912-24-9",
+    "compound_english_name": "Atrazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2163-68-0",
+    "compound_english_name": "Atrazine, 2-hydroxy-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "6190-65-4",
+    "compound_english_name": "Atrazine, desethyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1007-28-9",
+    "compound_english_name": "Atrazine, desisopropyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "65195-55-3",
+    "compound_english_name": "Avermectin B1a",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "65195-56-4",
+    "compound_english_name": "Avermectin B1b",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60207-31-0",
+    "compound_english_name": "Azaconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35575-96-3",
+    "compound_english_name": "Azamethiphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120162-55-2",
+    "compound_english_name": "Azimsulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2642-71-9",
+    "compound_english_name": "Azinphos-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "86-50-0",
+    "compound_english_name": "Azinphos-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "41083-11-8",
+    "compound_english_name": "Azocyclotin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131860-33-8",
+    "compound_english_name": "Azoxystrobin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "113614-08-7",
+    "compound_english_name": "Beflubutamid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "71626-11-4",
+    "compound_english_name": "Benalaxyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "22781-23-3",
+    "compound_english_name": "Bendiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "82560-54-1",
+    "compound_english_name": "Benfuracarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "17804-35-2",
+    "compound_english_name": "Benomyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83055-99-6",
+    "compound_english_name": "Bensulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "25057-89-0",
+    "compound_english_name": "Bentazone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "29104-30-1",
+    "compound_english_name": "Benzoximate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "42576-02-3",
+    "compound_english_name": "Bifenox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "82657-04-3",
+    "compound_english_name": "Bifenthrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "485-31-4",
+    "compound_english_name": "Binapacryl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "28434-01-7",
+    "compound_english_name": "Bioresmethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55179-31-2",
+    "compound_english_name": "Bitertanol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "188425-85-6",
+    "compound_english_name": "Boscalid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "314-40-9",
+    "compound_english_name": "Bromacil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "4824-78-6",
+    "compound_english_name": "Bromophos-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1689-84-5",
+    "compound_english_name": "Bromoxynil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "116255-48-2",
+    "compound_english_name": "Bromuconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "41483-43-6",
+    "compound_english_name": "Bupirimate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "69327-76-0",
+    "compound_english_name": "Buprofezin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "134605-64-4",
+    "compound_english_name": "Butafenacil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34681-10-2",
+    "compound_english_name": "Butocarboxim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34681-24-8",
+    "compound_english_name": "Butocarboxim-sulfoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34681-23-7",
+    "compound_english_name": "Butoxycarboxim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3766-60-7",
+    "compound_english_name": "Buturon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2008-41-5",
+    "compound_english_name": "Butylate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "95465-99-9",
+    "compound_english_name": "Cadusafos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "63-25-2",
+    "compound_english_name": "Carbaryl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "10605-21-7",
+    "compound_english_name": "Carbendazim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "16118-49-3",
+    "compound_english_name": "Carbetamide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1563-66-2",
+    "compound_english_name": "Carbofuran",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "16655-82-6",
+    "compound_english_name": "Carbofuran, 3-hydroxy-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55285-14-8",
+    "compound_english_name": "Carbosulfan",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5234-68-4",
+    "compound_english_name": "Carboxin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "128639-02-1",
+    "compound_english_name": "Carfentrazone-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "15263-52-2",
+    "compound_english_name": "Cartap hydrochloride",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2439-01-2",
+    "compound_english_name": "Chinomethionat",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13360-45-7",
+    "compound_english_name": "Chlorbromuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1967-16-4",
+    "compound_english_name": "Chlorbufam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "470-90-6",
+    "compound_english_name": "Chlorfenvinphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "71422-67-8",
+    "compound_english_name": "Chlorfluazuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1698-60-8",
+    "compound_english_name": "Chloridazon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "90982-32-4",
+    "compound_english_name": "Chlorimuron-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24934-91-6",
+    "compound_english_name": "Chlormephos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "510-15-6",
+    "compound_english_name": "Chlorobenzilate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "15545-48-9",
+    "compound_english_name": "Chlorotoluron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1982-47-4",
+    "compound_english_name": "Chloroxuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2921-88-2",
+    "compound_english_name": "Chlorpyrifos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5598-13-0",
+    "compound_english_name": "Chlorpyrifos-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "64902-72-3",
+    "compound_english_name": "Chlorsulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1918-13-4",
+    "compound_english_name": "Chlorthiamid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60238-56-4",
+    "compound_english_name": "Chlorthiophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "142891-20-1",
+    "compound_english_name": "Cinidon-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94593-91-6",
+    "compound_english_name": "Cinosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "99129-21-2",
+    "compound_english_name": "Clethodim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "105512-06-9",
+    "compound_english_name": "Clodinafop-propargyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74115-24-5",
+    "compound_english_name": "Clofentezine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81777-89-1",
+    "compound_english_name": "Clomazone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1702-17-6",
+    "compound_english_name": "Clopyralid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "99607-70-2",
+    "compound_english_name": "Cloquintocet-mexyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "210880-92-5",
+    "compound_english_name": "Clothianidin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "56-72-4",
+    "compound_english_name": "Coumaphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7700-17-6",
+    "compound_english_name": "Crotoxyphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "21725-46-2",
+    "compound_english_name": "Cyanazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13067-93-1",
+    "compound_english_name": "Cyanofenphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2636-26-2",
+    "compound_english_name": "Cyanophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120116-88-3",
+    "compound_english_name": "Cyazofamid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "113136-77-9",
+    "compound_english_name": "Cyclanilide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1134-23-2",
+    "compound_english_name": "Cycloate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101205-02-1",
+    "compound_english_name": "Cycloxydim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "68359-37-5",
+    "compound_english_name": "Cyfluthrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122008-85-9",
+    "compound_english_name": "Cyhalofop-butyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13121-70-5",
+    "compound_english_name": "Cyhexatin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "57966-95-7",
+    "compound_english_name": "Cymoxanil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "52315-07-8",
+    "compound_english_name": "Cypermethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39515-40-7",
+    "compound_english_name": "Cyphenothrin [(1R)-trans-isomers]",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "113096-99-4",
+    "compound_english_name": "Cyproconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "121552-61-2",
+    "compound_english_name": "Cyprodinil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66215-27-8",
+    "compound_english_name": "Cyromazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1596-84-5",
+    "compound_english_name": "Daminozide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "52918-63-5",
+    "compound_english_name": "Deltamethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "919-86-8",
+    "compound_english_name": "Demeton-S-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "17040-19-6",
+    "compound_english_name": "Demeton-S-methyl sulfon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13684-56-5",
+    "compound_english_name": "Desmedipham",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "10311-84-9",
+    "compound_english_name": "Dialifos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2303-16-4",
+    "compound_english_name": "Di-allate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "333-41-5",
+    "compound_english_name": "Diazinon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1918-00-9",
+    "compound_english_name": "Dicamba",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "97-17-6",
+    "compound_english_name": "Dichlofenthion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1085-98-9",
+    "compound_english_name": "Dichlofluanid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "15165-67-0",
+    "compound_english_name": "Dichlorprop-P",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "62-73-7",
+    "compound_english_name": "Dichlorvos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "75736-33-3",
+    "compound_english_name": "Diclobutrazol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51338-27-3",
+    "compound_english_name": "Diclofop-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "99-30-9",
+    "compound_english_name": "Dicloran",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3735-78-3",
+    "compound_english_name": "Dicrotophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "87130-20-9",
+    "compound_english_name": "Diethofencarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "119446-68-3",
+    "compound_english_name": "Difenoconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "14214-32-5",
+    "compound_english_name": "Difenoxuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35367-38-5",
+    "compound_english_name": "Diflubenzuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83164-33-4",
+    "compound_english_name": "Diflufenican",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34205-21-5",
+    "compound_english_name": "Dimefuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "50563-36-5",
+    "compound_english_name": "Dimethachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "87674-68-8",
+    "compound_english_name": "Dimethenamide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60-51-5",
+    "compound_english_name": "Dimethoate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "110488-70-5",
+    "compound_english_name": "Dimethomorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "644-64-4",
+    "compound_english_name": "Dimetilan",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83657-24-3",
+    "compound_english_name": "Diniconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "88-85-7",
+    "compound_english_name": "Dinoseb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1420-07-1",
+    "compound_english_name": "Dinoterb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "78-34-2",
+    "compound_english_name": "Dioxathion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122-39-4",
+    "compound_english_name": "Diphenylamine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "298-04-4",
+    "compound_english_name": "Disulfoton",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3347-22-6",
+    "compound_english_name": "Dithianon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "330-54-1",
+    "compound_english_name": "Diuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "534-52-1",
+    "compound_english_name": "DNOC",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1593-77-7",
+    "compound_english_name": "Dodemorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "17109-49-8",
+    "compound_english_name": "Edifenphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1031-07-8",
+    "compound_english_name": "Endosulfansulfat",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2104-64-5",
+    "compound_english_name": "EPN",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "106325-08-0",
+    "compound_english_name": "Epoxiconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "759-94-4",
+    "compound_english_name": "EPTC",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66230-04-4",
+    "compound_english_name": "Esfenvalerate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "97780-06-8",
+    "compound_english_name": "Ethametsulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30043-49-3",
+    "compound_english_name": "Ethidimuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "29973-13-5",
+    "compound_english_name": "Ethiofencarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "53380-23-7",
+    "compound_english_name": "Ethiofencarb-sulfone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "53380-22-6",
+    "compound_english_name": "Ethiofencarb-sulfoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "563-12-2",
+    "compound_english_name": "Ethion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23947-60-6",
+    "compound_english_name": "Ethirimol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "26225-79-6",
+    "compound_english_name": "Ethofumesate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13194-48-4",
+    "compound_english_name": "Ethoprophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "91-53-2",
+    "compound_english_name": "Ethoxyquin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "96-45-7",
+    "compound_english_name": "Ethylenthiourea (ETU)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "80844-07-1",
+    "compound_english_name": "Etofenprox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "153233-91-1",
+    "compound_english_name": "Etoxazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "38260-54-7",
+    "compound_english_name": "Etrimfos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131807-57-3",
+    "compound_english_name": "Famoxadone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "161326-34-7",
+    "compound_english_name": "Fenamidone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "22224-92-6",
+    "compound_english_name": "Fenamiphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60168-88-9",
+    "compound_english_name": "Fenarimol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120928-09-8",
+    "compound_english_name": "Fenazaquin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "114369-43-6",
+    "compound_english_name": "Fenbuconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13356-08-6",
+    "compound_english_name": "Fenbutatin oxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24691-80-3",
+    "compound_english_name": "Fenfuram",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "126833-17-8",
+    "compound_english_name": "Fenhexamid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122-14-5",
+    "compound_english_name": "Fenitrothion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "62850-32-2",
+    "compound_english_name": "Fenothiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "71283-80-2",
+    "compound_english_name": "Fenoxaprop-P-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "79127-80-3",
+    "compound_english_name": "Fenoxycarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74738-17-3",
+    "compound_english_name": "Fenpiclonil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39515-41-8",
+    "compound_english_name": "Fenpropathrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67306-00-7",
+    "compound_english_name": "Fenpropidin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67306-03-0",
+    "compound_english_name": "Fenpropimorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "111812-58-9",
+    "compound_english_name": "Fenpyroximate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55-38-9",
+    "compound_english_name": "Fenthion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "668-34-8",
+    "compound_english_name": "Fentin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101-42-8",
+    "compound_english_name": "Fenuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51630-58-1",
+    "compound_english_name": "Fenvalerate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120068-37-3",
+    "compound_english_name": "Fipronil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "205650-65-3",
+    "compound_english_name": "Fipronil-desulfinyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120067-83-6",
+    "compound_english_name": "Fipronil-sulfid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120068-36-2",
+    "compound_english_name": "Fipronil-sulfon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "63782-90-1",
+    "compound_english_name": "Flamprop-M-isopropyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "63729-98-6",
+    "compound_english_name": "Flamprop-M-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "104040-78-0",
+    "compound_english_name": "Flazasulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "145701-23-1",
+    "compound_english_name": "Florasulam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83066-88-0",
+    "compound_english_name": "Fluazifop (free acid)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "69806-50-4",
+    "compound_english_name": "Fluazifop-P-butyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "79622-59-6",
+    "compound_english_name": "Fluazinam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "70124-77-5",
+    "compound_english_name": "Flucythrinate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131341-86-1",
+    "compound_english_name": "Fludioxonil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "142459-58-3",
+    "compound_english_name": "Flufenacet",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101463-69-8",
+    "compound_english_name": "Flufenoxuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "103361-09-7",
+    "compound_english_name": "Flumioxazin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2164-17-2",
+    "compound_english_name": "Fluometuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "77501-90-7",
+    "compound_english_name": "Fluoroglycofene-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "144740-54-5",
+    "compound_english_name": "Flupyrsulfuron-methyl-sodium",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "136426-54-5",
+    "compound_english_name": "Fluquinconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "467-69-6",
+    "compound_english_name": "Flurenol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "59756-60-4",
+    "compound_english_name": "Fluridone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "61213-25-0",
+    "compound_english_name": "Flurochloridone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "69377-81-7",
+    "compound_english_name": "Fluroxypyr",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81406-37-3",
+    "compound_english_name": "Fluroxypyr-meptyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "96525-23-4",
+    "compound_english_name": "Flurtamone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "85509-19-9",
+    "compound_english_name": "Flusilazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66332-96-5",
+    "compound_english_name": "Flutolanil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "76674-21-0",
+    "compound_english_name": "Flutriafol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "133-07-3",
+    "compound_english_name": "Folpet",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72178-02-0",
+    "compound_english_name": "Fomesafen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "944-22-9",
+    "compound_english_name": "Fonofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "173159-57-4",
+    "compound_english_name": "Foramsulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "22259-30-9",
+    "compound_english_name": "Formetanate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "98886-44-3",
+    "compound_english_name": "Fosthiazate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3878-19-1",
+    "compound_english_name": "Fuberidazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "65907-30-4",
+    "compound_english_name": "Furathiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "77182-82-2",
+    "compound_english_name": "Glufosinate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "111872-58-3",
+    "compound_english_name": "Halfenprox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "112226-61-6",
+    "compound_english_name": "Halofenozide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "100784-20-1",
+    "compound_english_name": "Halosulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "87237-48-7",
+    "compound_english_name": "Haloxyfop-etotyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "95977-29-0",
+    "compound_english_name": "Haloxyfop-P",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72619-32-0",
+    "compound_english_name": "Haloxyfop-P-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23560-59-0",
+    "compound_english_name": "Heptenophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "79983-71-4",
+    "compound_english_name": "Hexaconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "86479-06-3",
+    "compound_english_name": "Hexaflumuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51235-04-2",
+    "compound_english_name": "Hexazinone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "78587-05-0",
+    "compound_english_name": "Hexythiazox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35554-44-0",
+    "compound_english_name": "Imazalil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81334-34-1",
+    "compound_english_name": "Imazapyr",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81335-37-7",
+    "compound_english_name": "Imazaquin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81335-77-5",
+    "compound_english_name": "Imazethapyr",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "86598-92-7",
+    "compound_english_name": "Imibenconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "138261-41-3",
+    "compound_english_name": "Imidacloprid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "173584-44-6",
+    "compound_english_name": "Indoxacarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "185119-76-0",
+    "compound_english_name": "lodosulfuron-methyl-sodium",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1689-83-4",
+    "compound_english_name": "loxynil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "26087-47-8",
+    "compound_english_name": "Iprobenfos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "36734-19-7",
+    "compound_english_name": "Iprodione",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "140923-17-7",
+    "compound_english_name": "Iprovalicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "42509-80-8",
+    "compound_english_name": "Isazofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "25311-71-1",
+    "compound_english_name": "Isofenphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "31120-85-1",
+    "compound_english_name": "Isofenphos-oxon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2631-40-5",
+    "compound_english_name": "Isoprocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "50512-35-1",
+    "compound_english_name": "Isoprothiolane",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34123-59-6",
+    "compound_english_name": "Isoproturon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "163520-33-0",
+    "compound_english_name": "Isoxadifen-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "141112-29-0",
+    "compound_english_name": "Isoxaflutole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "18854-01-8",
+    "compound_english_name": "Isoxathion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "143390-89-0",
+    "compound_english_name": "Kresoxim-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "91465-08-6",
+    "compound_english_name": "lambda-Cyhalothrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2164-08-1",
+    "compound_english_name": "Lenacil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "330-55-2",
+    "compound_english_name": "Linuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "103055-07-8",
+    "compound_english_name": "Lufenuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1634-78-2",
+    "compound_english_name": "Malaoxon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "121-75-5",
+    "compound_english_name": "Malathion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "123-33-1",
+    "compound_english_name": "Maleic hydrazide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94-74-6",
+    "compound_english_name": "MCPA",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "29450-45-1",
+    "compound_english_name": "MCPA, 2-Ethylhexyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "19480-43-4",
+    "compound_english_name": "MCPA, Butotyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94-81-5",
+    "compound_english_name": "MCPB",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2595-54-2",
+    "compound_english_name": "Mecarbam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "16484-77-8",
+    "compound_english_name": "Mecoprop-P",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "135590-91-9",
+    "compound_english_name": "Mefenpyr-diethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "110235-47-7",
+    "compound_english_name": "Mepanipyrim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24307-26-4",
+    "compound_english_name": "Mepiquat",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55814-41-0",
+    "compound_english_name": "Mepronil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "208465-21-8",
+    "compound_english_name": "Mesosulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "104206-82-8",
+    "compound_english_name": "Mesotrione",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "70630-17-0",
+    "compound_english_name": "Metalaxyl-M",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "41394-05-2",
+    "compound_english_name": "Metamitron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67129-08-2",
+    "compound_english_name": "Metazachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "125116-23-6",
+    "compound_english_name": "Metconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "18691-97-9",
+    "compound_english_name": "Methabenzthiazuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30864-28-9",
+    "compound_english_name": "Methacrifos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "10265-92-6",
+    "compound_english_name": "Methamidophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "28730-17-8",
+    "compound_english_name": "Methfuroxam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "950-37-8",
+    "compound_english_name": "Methidathion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2032-65-7",
+    "compound_english_name": "Methiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2179-25-1",
+    "compound_english_name": "Methiocarb-sulfone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "16752-77-5",
+    "compound_english_name": "Methomyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13749-94-5",
+    "compound_english_name": "Methomyl-oxime",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "161050-58-4",
+    "compound_english_name": "Methoxyfenozide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3060-89-7",
+    "compound_english_name": "Metobromuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1129-41-5",
+    "compound_english_name": "Metolcarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "139528-85-1",
+    "compound_english_name": "Metosulam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "19937-59-8",
+    "compound_english_name": "Metoxuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "220899-03-6",
+    "compound_english_name": "Metrafenone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "21087-64-9",
+    "compound_english_name": "Metribuzin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74223-64-6",
+    "compound_english_name": "Metsulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7786-34-7",
+    "compound_english_name": "Mevinphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2212-67-1",
+    "compound_english_name": "Molinate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "6923-22-4",
+    "compound_english_name": "Monocrotophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1746-81-2",
+    "compound_english_name": "Monolinuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "150-68-5",
+    "compound_english_name": "Monuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "88671-89-0",
+    "compound_english_name": "Myclobutanil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "300-76-5",
+    "compound_english_name": "Naled",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "15299-99-7",
+    "compound_english_name": "Napropamide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "555-37-3",
+    "compound_english_name": "Neburon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "111991-09-4",
+    "compound_english_name": "Nicosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "54-11-5",
+    "compound_english_name": "Nicotine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "120738-89-8",
+    "compound_english_name": "Nitenpyram",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "10552-74-6",
+    "compound_english_name": "Nitrothal-isopropyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "27314-13-2",
+    "compound_english_name": "Norflurazon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23576-24-1",
+    "compound_english_name": "Norflurazon-desmethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "63284-71-9",
+    "compound_english_name": "Nuarimol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "58810-48-3",
+    "compound_english_name": "Ofurace",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1113-02-6",
+    "compound_english_name": "Omethoate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "19666-30-9",
+    "compound_english_name": "Oxadiazon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "77732-09-3",
+    "compound_english_name": "Oxadixyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23135-22-0",
+    "compound_english_name": "Oxamyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30558-43-1",
+    "compound_english_name": "Oxamyl-oxime",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "144651-06-9",
+    "compound_english_name": "Oxasulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5259-88-1",
+    "compound_english_name": "Oxycarboxin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "301-12-2",
+    "compound_english_name": "Oxydemeton-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "42874-03-3",
+    "compound_english_name": "Oxyfluorfen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "76738-62-0",
+    "compound_english_name": "Paclobutrazol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "311-45-5",
+    "compound_english_name": "Paraoxon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "950-35-6",
+    "compound_english_name": "Paraoxon-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "56-38-2",
+    "compound_english_name": "Parathion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "298-00-0",
+    "compound_english_name": "Parathion-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66246-88-6",
+    "compound_english_name": "Penconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66063-05-6",
+    "compound_english_name": "Pencycuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "40487-42-1",
+    "compound_english_name": "Pendimethalin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "52645-53-1",
+    "compound_english_name": "Permethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13684-63-4",
+    "compound_english_name": "Phenmedipham",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2597-03-7",
+    "compound_english_name": "Phenthoate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "298-02-2",
+    "compound_english_name": "Phorate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2588-04-7",
+    "compound_english_name": "Phorat-sulfone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2588-03-6",
+    "compound_english_name": "Phorat-sulfoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2310-17-0",
+    "compound_english_name": "Phosalone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "732-11-6",
+    "compound_english_name": "Phosmet",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13171-21-6",
+    "compound_english_name": "Phosphamidon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "14816-18-3",
+    "compound_english_name": "Phoxim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1918-02-1",
+    "compound_english_name": "Picloram",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "137641-05-5",
+    "compound_english_name": "Picolinafen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "117428-22-5",
+    "compound_english_name": "Picoxystrobin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51-03-6",
+    "compound_english_name": "Piperonyl butoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23103-98-2",
+    "compound_english_name": "Pirimicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30614-22-3",
+    "compound_english_name": "Pirimicarb, desmethyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "59333-83-4",
+    "compound_english_name": "Pirimicarb, desmethyl-formamido-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23505-41-1",
+    "compound_english_name": "Pirimiphos-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "29232-93-7",
+    "compound_english_name": "Pirimiphos-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "86209-51-0",
+    "compound_english_name": "Primisulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67747-09-5",
+    "compound_english_name": "Prochloraz",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "32809-16-8",
+    "compound_english_name": "Procymidone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "41198-08-7",
+    "compound_english_name": "Profenofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "88805-35-0",
+    "compound_english_name": "Prohexadione",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2631-37-0",
+    "compound_english_name": "Promecarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1610-18-0",
+    "compound_english_name": "Prometon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7287-19-6",
+    "compound_english_name": "Prometryn",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1918-16-7",
+    "compound_english_name": "Propachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24579-73-5",
+    "compound_english_name": "Propamocarb hydrocloride",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "111479-05-1",
+    "compound_english_name": "Propaquizafop",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2312-35-8",
+    "compound_english_name": "Propargite",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "139-40-2",
+    "compound_english_name": "Propazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "31218-83-4",
+    "compound_english_name": "Propetamphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122-42-9",
+    "compound_english_name": "Propham",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60207-90-1",
+    "compound_english_name": "Propiconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "114-26-1",
+    "compound_english_name": "Propoxur",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "181274-15-7",
+    "compound_english_name": "Propoxycarbazone-sodium",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23950-58-5",
+    "compound_english_name": "Propyzamide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "52888-80-9",
+    "compound_english_name": "Prosulfocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94125-34-5",
+    "compound_english_name": "Prosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "178928-70-6",
+    "compound_english_name": "Prothioconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34643-46-4",
+    "compound_english_name": "Prothiofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "123312-89-0",
+    "compound_english_name": "Pymetrozine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "89784-60-1",
+    "compound_english_name": "Pyraclofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "175013-18-0",
+    "compound_english_name": "Pyraclostrobin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "129630-17-7",
+    "compound_english_name": "Pyraflufen-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13457-18-6",
+    "compound_english_name": "Pyrazophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "96489-71-3",
+    "compound_english_name": "Pyridaben",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "119-12-0",
+    "compound_english_name": "Pyridaphenthion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55512-33-9",
+    "compound_english_name": "Pyridate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "40020-01-7",
+    "compound_english_name": "Pyridat-metabolite (6-Chlor-3-phenyl-pyridazin-4-ol)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "88283-41-4",
+    "compound_english_name": "Pyrifenox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "53112-28-0",
+    "compound_english_name": "Pyrimethanil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "95737-68-1",
+    "compound_english_name": "Pyriproxyfen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13593-03-8",
+    "compound_english_name": "Quinalphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "90717-03-6",
+    "compound_english_name": "Quinmerac",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2797-51-5",
+    "compound_english_name": "Quinoclamine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "124495-18-7",
+    "compound_english_name": "Quinoxyfen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "76578-12-6",
+    "compound_english_name": "Quizalofop",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "76578-14-8",
+    "compound_english_name": "Quizalofop-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94051-08-8",
+    "compound_english_name": "Quizalofop-P",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "10453-86-8",
+    "compound_english_name": "Resmethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122931-48-0",
+    "compound_english_name": "Rimsulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83-79-4",
+    "compound_english_name": "Rotenone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7286-69-3",
+    "compound_english_name": "Sebuthylazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74051-80-2",
+    "compound_english_name": "Sethoxydim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1982-49-6",
+    "compound_english_name": "Siduron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "175217-20-6",
+    "compound_english_name": "Silthiofam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122-34-9",
+    "compound_english_name": "Simazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2599-11-3",
+    "compound_english_name": "Simazine, 2-hydroxy-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1014-70-6",
+    "compound_english_name": "Simetryn",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51218-45-2",
+    "compound_english_name": "S-Metolachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131929-60-7",
+    "compound_english_name": "Spinosyn A",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131929-63-0",
+    "compound_english_name": "Spinosyn D",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "118134-30-8",
+    "compound_english_name": "Spiroxamine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122836-35-5",
+    "compound_english_name": "Sulfentrazone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "74222-97-2",
+    "compound_english_name": "Sulfometuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "141776-32-1",
+    "compound_english_name": "Sulfosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3689-24-5",
+    "compound_english_name": "Sulfotep",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35400-43-2",
+    "compound_english_name": "Sulprofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "102851-06-9",
+    "compound_english_name": "tau-Fluvalinate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "107534-96-3",
+    "compound_english_name": "Tebuconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "112410-23-8",
+    "compound_english_name": "Tebufenozide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "119168-77-3",
+    "compound_english_name": "Tebufenpyrad",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35256-85-0",
+    "compound_english_name": "Tebutam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34014-18-1",
+    "compound_english_name": "Tebuthiuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83121-18-0",
+    "compound_english_name": "Teflubenzuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "79538-32-2",
+    "compound_english_name": "Tefluthrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "107-49-3",
+    "compound_english_name": "TEPP",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "149979-41-9",
+    "compound_english_name": "Tepraloxydim",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5902-51-2",
+    "compound_english_name": "Terbacil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13071-79-9",
+    "compound_english_name": "Terbufos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "33693-04-8",
+    "compound_english_name": "Terbumeton",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5915-41-3",
+    "compound_english_name": "Terbuthylazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30125-63-4",
+    "compound_english_name": "Terbuthylazine, desethyl-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "886-50-0",
+    "compound_english_name": "Terbutryn",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "22248-79-9",
+    "compound_english_name": "Tetrachlorvinphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "112281-77-3",
+    "compound_english_name": "Tetraconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7696-12-0",
+    "compound_english_name": "Tetramethrin [(1R)-isomers]",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "948-71-0",
+    "compound_english_name": "Thiabendazol, 5-hydroxy-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "148-79-8",
+    "compound_english_name": "Thiabendazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "111988-49-9",
+    "compound_english_name": "Thiacloprid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "153719-23-4",
+    "compound_english_name": "Thiamethoxam",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "79277-27-3",
+    "compound_english_name": "Thifensulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "59669-26-0",
+    "compound_english_name": "Thiodicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39196-18-4",
+    "compound_english_name": "Thiofanox",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39184-59-3",
+    "compound_english_name": "Thiofanox-sulfone",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39184-27-5",
+    "compound_english_name": "Thiofanox-sulfoxide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "640-15-3",
+    "compound_english_name": "Thiometon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23564-06-9",
+    "compound_english_name": "Thiophanate (-ethyl)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23564-05-8",
+    "compound_english_name": "Thiophanate-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "57018-04-9",
+    "compound_english_name": "Tolclofos-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "731-27-1",
+    "compound_english_name": "Tolylfluanid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "118712-89-3",
+    "compound_english_name": "Transfluthrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "43121-43-3",
+    "compound_english_name": "Triadimefon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55219-65-3",
+    "compound_english_name": "Triadimenol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2303-17-5",
+    "compound_english_name": "Tri-allate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "82097-50-5",
+    "compound_english_name": "Triasulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "112143-82-5",
+    "compound_english_name": "Triazamate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24017-47-8",
+    "compound_english_name": "Triazophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101200-48-0",
+    "compound_english_name": "Tribenuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "52-68-6",
+    "compound_english_name": "Trichlorfon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55335-06-3",
+    "compound_english_name": "Triclopyr",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "41814-78-2",
+    "compound_english_name": "Tricyclazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "24602-86-6",
+    "compound_english_name": "Tridemorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1912-26-1",
+    "compound_english_name": "Trietazine",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "141517-21-7",
+    "compound_english_name": "Trifloxystrobin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "68694-11-1",
+    "compound_english_name": "Triflumizole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "64628-44-0",
+    "compound_english_name": "Triflumuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "126535-15-7",
+    "compound_english_name": "Triflusulfuron-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "95266-40-3",
+    "compound_english_name": "Trinexapac-ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "13674-87-8",
+    "compound_english_name": "Tris-(1,3-dichloro-isopropyl)-phosphat",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "131983-72-7",
+    "compound_english_name": "Triticonazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "142469-14-5",
+    "compound_english_name": "Tritosulfuron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "83657-22-1",
+    "compound_english_name": "Uniconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2275-23-2",
+    "compound_english_name": "Vamidothion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "305-19-1",
+    "compound_english_name": "Acephate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34256-82-1",
+    "compound_english_name": "Acetochlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "309-00-2",
+    "compound_english_name": "Aldrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "584-79-2",
+    "compound_english_name": "Allethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1861-40-1",
+    "compound_english_name": "Benfluralin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "92-52-4",
+    "compound_english_name": "Biphenyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "70585-36-3",
+    "compound_english_name": "Bitertanol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2104-96-3",
+    "compound_english_name": "Bromophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "18181-80-1",
+    "compound_english_name": "Bromopropylate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2425-06-1",
+    "compound_english_name": "Captafol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "133-06-2",
+    "compound_english_name": "Captan",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1469-48-3",
+    "compound_english_name": "Captan metabolite (Tetrahydrophthalimide)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "90-15-3",
+    "compound_english_name": "Carbaryl metabolite (1-Naphthol)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "103-17-3",
+    "compound_english_name": "Chlorbenside",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5103-71-9",
+    "compound_english_name": "Chlordane",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "122453-73-0",
+    "compound_english_name": "Chlorfenapyr",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "80-33-1",
+    "compound_english_name": "Chlorfenson",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "18708-86-6",
+    "compound_english_name": "Chlorfenvinphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2675-77-6",
+    "compound_english_name": "Chloroneb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5836-10-2",
+    "compound_english_name": "Chloropropylate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1897-45-6",
+    "compound_english_name": "Chlorothalonil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "101-21-3",
+    "compound_english_name": "Chlorpropham",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1861-32-1",
+    "compound_english_name": "Chlorthal-dimethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "84332-86-5",
+    "compound_english_name": "Chlozolinate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "86560-93-2",
+    "compound_english_name": "Cyfluthrin, beta-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67375-30-8",
+    "compound_english_name": "Cypermethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "94361-06-5",
+    "compound_english_name": "Cyproconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "53-19-0",
+    "compound_english_name": "DDD, o,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72-54-8",
+    "compound_english_name": "DDD, p,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3424-82-6",
+    "compound_english_name": "DDE, o,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72-55-9",
+    "compound_english_name": "DDE, p,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "789-02-6",
+    "compound_english_name": "DDT, o,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "50-29-3",
+    "compound_english_name": "DDT, p,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "134-62-3",
+    "compound_english_name": "DEET",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1194-65-6",
+    "compound_english_name": "Dichlobenil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "90-98-2",
+    "compound_english_name": "Dichlorbenzophenone, p,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "95-76-1",
+    "compound_english_name": "Dichloroaniline, 3,4-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "115-32-2",
+    "compound_english_name": "Dicofol, p,p",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "60-57-1",
+    "compound_english_name": "Dieldrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "149961-52-4",
+    "compound_english_name": "Dimoxystrobin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "33213-66-0",
+    "compound_english_name": "Endosulfan, alpha-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "33213-65-9",
+    "compound_english_name": "Endosulfan, beta-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72-20-8",
+    "compound_english_name": "Endrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "133855-98-8",
+    "compound_english_name": "Epoxiconazol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55283-68-6",
+    "compound_english_name": "Ethalfluralin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2593-15-9",
+    "compound_english_name": "Etridiazol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "299-84-3",
+    "compound_english_name": "Fenchlorphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "64257-84-7",
+    "compound_english_name": "Fenpropathrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "80-38-6",
+    "compound_english_name": "Fenson",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "115-90-2",
+    "compound_english_name": "Fensulfothion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "85-41-6",
+    "compound_english_name": "Folpet metabolite (Phthalimide)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2540-82-1",
+    "compound_english_name": "Formothion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "319-84-6",
+    "compound_english_name": "HCH, alpha-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "319-85-7",
+    "compound_english_name": "HCH, beta-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "58-89-9",
+    "compound_english_name": "HCH, delta-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "608-72-1",
+    "compound_english_name": "HCH, gamma (Lindan)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "76-44-8",
+    "compound_english_name": "Heptachlor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "28044-83-9",
+    "compound_english_name": "Heptachlor epoxide, cis-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "118-74-1",
+    "compound_english_name": "Hexachlorobenzene (HCB)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "140923-25-7",
+    "compound_english_name": "Iprovalicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "99675-03-3",
+    "compound_english_name": "Isofenphos-methyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "21609-90-5",
+    "compound_english_name": "Leptophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "57837-19-1",
+    "compound_english_name": "Metalaxyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "62610-77-9",
+    "compound_english_name": "Methacrifos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "30667-99-3",
+    "compound_english_name": "Methoxychlor, o,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "72-43-5",
+    "compound_english_name": "Methoxychlor, p,p-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "338-45-4",
+    "compound_english_name": "Mevinphos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "2385-85-5",
+    "compound_english_name": "Mirex",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1929-82-4",
+    "compound_english_name": "Nitrapyrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1836-75-5",
+    "compound_english_name": "Nitrofen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7012-37-5",
+    "compound_english_name": "PCB 28",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35693-99-3",
+    "compound_english_name": "PCB 52",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "37680-73-2",
+    "compound_english_name": "PCB 101",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35065-28-2",
+    "compound_english_name": "PCB 138",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35065-27-1",
+    "compound_english_name": "PCB 153",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "35065-29-3",
+    "compound_english_name": "PCB 180",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "527-20-8",
+    "compound_english_name": "Pentachloranilin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "106700-29-2",
+    "compound_english_name": "Pethoxamid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51186-88-0",
+    "compound_english_name": "Phenothrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "90-43-7",
+    "compound_english_name": "Phenylphenol, 2-",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "297-99-4",
+    "compound_english_name": "Phosphamidon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "77458-01-6",
+    "compound_english_name": "Pyraclofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "82-68-8",
+    "compound_english_name": "Quintozene (PCNB)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "148477-71-8",
+    "compound_english_name": "Spirodiclofen",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "117-18-0",
+    "compound_english_name": "Tecnazene",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "961-11-5",
+    "compound_english_name": "Tetrachlorvinphos (E,Z)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "116-29-0",
+    "compound_english_name": "Tetradifon",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51384-90-4",
+    "compound_english_name": "Tetramethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "70585-37-4",
+    "compound_english_name": "Triadimenol",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1582-09-8",
+    "compound_english_name": "Trifluralin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "115-86-6",
+    "compound_english_name": "Triphenyl phosphate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "50471-44-8",
+    "compound_english_name": "Vinclozolin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "98730-04-02",
+    "compound_english_name": "Benoxacor",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "321-54-0",
+    "compound_english_name": "Coumaphos O",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "119446",
+    "compound_english_name": "Difenoconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "563-12-12",
+    "compound_english_name": "Ethion",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "66441-23-4",
+    "compound_english_name": "Fenoxaprop ethyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "144171-61-9",
+    "compound_english_name": "Indoxacarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "23031-36-9",
+    "compound_english_name": "Prallethrin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "709-98-8",
+    "compound_english_name": "Propanil",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "8003-34-7",
+    "compound_english_name": "Pyrethrin I",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "34500-43-2",
+    "compound_english_name": "Sulprofos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "11281-77-3",
+    "compound_english_name": "Tetraconazole",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "28249-77-6",
+    "compound_english_name": "Thiobencarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5103-74-2",
+    "compound_english_name": "Chlordane trans",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "959-98-8",
+    "compound_english_name": "Endosulfan I",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1024-57-3 & 28044-83-9",
+    "compound_english_name": "Heptachlor epoxide (cis",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "113-48-4",
+    "compound_english_name": "MGK-264 (isomers 1",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "5103-73-1",
+    "compound_english_name": "Nonachlor cis",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "39765-80-5",
+    "compound_english_name": "Nonachlor trans",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "27304-13-8",
+    "compound_english_name": "Oxychlordane",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "608-93-5",
+    "compound_english_name": "Pentachlorobenzene (PCB)",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  }
+]
