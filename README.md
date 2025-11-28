@@ -16,12 +16,12 @@ Unlike generic spectral libraries, this dataset bridges the gap between **regula
 ## 🚀 Usage
 
 ### Web Application
-Access the interactive viewer here: **[Insert Your Streamlit App Link Here]**
+Access the interactive viewer here: **https://foodsafety-ms-kb.streamlit.app/**
 
 ### Local Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YOUR-USERNAME]/food-safety-kb.git
+   git clone https://github.com/guolin247/FoodSafety-MS-KB.git
 
 2. Install dependencies:
     pip install -r requirements.txt
