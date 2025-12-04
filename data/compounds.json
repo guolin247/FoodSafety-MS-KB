@@ -4100,5 +4100,82 @@
     "formula": null,
     "classification": null,
     "mol_weight": null
+  },
+  {
+    "CAS_number": "023135-22-0",
+    "compound_english_name": "oxamyl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "023103-98-2",
+    "compound_english_name": "pirimicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "000116-06-3",
+    "compound_english_name": "aldicarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "001129-41-5",
+    "compound_english_name": "metolcarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "022781-23-3",
+    "compound_english_name": "bendiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "001563-66-2",
+    "compound_english_name": "carbofuran",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "000063-25-2",
+    "compound_english_name": "carbaryl",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "002631-40-5",
+    "compound_english_name": "isoprocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "087130-20-9",
+    "compound_english_name": "diethofencarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "3766-81-2",
+    "compound_english_name": "fenobucarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "029973-13-5",
+    "compound_english_name": "methiocarb",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
   }
 ]
