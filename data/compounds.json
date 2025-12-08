@@ -4102,6 +4102,132 @@
     "mol_weight": null
   },
   {
+    "CAS_number": "2163-69-1",
+    "compound_english_name": "cycluron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "28805-78-9",
+    "compound_english_name": "isonoruron",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "51596-10-2",
+    "compound_english_name": "Milbemectin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "55297-96-6",
+    "compound_english_name": "Tiamulin-fumarate",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "37764-25-3",
+    "compound_english_name": "Dichlormid",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1491-41-4",
+    "compound_english_name": "Naphthalophos",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "71751-41-2",
+    "compound_english_name": "Abamectin",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "150824-47-8",
+    "compound_english_name": "Nitenpyram",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "165252-70-0",
+    "compound_english_name": "Dinotefuran",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "67564-91-4",
+    "compound_english_name": "Fenpropimorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "136337-81-9",
+    "compound_english_name": "Diafenthiuron-methanimidamide",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "81412-43-3",
+    "compound_english_name": "Tridemorph",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "136337-67-2",
+    "compound_english_name": "Diafenthiuron-urea",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "608-73-1",
+    "compound_english_name": "None",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "319-86-8",
+    "compound_english_name": "None",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "1825-19-0",
+    "compound_english_name": "None",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "7421-93-4",
+    "compound_english_name": "None",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
+    "CAS_number": "53494-70-5",
+    "compound_english_name": "None",
+    "formula": null,
+    "classification": null,
+    "mol_weight": null
+  },
+  {
     "CAS_number": "023135-22-0",
     "compound_english_name": "oxamyl",
     "formula": null,
