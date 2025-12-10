@@ -19,11 +19,14 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    """Load Detection and Method data from JSON files in the 'data' directory."""
+    """
+    Load Detections (L2 Cleaned), Methods, and Compounds (v2) data.
+    Returns: detections (list), methods (list), compounds_map (dict)
+    """
     data_dir = "data"
     
-    # Load Detections
-    d_path = os.path.join(data_dir, 'detections.json')
+    # 1. Load Detections (L2 Cleaned)
+    d_path = os.path.join(data_dir, 'detections.json') # Ensure this file contains L2 data
     try:
         with open(d_path, 'r', encoding='utf-8') as f:
             detections = json.load(f)
@@ -31,27 +34,41 @@ def load_data():
         st.error(f"File not found: {d_path}")
         detections = []
         
-    # Load Methods
-    m_path = os.path.join(data_dir, 'methods.json') # Ensure your file is named methods.json
+    # 2. Load Methods
+    m_path = os.path.join(data_dir, 'methods.json')
     try:
         with open(m_path, 'r', encoding='utf-8') as f:
             methods = json.load(f)
     except FileNotFoundError:
         st.error(f"File not found: {m_path}")
         methods = []
+
+    # 3. Load Compounds (v2 with Metadata)
+    c_path = os.path.join(data_dir, 'compounds.json')
+    compounds_map = {}
+    try:
+        with open(c_path, 'r', encoding='utf-8') as f:
+            compounds_list = json.load(f)
+            # Build a lookup dictionary: CAS -> Compound Record
+            # Also support Name lookup for orphans if needed, but CAS is primary
+            for c in compounds_list:
+                cas = c.get('cas_number')
+                if cas:
+                    compounds_map[cas] = c
+                # Optional: You could also map names if needed
+    except FileNotFoundError:
+        st.warning(f"Compounds metadata not found: {c_path}")
         
-    return detections, methods
+    return detections, methods, compounds_map
 
 @st.cache_data
 def create_method_index(methods_data):
     """
     Build an efficient index for methods.
     Structure: { "Method_ID": { "info": {...}, "runs": { "Run_ID": {...} } } }
-    Allows instant lookup by method_id and run_config_id.
     """
     index = {}
     for m in methods_data:
-        # Extract basic info
         mid_info = m.get('method_identification', {})
         m_id = mid_info.get('method_id')
         
@@ -62,7 +79,6 @@ def create_method_index(methods_data):
             "runs": {}
         }
         
-        # Index all analytical runs under this method
         runs = m.get('analytical_runs', [])
         for r in runs:
             r_id = r.get('run_config_id')
@@ -72,15 +88,18 @@ def create_method_index(methods_data):
     return index
 
 def normalize_ms_data(ms_params_list):
-    """Normalize mass spectrometry parameters for display."""
+    """Normalize mass spectrometry parameters for display (Compatible with L2 data)."""
     if not ms_params_list: return pd.DataFrame()
     clean_rows = []
     for item in ms_params_list:
+        # Handle Collision Energy
         ce_raw = item.get('collision_energy')
         ce_display = "-"
-        # Handle CE if it's a dict (value/unit) or a raw string/number
         if isinstance(ce_raw, dict):
             ce_display = str(ce_raw.get('value', '-'))
+            # Optional: Add unit if exists
+            if ce_raw.get('unit'):
+                ce_display += f" {ce_raw.get('unit')}"
         elif ce_raw is not None:
             ce_display = str(ce_raw)
             
@@ -89,7 +108,7 @@ def normalize_ms_data(ms_params_list):
             "Polarity": item.get('polarity', '-'),
             "Precursor (m/z)": item.get('precursor_mz'),
             "Product (m/z)": item.get('product_mz', '-'),
-            "CE (V)": ce_display,
+            "CE": ce_display,
             "Ion Label": item.get('source_ion_label', '-')
         }
         clean_rows.append(row)
@@ -98,7 +117,7 @@ def normalize_ms_data(ms_params_list):
 # ==========================================
 # 3. Load & Index Data
 # ==========================================
-raw_detections, raw_methods = load_data()
+raw_detections, raw_methods, compounds_map = load_data()
 method_index = create_method_index(raw_methods)
 
 # ==========================================
@@ -107,13 +126,13 @@ method_index = create_method_index(raw_methods)
 with st.sidebar:
     st.title("🎛️ Control Panel")
     
-    # Metrics
     st.metric("Total Detections", len(raw_detections))
+    st.metric("Unique Compounds", len(compounds_map))
     st.metric("Indexed Methods", len(method_index))
     
     st.divider()
     st.info("**Data Sources:**\n\nOfficial Regulatory Standards from China (GB), USA (USDA/FDA), and EU (CEN/EURL).")
-    st.caption("v1.0.0-beta | Data Repository linked to Zenodo")
+    st.caption("v1.1.0 (L2 Data) | Data Repository linked to Zenodo")
 
 # ==========================================
 # 5. Main Interface: Tabs
@@ -121,7 +140,6 @@ with st.sidebar:
 st.title("🧬 Food Safety MS Knowledge Base")
 st.markdown("A structured repository of validated mass spectral parameters extracted from official regulatory documents.")
 
-# Create tabs
 tab_search, tab_browse = st.tabs(["🔍 Search & Analysis", "📂 Browse Database"])
 
 # ------------------------------------------------------------------
@@ -136,7 +154,7 @@ with tab_search:
     
     if query:
         query = query.strip().lower()
-        # Search logic
+        # Search logic: Filter detections list
         results = [
             r for r in raw_detections 
             if query in str(r.get('CAS_number', '')).lower() or query in str(r.get('compound_english_name', '')).lower()
@@ -149,69 +167,90 @@ with tab_search:
                 # Retrieve keys
                 m_id = res.get('method_id')
                 r_id = res.get('run_config_id')
-                cas = res.get('CAS_number') or "N/A"
+                cas = res.get('CAS_number')
                 name = res.get('compound_english_name')
                 
-                # Retrieve context from index
+                # Retrieve Contexts
                 method_context = method_index.get(m_id, {})
                 method_info = method_context.get('info', {})
                 run_details = method_context.get('runs', {}).get(r_id, {})
                 
-                # Card Title
-                with st.expander(f"🧬 **{name}** (CAS: {cas}) | 📜 {m_id}", expanded=(idx==0)):
+                # Retrieve Compound Metadata (from compounds_v2.json)
+                comp_meta = compounds_map.get(cas, {}) if cas else {}
+                
+                # --- Card Title ---
+                # Add Status Badge to title if available
+                status_icon = "✅" if comp_meta.get('status') == 'Verified' else "🤖" if 'LLM' in str(comp_meta.get('cas_source', '')) else "📝"
+                
+                card_label = f"{status_icon} **{name}** (CAS: {cas or 'N/A'}) | 📜 {m_id}"
+                
+                with st.expander(card_label, expanded=(idx==0)):
                     
-                    col_left, col_right = st.columns([1.2, 1])
+                    # Layout: 3 Columns (Chem Info | MS Data | Method Context)
+                    c1, c2, c3 = st.columns([1, 1.5, 1])
                     
-                    # --- Left Column: MS Data ---
-                    with col_left:
+                    # --- Col 1: Chemical Profile (New!) ---
+                    with c1:
+                        st.markdown("##### 🧪 Chemical Profile")
+                        if comp_meta:
+                            props = comp_meta.get('chemical_properties', {})
+                            st.markdown(f"**Formula:** {props.get('molecular_formula') or '-'}")
+                            st.markdown(f"**Mol. Weight:** {props.get('molecular_weight') or '-'}")
+                            st.markdown(f"**PubChem CID:** {props.get('pubchem_cid') or '-'}")
+                            
+                            # Show Source Tag
+                            source_tag = comp_meta.get('cas_source', 'Unknown')
+                            st.caption(f"Identity Source: {source_tag}")
+                            
+                            # Show Synonyms (First 3)
+                            syns = comp_meta.get('synonyms', [])
+                            if syns:
+                                st.caption(f"Synonyms: {', '.join(syns[:3])}...")
+                        else:
+                            st.warning("No extended chemical metadata available.")
+
+                    # --- Col 2: MS Data ---
+                    with c2:
                         st.markdown("##### 📊 Mass Spectrum")
                         st.caption(f"Config: **{r_id}** | Polarity: **{run_details.get('mass_spectrometry_conditions', {}).get('ionization_polarity', 'N/A')}**")
                         
                         df_ms = normalize_ms_data(res.get('mass_spec_params', []))
                         st.dataframe(df_ms, use_container_width=True, hide_index=True)
                         
-                        # Show Retention Time only if available
+                        # Show RT if available
                         perf = res.get('performance_parameters', [])
-                        rt_val = next((p['value'] for p in perf if p['parameter_name'] in ['RT', 'Retention Time']), None)
+                        rt_val = next((p['value'] for p in perf if p.get('parameter_name', '').lower() in ['rt', 'retention time', 'relative_retention_time']), None)
                         if rt_val:
                             st.info(f"🕒 **Retention Time:** {rt_val} min")
 
-                    # --- Right Column: Method Context ---
-                    with col_right:
-                        st.markdown("##### 🧪 Method Context")
+                    # --- Col 3: Method Context ---
+                    with c3:
+                        st.markdown("##### 🔬 Method Context")
                         
                         if not run_details:
-                            st.warning(f"Method details for {m_id} / {r_id} not found in metadata.")
+                            st.warning("Method details missing.")
                         else:
-                            # 1. Instrument & Column
                             chrom = run_details.get('chromatography_conditions', {})
                             ms_cond = run_details.get('mass_spectrometry_conditions', {})
                             
-                            st.markdown(f"""
-                            - **Instrument:** {chrom.get('instrument_model', '-')} / {ms_cond.get('ms_instrument_model', '-')}
-                            - **Column:** {chrom.get('column_model', '-')} ({chrom.get('column_type', '-')})
-                            - **Mobile Phase:** {chrom.get('mobile_phase_composition', '-')}
-                            - **Ion Mode:** {ms_cond.get('ionization_mode', '-')}
-                            """)
+                            # Mini Table style
+                            st.markdown(f"**Instrument:** {chrom.get('instrument_model', '-')} / {ms_cond.get('ms_instrument_model', '-')}")
+                            st.markdown(f"**Column:** {chrom.get('column_model', '-')}")
+                            st.markdown(f"**Mobile Phase:** {chrom.get('mobile_phase_composition', '-')}")
                             
-                            # 2. Sample Preparation (Popover)
+                            # Popovers for heavy text
                             prep = run_details.get('sample_preparation', {})
-                            with st.popover("View Sample Preparation"):
+                            with st.popover("Sample Prep Details"):
                                 st.markdown(f"**Extraction:** {prep.get('extraction_solvent', '-')}")
                                 st.markdown(f"**Cleanup:** {prep.get('cleanup_method', '-')}")
                                 st.markdown(f"**Details:** {prep.get('other_information', '-')}")
                             
-                            # 3. Gradient (Popover)
-                            with st.popover("View Gradient Program"):
-                                st.code(chrom.get('gradient_profile', 'No gradient info available.'))
-                                
-                            # 4. Agency
-                            st.caption(f"Issuing Agency: {method_info.get('issuing_agency', '-')}")
+                            st.caption(f"Agency: {method_info.get('issuing_agency', '-')}")
 
         else:
-            st.warning("No results found. Try entering a generic name (e.g., 'Aflatoxin') or a specific CAS number.")
+            st.warning("No records found.")
     else:
-        st.info("Enter a compound name or CAS number to view validated MS parameters and method details.")
+        st.info("Enter keyword to search.")
 
 # ------------------------------------------------------------------
 # TAB 2: Browse Functionality
@@ -219,30 +258,22 @@ with tab_search:
 with tab_browse:
     st.markdown("#### 📂 Database Overview")
     
-    # 1. Convert detections to DataFrame for preview
+    # 1. Flatten detections for preview
     preview_data = []
     for d in raw_detections:
         preview_data.append({
             "Method": d.get('method_id'),
             "Compound": d.get('compound_english_name'),
             "CAS": d.get('CAS_number'),
-            "Config": d.get('run_config_id')
+            "Source": d.get('_source_file', 'N/A') # Show file source
         })
     df_preview = pd.DataFrame(preview_data)
     
     # 2. Filters
-    col_filter1, col_filter2 = st.columns(2)
-    with col_filter1:
-        filter_method = st.multiselect("Filter by Standard", df_preview['Method'].unique())
+    methods_list = df_preview['Method'].unique().tolist()
+    filter_method = st.multiselect("Filter by Standard", methods_list)
     
-    # Apply Filter
     if filter_method:
         df_preview = df_preview[df_preview['Method'].isin(filter_method)]
         
-    # 3. Display Table
-    st.dataframe(
-        df_preview, 
-        use_container_width=True, 
-        hide_index=True,
-        height=600
-    )
+    st.dataframe(df_preview, use_container_width=True, hide_index=True, height=600)
