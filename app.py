@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import os
+import gc
 
 # ==========================================
 # 1. Global Configuration
@@ -17,7 +18,7 @@ st.set_page_config(
 # 2. Core Data Processing Functions
 # ==========================================
 
-@st.cache_data
+@st.cache_resource(ttl="6h", show_spinner="Loading Knowledge Base...")
 def load_data():
     """
     Load Detections (L2), Methods (L2), and Compounds (v2).
@@ -46,35 +47,28 @@ def load_data():
     # 3. Load Compounds
     c_path = os.path.join(data_dir, 'compounds.json')
     compounds_map = {}
-    compounds_list = [] # 用于统计总数
+    compounds_list = [] 
     try:
         with open(c_path, 'r', encoding='utf-8') as f:
             compounds_list = json.load(f)
-            for c in compounds_list:
-                # 建立 CAS 映射方便查找
-                cas = c.get('cas_number')
-                if cas: compounds_map[cas] = c
-                # 也可以考虑建立 Name 映射作为备用
-                # name = c.get('preferred_name')
-                # if name: compounds_map[name.lower()] = c 
+            # 优化：使用字典推导式，速度稍快且内存分配更紧凑
+            compounds_map = {c['cas_number']: c for c in compounds_list if c.get('cas_number')}
     except FileNotFoundError:
         pass 
     
-    # --- 4. Calculate Statistics (新增逻辑) ---
-    # Metric 1: Total Transitions (离子对总数)
-    total_transitions = 0
-    for d in detections:
-        ms_params = d.get('mass_spec_params', [])
-        if isinstance(ms_params, list):
-            total_transitions += len(ms_params)
-            
-    # Metric 2: Total Compounds (无论有无CAS)
+    # --- 4. Calculate Statistics ---
+    # 优化：生成器表达式求和，比创建列表更省内存
+    total_transitions = sum(len(d.get('mass_spec_params', [])) for d in detections)
     total_compounds = len(compounds_list)
     
     stats = {
         "transitions": total_transitions,
         "compounds": total_compounds
     }
+    
+    # <--- 关键修改：手动触发垃圾回收 --->
+    # 清理在 JSON 加载过程中产生的临时字符串和对象
+    gc.collect()
         
     return detections, methods, compounds_map, stats
 
