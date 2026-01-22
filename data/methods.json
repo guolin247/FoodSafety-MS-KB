@@ -55,7 +55,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µL",
+          "injection_volume": "1 μL",
           "wash_cycles_description": "Needle Level: 0.20 mm; Wash Time: 30 sec",
           "wash_solvent": null,
           "column_type": "Kinetex core-shell C18 column",
@@ -63,7 +63,7 @@
           "column_model": "00B-4475-Y0",
           "stationary_phase_support": "core-shell",
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "3 mm",
@@ -112,7 +112,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "MRM Detection Window: 30 sec; Target Scan Time: 1 sec; Settling Time: 20.0000 msec; Collision Gas: Medium. Scan parameters are detailed in Tables 29 and 30."
-        }
+        },
+        "aug_matrix_tags": [
+          "Egg",
+          "Fish",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "A: uhplc aqueous (0.1% FA in H2O); B: uhplc organic (0.1% FA in ACN)",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "SCIEX QTrap 6500+"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -158,7 +170,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µL",
+          "injection_volume": "1 μL",
           "wash_cycles_description": "Needle Level: 0.20 mm; Wash Time: 30 sec",
           "wash_solvent": null,
           "column_type": "Kinetex core-shell C18 column",
@@ -166,7 +178,7 @@
           "column_model": "00B-4475-Y0",
           "stationary_phase_support": "core-shell",
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "3 mm",
@@ -215,7 +227,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "MRM Detection Window: 20 sec; Target Scan Time: 1 sec; Settling Time: 20.0000 msec; Collision Gas: Medium. Scan parameters are detailed in Tables 31 and 32."
-        }
+        },
+        "aug_matrix_tags": [
+          "Egg",
+          "Fish",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "A: uhplc aqueous (0.1% FA in H2O); B: uhplc organic (0.1% FA in ACN)",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "SCIEX 7500 QTrap Activated"
       }
     ]
   },
@@ -275,7 +299,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µL for muscle samples, 2 µL for egg samples",
+          "injection_volume": "1 μL for muscle samples, 2 μL for egg samples",
           "wash_cycles_description": null,
           "wash_solvent": "Weak Wash: 10% methanol in water. Strong Wash: 0.5% formic acid in 1:1:1:1 acetonitrile: methanol: isopropanol: water.",
           "column_type": "Analytical column with a pre-column",
@@ -283,7 +307,7 @@
           "column_model": "UPLC HSS T3 (pre-column: VanGuard Pre-column UPLC HSS T3)",
           "stationary_phase_support": null,
           "stationary_phase_coating": "HSS T3",
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -332,7 +356,21 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Desolvation Temperature: 350 °C; Collision Gas Flow: 0.25 mL/min; Extractor: 3.0 V. MRM transitions for 69 compounds are defined in Table 14."
-        }
+        },
+        "aug_matrix_tags": [
+          "Egg",
+          "Fish",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "phase A: 5 mm NH4Ac in 0.1% FA in H2O (v/v); phase B: 0.1% FA in MeOH (v/v)",
+        "aug_prep_steps": [
+          "Ext: EtOAc",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Waters Xevo TQ-S micro Mass Spectrometer"
       },
       {
         "run_config_id": "GC-MS/MS-001",
@@ -378,7 +416,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µL for muscle samples, 2 µL for egg",
+          "injection_volume": "1 μL for muscle samples, 2 μL for egg",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Two columns used in series",
@@ -388,7 +426,7 @@
           "stationary_phase_coating": "HP-5MS",
           "particle_size": null,
           "pore_size": null,
-          "coating_thickness": "0.25 µm",
+          "coating_thickness": "0.25 μm",
           "column_internal_diameter": "0.25 mm",
           "column_length": "15 m (two columns are used in series)",
           "sample_resuspension_solvent": null,
@@ -435,7 +473,21 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Detector EMV: 1352 V; Collision Gas: Nitrogen @ 1.5 mL/Min; Transfer line temperature: 300 °C. MRM transitions for 37 compounds are defined in Table 15."
-        }
+        },
+        "aug_matrix_tags": [
+          "Egg",
+          "Fish",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "carrier gas: helium",
+        "aug_prep_steps": [
+          "Ext: EtOAc",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Agilent 7010 GC Quadrupole Mass Spectrometer"
       }
     ]
   },
@@ -552,7 +604,14 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain gas: nitrogen, 35 psi (241 kPa); Collision gas: nitrogen, 2 arbitrary units; Dwell time: 25 ms; Focusing potential: 360 V. For API 3000® or API 4000® instruments, the declustering potential (DP) values should be increased by 20 V. Analyte-specific parameters (Q1 Mass, Q3 Mass, Declustering potential, Collision energy) for 497 analytes are provided in the document tables."
-        }
+        },
+        "aug_matrix_tags": [],
+        "aug_mobile_phase_short": "A: MeOH/H2O 2+8 (v/v) with 5 mmol/l NH4Fm; B: MeOH/H2O 9+1 (v/v) with 5 mmol/l NH4Fm.",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE"
+        ],
+        "aug_instrument_tag": "Applied Biosystems API 2000®"
       }
     ]
   },
@@ -560,7 +619,7 @@
     "method_identification": {
       "key": "method_identification",
       "description": "Method identification information",
-      "method_id": "CEN/TR 16699:2014 E",
+      "method_id": "CEN/TR 16699",
       "method_name": "Foodstuffs - Determination of pesticide residues by GC-MS/MS - Tandem mass spectrometric parameters",
       "issuing_country": null,
       "issuing_agency": "EUROPEAN COMMITTEE FOR STANDARDIZATION (CEN)",
@@ -679,7 +738,15 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "All MS/MS transitions were obtained with electron impact ionization at 70 eV. The report provides a comprehensive list (Table 2) of analyte-specific MS/MS transitions (precursor ion → product ion) and associated collision energy (CE) categories (low, medium, high) for a large number of pesticides. The voltage ranges for these CE categories are defined for various instrument models in Table 1."
-        }
+        },
+        "aug_matrix_tags": [
+          "Fat"
+        ],
+        "aug_mobile_phase_short": null,
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "Waters Agilent 7000 Series, Bruker SCION TQ, Thermo Quantum, Varian 1200 (L), Waters Quattro micro"
       }
     ]
   },
@@ -701,22 +768,22 @@
           "source": null,
           "partNature": "fruit juice, vegetable juice, fruit wine",
           "scientificNames": null,
-          "other_information": "本标准规定了橙汁、苹果汁、葡萄汁、白菜汁、胡萝卜汁、干酒、半干酒、半甜酒、甜酒中512种农药及相关化学品残留量液相色谱-质谱测定方法。本标准适用于定性鉴别及490种农药的定量测定，其它果蔬汁、果酒可参照执行。"
+          "other_information": "本标准规定了橙汁、苹果汁、葡萄汁、白菜汁、胡萝卜汁、干酒、半干酒、半甜酒、甜酒中512种农药及相关化学品残留量液相色谱-质谱测定方法。本标准适用于定性鉴别及490种农药的定量测定,其它果蔬汁、果酒可参照执行。"
         },
         "sample_preparation": {
           "biological_replicate_count": null,
           "analytical_replicate_count": 2,
           "harvesting_method_type": null,
-          "tissue_freezing_method": "将试样于-18℃冷冻保存。",
+          "tissue_freezing_method": "将试样于-18°C冷冻保存。",
           "tissue_wash_method": null,
           "time_to_freezing": null,
           "collection_temperature": null,
           "biofluid_collection_method": null,
           "anticoagulant_used": null,
           "centrifugation_conditions": "4200 r/min, 5 min",
-          "tissue_processing_method": "浓缩果蔬汁样品，将取得的全部原始样品倒入洁净的搪瓷混样桶内，充分搅拌混匀。",
-          "homogenization_method": "在涡旋混合器上涡旋2min，振荡1min，再振荡2min。",
-          "pre_extraction_storage_temp": "-18℃",
+          "tissue_processing_method": "浓缩果蔬汁样品,将取得的全部原始样品倒入洁净的搪瓷混样桶内,充分搅拌混匀。",
+          "homogenization_method": "在涡旋混合器上涡旋2min,振荡1min,再振荡2min。",
+          "pre_extraction_storage_temp": "-18°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "1%醋酸乙腈溶液",
@@ -724,14 +791,14 @@
           "extraction_replicates": 1,
           "extraction_time": null,
           "extraction_degassed_solvents": null,
-          "concentration_process": "在40℃水浴中旋转浓缩至约0.5mL，于35℃下氮气吹干。",
+          "concentration_process": "在40°C水浴中旋转浓缩至约0.5mL,于35°C下氮气吹干。",
           "resolubilization_solvent": "1 mL 乙腈-水溶液",
           "enrichment_method": "SPE",
-          "spe_details": "Waters Sep-Pak Vac 氨基固相萃取柱 (6mL, 1g)。用5mL乙腈-甲苯溶液预洗柱，用25mL乙腈-甲苯溶液洗脱。",
-          "cleanup_method": "在SPE柱中加入约2cm高无水硫酸钠进行净化；净化液通过0.2µm微孔滤膜过滤。",
+          "spe_details": "Waters Sep-Pak Vac 氨基固相萃取柱 (6mL, 1g)。用5mL乙腈-甲苯溶液预洗柱,用25mL乙腈-甲苯溶液洗脱。",
+          "cleanup_method": "在SPE柱中加入约2cm高无水硫酸钠进行净化;净化液通过0.2μm微孔滤膜过滤。",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "称取15g试样（果酒为15mL）。提取过程中依次加入1.5g无水醋酸钠和6g无水硫酸镁。"
+          "other_information": "称取15g试样(果酒为15mL)。提取过程中依次加入1.5g无水醋酸钠和6g无水硫酸镁。"
         },
         "chromatography_conditions": {
           "instrument_manufacturer": null,
@@ -739,7 +806,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10µL",
+          "injection_volume": "10μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": null,
@@ -747,7 +814,7 @@
           "column_model": "SB-C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "3.5µm",
+          "particle_size": "3.5μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -762,10 +829,10 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "流动相A: 0.1%甲酸水; 流动相B: 乙腈",
-          "flow_rate": "400 µL/min",
+          "flow_rate": "400 μL/min",
           "column_pressure": null,
           "gradient_profile": "0 min, 1.0% B; 3.00 min, 30.0% B; 6.00 min, 40.0% B; 9.00 min, 40.0% B; 15.00 min, 60.0% B; 19.00 min, 99.0% B; 23.00 min, 99.0% B; 23.01 min, 1.0% B; 总时长24分钟。",
-          "other_information": "柱温: 40℃。此配置用于A、B、C、D、E、F组农药的测定。"
+          "other_information": "柱温: 40°C。此配置用于A、B、C、D、E、F组农药的测定。"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": null,
@@ -780,7 +847,7 @@
           "capillary_voltage": "4000V",
           "nebulization_gas_flow": "10L/min",
           "cone_gas_flow": null,
-          "source_temperature": "350℃",
+          "source_temperature": "350°C",
           "mass_analyzer_type": "串联质谱",
           "ms_acquisition_mode": "多反应监测 (MRM)",
           "internal_calibrants_added": null,
@@ -796,7 +863,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "雾化气: 氮气; 雾化气压力: 0.28MPa; 监测离子对、碰撞气能量和源内碎裂电压参见附录B。"
-        }
+        },
+        "aug_matrix_tags": [
+          "Fruit",
+          "Vegetable"
+        ],
+        "aug_mobile_phase_short": "流动相A: 0.1%甲酸水; 流动相B: 乙腈",
+        "aug_prep_steps": [
+          "Extraction",
+          "SPE"
+        ],
+        "aug_instrument_tag": "None 串联质谱仪"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -804,22 +881,22 @@
           "source": null,
           "partNature": "fruit juice, vegetable juice, fruit wine",
           "scientificNames": null,
-          "other_information": "本标准规定了橙汁、苹果汁、葡萄汁、白菜汁、胡萝卜汁、干酒、半干酒、半甜酒、甜酒中512种农药及相关化学品残留量液相色谱-质谱测定方法。本标准适用于定性鉴别及490种农药的定量测定，其它果蔬汁、果酒可参照执行。"
+          "other_information": "本标准规定了橙汁、苹果汁、葡萄汁、白菜汁、胡萝卜汁、干酒、半干酒、半甜酒、甜酒中512种农药及相关化学品残留量液相色谱-质谱测定方法。本标准适用于定性鉴别及490种农药的定量测定,其它果蔬汁、果酒可参照执行。"
         },
         "sample_preparation": {
           "biological_replicate_count": null,
           "analytical_replicate_count": 2,
           "harvesting_method_type": null,
-          "tissue_freezing_method": "将试样于-18℃冷冻保存。",
+          "tissue_freezing_method": "将试样于-18°C冷冻保存。",
           "tissue_wash_method": null,
           "time_to_freezing": null,
           "collection_temperature": null,
           "biofluid_collection_method": null,
           "anticoagulant_used": null,
           "centrifugation_conditions": "4200 r/min, 5 min",
-          "tissue_processing_method": "浓缩果蔬汁样品，将取得的全部原始样品倒入洁净的搪瓷混样桶内，充分搅拌混匀。",
-          "homogenization_method": "在涡旋混合器上涡旋2min，振荡1min，再振荡2min。",
-          "pre_extraction_storage_temp": "-18℃",
+          "tissue_processing_method": "浓缩果蔬汁样品,将取得的全部原始样品倒入洁净的搪瓷混样桶内,充分搅拌混匀。",
+          "homogenization_method": "在涡旋混合器上涡旋2min,振荡1min,再振荡2min。",
+          "pre_extraction_storage_temp": "-18°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "1%醋酸乙腈溶液",
@@ -827,14 +904,14 @@
           "extraction_replicates": 1,
           "extraction_time": null,
           "extraction_degassed_solvents": null,
-          "concentration_process": "在40℃水浴中旋转浓缩至约0.5mL，于35℃下氮气吹干。",
+          "concentration_process": "在40°C水浴中旋转浓缩至约0.5mL,于35°C下氮气吹干。",
           "resolubilization_solvent": "1 mL 乙腈-水溶液",
           "enrichment_method": "SPE",
-          "spe_details": "Waters Sep-Pak Vac 氨基固相萃取柱 (6mL, 1g)。用5mL乙腈-甲苯溶液预洗柱，用25mL乙腈-甲苯溶液洗脱。",
-          "cleanup_method": "在SPE柱中加入约2cm高无水硫酸钠进行净化；净化液通过0.2µm微孔滤膜过滤。",
+          "spe_details": "Waters Sep-Pak Vac 氨基固相萃取柱 (6mL, 1g)。用5mL乙腈-甲苯溶液预洗柱,用25mL乙腈-甲苯溶液洗脱。",
+          "cleanup_method": "在SPE柱中加入约2cm高无水硫酸钠进行净化;净化液通过0.2μm微孔滤膜过滤。",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "称取15g试样（果酒为15mL）。提取过程中依次加入1.5g无水醋酸钠和6g无水硫酸镁。"
+          "other_information": "称取15g试样(果酒为15mL)。提取过程中依次加入1.5g无水醋酸钠和6g无水硫酸镁。"
         },
         "chromatography_conditions": {
           "instrument_manufacturer": null,
@@ -842,7 +919,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µL",
+          "injection_volume": "10 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": null,
@@ -850,7 +927,7 @@
           "column_model": "SB-C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -865,10 +942,10 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "流动相A: 5mmol/L 乙酸铵水; 流动相B: 乙腈",
-          "flow_rate": "400 µL/min",
+          "flow_rate": "400 μL/min",
           "column_pressure": null,
           "gradient_profile": "0 min, 1.0% B; 3.00 min, 30.0% B; 6.00 min, 40.0% B; 9.00 min, 40.0% B; 15.00 min, 60.0% B; 19.00 min, 99.0% B; 23.00 min, 99.0% B; 23.01 min, 1.0% B; 总时长24分钟。",
-          "other_information": "柱温: 40℃。此配置用于G组农药的测定。"
+          "other_information": "柱温: 40°C。此配置用于G组农药的测定。"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": null,
@@ -883,7 +960,7 @@
           "capillary_voltage": "4000V",
           "nebulization_gas_flow": "10 L/min",
           "cone_gas_flow": null,
-          "source_temperature": "350℃",
+          "source_temperature": "350°C",
           "mass_analyzer_type": "串联质谱",
           "ms_acquisition_mode": "多反应监测 (MRM)",
           "internal_calibrants_added": null,
@@ -899,7 +976,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "雾化气: 氮气; 雾化气压力: 0.28 MPa; 监测离子对、碰撞气能量和源内碎裂电压参见附录B。"
-        }
+        },
+        "aug_matrix_tags": [
+          "Fruit",
+          "Vegetable"
+        ],
+        "aug_mobile_phase_short": "流动相A: 5mmol/l 乙酸铵水; 流动相B: 乙腈",
+        "aug_prep_steps": [
+          "Extraction",
+          "SPE"
+        ],
+        "aug_instrument_tag": "None 串联质谱仪"
       }
     ]
   },
@@ -936,7 +1023,7 @@
           "centrifugation_conditions": "奶粉: 4200 r/min, 5 min; 牛奶: 4200 r/min, 8 min",
           "tissue_processing_method": null,
           "homogenization_method": "奶粉: 均质器, 15000 r/min, 1 min; 牛奶: 振荡器, 剧烈振荡10 min",
-          "pre_extraction_storage_temp": "奶粉: 常温; 牛奶: 0℃~4℃",
+          "pre_extraction_storage_temp": "奶粉: 常温; 牛奶: 0°C~4°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "乙腈",
@@ -944,14 +1031,14 @@
           "extraction_replicates": 2,
           "extraction_time": "奶粉: 1 min; 牛奶: 10 min",
           "extraction_degassed_solvents": null,
-          "concentration_process": "于40℃水浴旋转蒸发至约1 mL, 随后于45℃下用氮气吹干",
+          "concentration_process": "于40°C水浴旋转蒸发至约1 mL, 随后于45°C下用氮气吹干",
           "resolubilization_solvent": "乙腈+水 (3+2, 体积比)",
           "enrichment_method": "固相萃取 (SPE)",
           "spe_details": "SPE柱: ENVITM-18 (SUPELCO), 12 mL, 2000 mg; 活化: 10 mL 乙腈; 洗脱: 10 mL 乙腈",
-          "cleanup_method": "样品提取物经0.2 µm微孔滤膜过滤",
+          "cleanup_method": "样品提取物经0.2 μm微孔滤膜过滤",
           "extract_storage_conditions": "基质混合标准工作溶液应现用现配",
           "extract_shipping_details": null,
-          "other_information": "提取过程区分奶粉和牛奶。奶粉: 称取3.0 g样品,加入20 mL乙腈和4 g硫酸镁进行提取。牛奶: 量取10 mL样品, 加入20 mL乙腈、4 g硫酸镁和1 g氯化钠进行提取。两次提取，合并上清液。"
+          "other_information": "提取过程区分奶粉和牛奶。奶粉: 称取3.0 g样品,加入20 mL乙腈和4 g硫酸镁进行提取。牛奶: 量取10 mL样品, 加入20 mL乙腈、4 g硫酸镁和1 g氯化钠进行提取。两次提取,合并上清液。"
         },
         "chromatography_conditions": {
           "instrument_manufacturer": null,
@@ -967,7 +1054,7 @@
           "column_model": "ZORBAX SB-C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -982,10 +1069,10 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "A: 0.1%甲酸水溶液, B: 乙腈",
-          "flow_rate": "400 µL/min",
+          "flow_rate": "400 μL/min",
           "column_pressure": null,
           "gradient_profile": "时间(min)-%B: (0.00, 1.0), (3.00, 30.0), (6.00, 40.0), (9.00, 40.0), (15.00, 60.0), (19.00, 99.0), (23.00, 99.0), (23.01, 1.0)",
-          "other_information": "柱温: 40 ℃。此条件适用于A、B、C、D、E、F组农药的分析。"
+          "other_information": "柱温: 40 °C。此条件适用于A、B、C、D、E、F组农药的分析。"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": null,
@@ -1000,7 +1087,7 @@
           "capillary_voltage": "4000 V",
           "nebulization_gas_flow": "0.28 MPa",
           "cone_gas_flow": null,
-          "source_temperature": "350 ℃",
+          "source_temperature": "350 °C",
           "mass_analyzer_type": "串联质谱",
           "ms_acquisition_mode": "多反应监测 (MRM)",
           "internal_calibrants_added": null,
@@ -1016,7 +1103,14 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "雾化气: 氮气; 干燥气流速: 10 L/min; 监测离子对、碰撞气能量和源内碎裂电压参见附录B。"
-        }
+        },
+        "aug_matrix_tags": [],
+        "aug_mobile_phase_short": "A: 0.1%甲酸水溶液, B: 乙腈",
+        "aug_prep_steps": [
+          "Extraction",
+          "SPE"
+        ],
+        "aug_instrument_tag": "None 串联质谱仪"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -1039,7 +1133,7 @@
           "centrifugation_conditions": "奶粉: 4200 r/min, 5 min; 牛奶: 4200 r/min, 8 min",
           "tissue_processing_method": null,
           "homogenization_method": "奶粉: 均质器, 15000 r/min, 1 min; 牛奶: 振荡器, 剧烈振荡10 min",
-          "pre_extraction_storage_temp": "奶粉: 常温; 牛奶: 0℃~4℃",
+          "pre_extraction_storage_temp": "奶粉: 常温; 牛奶: 0°C~4°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "乙腈",
@@ -1047,14 +1141,14 @@
           "extraction_replicates": 2,
           "extraction_time": "奶粉: 1 min; 牛奶: 10 min",
           "extraction_degassed_solvents": null,
-          "concentration_process": "于40℃水浴旋转蒸发至约1 mL, 随后于45℃下用氮气吹干",
+          "concentration_process": "于40°C水浴旋转蒸发至约1 mL, 随后于45°C下用氮气吹干",
           "resolubilization_solvent": "乙腈+水 (3+2, 体积比)",
           "enrichment_method": "固相萃取 (SPE)",
           "spe_details": "SPE柱: ENVITM-18 (SUPELCO), 12 mL, 2000 mg; 活化: 10 mL 乙腈; 洗脱: 10 mL 乙腈",
-          "cleanup_method": "样品提取物经0.2 µm微孔滤膜过滤后进行分析",
+          "cleanup_method": "样品提取物经0.2 μm微孔滤膜过滤后进行分析",
           "extract_storage_conditions": "基质混合标准工作溶液应现用现配",
           "extract_shipping_details": null,
-          "other_information": "提取过程区分奶粉和牛奶。奶粉: 称取3.0 g样品,加入20 mL乙腈和4 g硫酸镁进行提取。牛奶: 量取10 mL样品, 加入20 mL乙腈、4 g硫酸镁和1 g氯化钠进行提取。两次提取，合并上清液。"
+          "other_information": "提取过程区分奶粉和牛奶。奶粉: 称取3.0 g样品,加入20 mL乙腈和4 g硫酸镁进行提取。牛奶: 量取10 mL样品, 加入20 mL乙腈、4 g硫酸镁和1 g氯化钠进行提取。两次提取,合并上清液。"
         },
         "chromatography_conditions": {
           "instrument_manufacturer": null,
@@ -1070,7 +1164,7 @@
           "column_model": "ZORBAX SB-C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -1085,10 +1179,10 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "A: 5 mmol/L乙酸铵水溶液, B: 乙腈",
-          "flow_rate": "400 µL/min",
+          "flow_rate": "400 μL/min",
           "column_pressure": null,
           "gradient_profile": "时间(min)-%B: (0.00, 1.0), (3.00, 30.0), (6.00, 40.0), (9.00, 40.0), (15.00, 60.0), (19.00, 99.0), (23.00, 99.0), (23.01, 1.0)",
-          "other_information": "柱温: 40 ℃。此条件适用于G组农药的分析。"
+          "other_information": "柱温: 40 °C。此条件适用于G组农药的分析。"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": null,
@@ -1103,7 +1197,7 @@
           "capillary_voltage": "4000 V",
           "nebulization_gas_flow": "0.28 MPa",
           "cone_gas_flow": null,
-          "source_temperature": "350 ℃",
+          "source_temperature": "350 °C",
           "mass_analyzer_type": "串联质谱",
           "ms_acquisition_mode": "多反应监测 (MRM)",
           "internal_calibrants_added": null,
@@ -1119,7 +1213,14 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "雾化气: 氮气; 干燥气流速: 10 L/min; 监测离子对、碰撞气能量和源内碎裂电压参见附录B。"
-        }
+        },
+        "aug_matrix_tags": [],
+        "aug_mobile_phase_short": "A: 5 mmol/l乙酸铵水溶液, B: 乙腈",
+        "aug_prep_steps": [
+          "Extraction",
+          "SPE"
+        ],
+        "aug_instrument_tag": "None 串联质谱仪"
       }
     ]
   },
@@ -1164,14 +1265,14 @@
           "extraction_replicates": null,
           "extraction_time": "30 min",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Dilution (200 µl extract + 20 µl mixed ISTD solution + 180 µl water)",
+          "concentration_process": "Dilution (200 μl extract + 20 μl mixed ISTD solution + 180 μl water)",
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": null,
           "cleanup_method": "Salt-induced phase partitioning with Magnesium sulfate (0.5 g per ml of total water)",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "Turbid extracts can be filtered using a syringe filter or centrifuge filter (0.20 µm to 0.45 µm, nylon or PTFE)."
+          "other_information": "Turbid extracts can be filtered using a syringe filter or centrifuge filter (0.20 μm to 0.45 μm, nylon or PTFE)."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Waters",
@@ -1179,7 +1280,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "2 µl",
+          "injection_volume": "2 μl",
           "wash_cycles_description": null,
           "wash_solvent": "Solvent injection (extraction solution and water 1+1, v+v)",
           "column_type": "Analytical column",
@@ -1187,7 +1288,7 @@
           "column_model": "HSS T3",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -1236,7 +1337,15 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Scheduled MRM: No; Settling time: 30 ms; MR pause: 5 ms; MCA: No; Step Size: 0 Da; Collision gas (CAD): medium; Ion Source Gas 2 (GS2): 50; Entrance Potential (EP): 10/-10; Dwell time: 5 ms."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: H2O w/ 0,1 % FA and 300 mg/l NH4Fm; B: MeOH w/ 0,1 % FA and 300 mg/l NH4Fm",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "SCIEX 6500 Qtrap"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -1267,14 +1376,14 @@
           "extraction_replicates": null,
           "extraction_time": "30 min",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Dilution (200 µl extract + 20 µl mixed ISTD solution + 180 µl water)",
+          "concentration_process": "Dilution (200 μl extract + 20 μl mixed ISTD solution + 180 μl water)",
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": null,
           "cleanup_method": "Salt-induced phase partitioning with Magnesium sulfate (0.5 g per ml of total water)",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "Turbid extracts can be filtered using a syringe filter or centrifuge filter (0.20 µm to 0.45 µm, nylon or PTFE)."
+          "other_information": "Turbid extracts can be filtered using a syringe filter or centrifuge filter (0.20 μm to 0.45 μm, nylon or PTFE)."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Agilent",
@@ -1282,7 +1391,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": "Solvent injection (extraction solution and water 1+1, v+v)",
           "column_type": "Analytical column",
@@ -1290,7 +1399,7 @@
           "column_model": "NUCLEOSHELL RP18plus",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "2.7 µm",
+          "particle_size": "2.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2 mm",
@@ -1339,7 +1448,15 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "gas flow: 18 l/min; nebulizer: 25 psi; sheath gas temp: 350°C; sheath gas flow: 11 l/min; Fragmentor: 380 V; Cell Accelerator Voltage: 4 V"
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: H2O w/ 0,1 % FA and 5 mmol/l NH4Fm; B: MeOH w/ 0,1 % FA and 5 mmol/l NH4Fm",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "Agilent 6490 MS-MS"
       }
     ]
   },
@@ -1385,21 +1502,21 @@
           "extraction_time": "60 min",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate a 5 ml aliquot of filtered extract to dryness under nitrogen at 40 °C; Evaporate SPE eluate to dryness under nitrogen at 40 °C",
-          "resolubilization_solvent": "Initial reconstitution: 100 µl methanol then 900 µl water; Final reconstitution: 400 µl HPLC injection solvent",
+          "resolubilization_solvent": "Initial reconstitution: 100 μl methanol then 900 μl water; Final reconstitution: 400 μl HPLC injection solvent",
           "enrichment_method": "Solid phase extraction (SPE)",
           "spe_details": "Solid phase extraction (SPE) columns containing 60 mg of a balanced hydrophilic/lipophilic polymer (e.g., Waters Oasis® HLB); Conditioned with 2 ml methanol and 2 ml water; Eluted with 1 ml methanol",
-          "cleanup_method": "Filter through a paper filter (20 µm to 25 µm); Pass 1 ml reconstituted extract through SPE column; Wash with 1 ml water",
+          "cleanup_method": "Filter through a paper filter (20 μm to 25 μm); Pass 1 ml reconstituted extract through SPE column; Wash with 1 ml water",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "100 µl of mixed ISTD solution is added to the SPE eluate before final evaporation."
+          "other_information": "100 μl of mixed ISTD solution is added to the SPE eluate before final evaporation."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "API SCIEX (Example)",
-          "instrument_model": "API SCIEX 5000™",
+          "instrument_model": "API SCIEX 5000TM",
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -1407,7 +1524,7 @@
           "column_model": "Cortex® C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1,6 µm",
+          "particle_size": "1,6 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2,10 mm",
@@ -1429,7 +1546,7 @@
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "API SCIEX (Example)",
-          "ms_instrument_model": "API SCIEX 5000™",
+          "ms_instrument_model": "API SCIEX 5000TM",
           "ms_software_name": null,
           "ms_software_version": null,
           "sample_introduction_method": "LC",
@@ -1456,7 +1573,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain gas: 15,0 psi; Collision gas: 5 psi; Ion spray voltage: -4500 V (negative), 5500 V (positive); Ion source gas 1: 60 psi; Ion source gas 2: 40 psi."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: H2O w/ 5 mmol/l NH4Ac; B: MeOH w/ 5 mmol/l NH4Ac",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "SCIEX API SCIEX 5000TM"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -1488,21 +1615,21 @@
           "extraction_time": "60 min",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate a 5 ml aliquot of filtered extract to dryness under nitrogen at 40 °C; Evaporate SPE eluate to dryness under nitrogen at 40 °C",
-          "resolubilization_solvent": "Initial reconstitution: 100 µl methanol then 900 µl water; Final reconstitution: 400 µl HPLC injection solvent",
+          "resolubilization_solvent": "Initial reconstitution: 100 μl methanol then 900 μl water; Final reconstitution: 400 μl HPLC injection solvent",
           "enrichment_method": "Solid phase extraction (SPE)",
           "spe_details": "Solid phase extraction (SPE) columns containing 60 mg of a balanced hydrophilic/lipophilic polymer (e.g., Waters Oasis® HLB); Conditioned with 2 ml methanol and 2 ml water; Eluted with 1 ml methanol",
-          "cleanup_method": "Filter through a paper filter (20 µm to 25 µm); Pass 1 ml reconstituted extract through SPE column; Wash with 1 ml water",
+          "cleanup_method": "Filter through a paper filter (20 μm to 25 μm); Pass 1 ml reconstituted extract through SPE column; Wash with 1 ml water",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "100 µl of mixed ISTD solution is added to the SPE eluate before final evaporation."
+          "other_information": "100 μl of mixed ISTD solution is added to the SPE eluate before final evaporation."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Thermo Scientific (Example)",
-          "instrument_model": "Thermo Q-Exactive™",
+          "instrument_model": "Thermo Q-ExactiveTM",
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -1510,7 +1637,7 @@
           "column_model": "Poroshell HPH-C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "2,7 µm",
+          "particle_size": "2,7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2,10 mm",
@@ -1532,7 +1659,7 @@
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Thermo Scientific (Example)",
-          "ms_instrument_model": "Thermo Q-Exactive™",
+          "ms_instrument_model": "Thermo Q-ExactiveTM",
           "ms_software_name": null,
           "ms_software_version": null,
           "sample_introduction_method": "LC",
@@ -1559,7 +1686,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Spray voltage (+): 3900 V; Capillary temperature: 400 °C; Sheath gas: 17 arbitrary units; Auxiliary gas: 8 arbitrary units; Maximum injection time: 80 ms; Automatic gain control target: 3e6; Isolation window: 1,2 m/z."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: H2O w/ 5 mmol/l NH4Ac; B: MeOH w/ 5 mmol/l NH4Ac",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Thermo Thermo Q-ExactiveTM"
       }
     ]
   },
@@ -1608,7 +1745,7 @@
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": "dSPE clean-up: 50 mg ± 5 mg primary secondary amine (PSA) bulk sorbent per 1 ml sample filtrate.",
-          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 µm PTFE syringe filter.",
+          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 μm PTFE syringe filter.",
           "extract_storage_conditions": "Immediately after extraction. If necessary, overnight at 4 °C.",
           "extract_shipping_details": null,
           "other_information": "Ergot alkaloids are sensitive to epimerization by light; amber glass shall be used where possible."
@@ -1619,7 +1756,7 @@
           "software_name": "MassLynx incorporating TargetLynx",
           "software_version": "4.1 or later",
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": "Needle wash: Acetonitrile; Seals wash: degassed water + methanol (50 + 50, V + V)",
           "column_type": "Analytical column",
@@ -1627,7 +1764,7 @@
           "column_model": "Acquity UPLC BEH C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": "130 Å",
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -1676,7 +1813,16 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Dwell times, Cone Voltages (30 V generally), and Collision Energies (variable per analyte, 13-45 eV) specified in Table A.2."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: ACN; B: ammonium carbonate (200 mg/l, ph 8.9)",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE"
+        ],
+        "aug_instrument_tag": "Waters Xevo TQ-S"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -1711,7 +1857,7 @@
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": "dSPE clean-up: 50 mg ± 5 mg primary secondary amine (PSA) bulk sorbent per 1 ml sample filtrate.",
-          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 µm PTFE syringe filter.",
+          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 μm PTFE syringe filter.",
           "extract_storage_conditions": "Immediately after extraction. If necessary, overnight at 4 °C.",
           "extract_shipping_details": null,
           "other_information": "Ergot alkaloids are sensitive to epimerization by light."
@@ -1722,7 +1868,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -1730,7 +1876,7 @@
           "column_model": "Gemini C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "5 µm",
+          "particle_size": "5 μm",
           "pore_size": "110 Å",
           "coating_thickness": null,
           "column_internal_diameter": "2.0 mm",
@@ -1779,7 +1925,16 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Desolvation temperature: 350 °C; Desolvation gas flow: 712 l/h; RF Lens 1: 40.0 V; Aperture: 0.0 V; RF Lens 2: 0.2 V; Exit: 2; Ion Energy 1: 0.5 V; Ion Energy 2: 0.5 V; Multiplier: 650 V."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: ACN; B: ammonium carbonate (200 mg/l, ph 8.9)",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE"
+        ],
+        "aug_instrument_tag": "Micromass Quattro Ultima Pt"
       },
       {
         "run_config_id": "LC-MS/MS-003",
@@ -1814,7 +1969,7 @@
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": "dSPE clean-up: 50 mg ± 5 mg primary secondary amine (PSA) bulk sorbent per 1 ml sample filtrate.",
-          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 µm PTFE syringe filter.",
+          "cleanup_method": "Dispersive solid phase extraction (dSPE). Transfer 1 ml filtrate into vial with 50 mg PSA, shake 45s, filter through 0.22 μm PTFE syringe filter.",
           "extract_storage_conditions": "Immediately after extraction. If necessary, overnight at 4 °C.",
           "extract_shipping_details": null,
           "other_information": "Ergot alkaloids are sensitive to epimerization by light."
@@ -1825,7 +1980,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µl",
+          "injection_volume": "1 μl",
           "wash_cycles_description": null,
           "wash_solvent": "Needle wash: water + acetonitrile (1 + 1, V + V)",
           "column_type": "Analytical column",
@@ -1833,7 +1988,7 @@
           "column_model": "Acquity UPLC BEH C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": "130 Å",
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -1851,7 +2006,7 @@
           "flow_rate": "0.5 ml/min",
           "column_pressure": null,
           "gradient_profile": "0.0 min: 5% A; 1.5 min: 45% A; 3.5 min: 50% A; 6.0 min: 70% A; 6.1 min: 99% A; 9.0 min: 99% A; 9.1 min: 5% A; 12.0 min: 5% A",
-          "other_information": "Guard Column: Waters Acquity UPLC BEH VanGuard, 2.1 mm x 5 mm, 1.7 µm. Column temperature: 30 °C ± 5 °C. Autosampler temperature: 8 °C ± 4 °C."
+          "other_information": "Guard Column: Waters Acquity UPLC BEH VanGuard, 2.1 mm x 5 mm, 1.7 μm. Column temperature: 30 °C ± 5 °C. Autosampler temperature: 8 °C ± 4 °C."
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Sciex",
@@ -1882,7 +2037,16 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Spray Voltage: 3000 V; Curtain Gas: 20 psi; Ion Source Gas 1: 50 psi; Ion Source Gas 2: 40 psi; Entrance Potential: +10 V; Collision Exit Potential: +15 V; CAD gas pressure: Medium; Pause between mass ranges: 5 ms; Detection window: 60 s; Target scan time: 0.40 s."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: ACN; B: ammonium carbonate (200 mg/l, ph 8.9)",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE"
+        ],
+        "aug_instrument_tag": "SCIEX API 5500"
       }
     ]
   },
@@ -1919,7 +2083,7 @@
           "centrifugation_conditions": "4000 r/min, 3 min",
           "tissue_processing_method": null,
           "homogenization_method": "Vortex mixing (旋涡混匀)",
-          "pre_extraction_storage_temp": "0~4 ℃ (liquid/yogurt/ice cream) or room temperature (powder/candy)",
+          "pre_extraction_storage_temp": "0~4 °C (liquid/yogurt/ice cream) or room temperature (powder/candy)",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "Hexane-Acetone (1+1, v/v)",
@@ -1927,7 +2091,7 @@
           "extraction_replicates": 3,
           "extraction_time": "Vortex 1 min",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Rotary evaporation at 40 ℃ to near dryness (旋转蒸发浓缩至近干)",
+          "concentration_process": "Rotary evaporation at 40 °C to near dryness (旋转蒸发浓缩至近干)",
           "resolubilization_solvent": "Hexane (正己烷) for final injection; Cyclohexane-Ethyl Acetate (1+1) for GPC",
           "enrichment_method": null,
           "spe_details": "Florisil column (1 g/6 mL); Activation: 5 mL hexane; Elution: 8 mL Dichloromethane-Hexane (5:95 v/v)",
@@ -1960,14 +2124,14 @@
           "derivatization_details": null,
           "internal_standards_added": null,
           "retention_index_standards": null,
-          "injector_temperature": "250 ℃",
+          "injector_temperature": "250 °C",
           "injection_mode": "Splitless (不分流)",
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Helium (He) >99.999%",
           "flow_rate": "1.2 mL/min",
           "column_pressure": null,
-          "gradient_profile": "55 ℃ (1 min) -> 40 ℃/min -> 140 ℃ (5 min) -> 2 ℃/min -> 210 ℃ -> 10 ℃/min -> 280 ℃ (10 min)",
+          "gradient_profile": "55 °C (1 min) -> 40 °C/min -> 140 °C (5 min) -> 2 °C/min -> 210 °C -> 10 °C/min -> 280 °C (10 min)",
           "other_information": null
         },
         "mass_spectrometry_conditions": {
@@ -1983,7 +2147,7 @@
           "capillary_voltage": null,
           "nebulization_gas_flow": null,
           "cone_gas_flow": null,
-          "source_temperature": "250 ℃",
+          "source_temperature": "250 °C",
           "mass_analyzer_type": "Triple Quadrupole (implied by MS/MS and SRM)",
           "ms_acquisition_mode": "SRM (Selected Reaction Monitoring)",
           "internal_calibrants_added": null,
@@ -1998,8 +2162,15 @@
           "spectral_acquisition_rate": null,
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
-          "other_information": "Transfer line temperature: 250 ℃; Electron energy: 70 eV; Filament current: 25 μA; Collision gas: Argon (>99.999%) at 1.5 mTorr."
-        }
+          "other_information": "Transfer line temperature: 250 °C; Electron energy: 70 eV; Filament current: 25 μA; Collision gas: Argon (>99.999%) at 1.5 mTorr."
+        },
+        "aug_matrix_tags": [],
+        "aug_mobile_phase_short": "helium (he) >99.999%",
+        "aug_prep_steps": [
+          "Ext: Hexane",
+          "GPC"
+        ],
+        "aug_instrument_tag": "None Thermo TSQ Quantum GC (referenced in Appendix A)"
       }
     ]
   },
@@ -2036,7 +2207,7 @@
           "centrifugation_conditions": "3000 r/min for 5 min",
           "tissue_processing_method": "Grinding (Pulverization)",
           "homogenization_method": "Pulverize sample using a grinder and mix well.",
-          "pre_extraction_storage_temp": "4℃",
+          "pre_extraction_storage_temp": "4°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "Acetonitrile",
@@ -2044,7 +2215,7 @@
           "extraction_replicates": null,
           "extraction_time": "30 min (standing with water) + 30 min (shaking with acetonitrile)",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Evaporate to dryness under reduced pressure at 40℃ water bath.",
+          "concentration_process": "Evaporate to dryness under reduced pressure at 40°C water bath.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
           "spe_details": "Graphitized Carbon/N-Propylethylenediamine (PSA), 6 mL, 500mg/500mg. Conditioned with 10 mL acetonitrile-toluene (3+1). Eluted with 30 mL acetonitrile-toluene (3+1).",
@@ -2116,7 +2287,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain Gas (CUR): 15 psi; Collision Gas (CAD): 12; Heater Gas (GS2): 30 psi. Parameters for specific transitions (DP, EP, CE, CXP) are listed in Appendix A."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: ACN; B: 0.1% FA in H2O",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "None Reference parameters based on API4000 (Applied Biosystems)"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -2139,7 +2320,7 @@
           "centrifugation_conditions": "3000 r/min for 5 min",
           "tissue_processing_method": "Grinding (Pulverization)",
           "homogenization_method": "Pulverize sample using a grinder and mix well.",
-          "pre_extraction_storage_temp": "4℃",
+          "pre_extraction_storage_temp": "4°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "Acetonitrile",
@@ -2147,7 +2328,7 @@
           "extraction_replicates": null,
           "extraction_time": "30 min (standing with water) + 30 min (shaking with acetonitrile)",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Evaporate to dryness under reduced pressure at 40℃ water bath.",
+          "concentration_process": "Evaporate to dryness under reduced pressure at 40°C water bath.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
           "spe_details": "Graphitized Carbon/N-Propylethylenediamine (PSA), 6 mL, 500mg/500mg. Conditioned with 10 mL acetonitrile-toluene (3+1). Eluted with 30 mL acetonitrile-toluene (3+1).",
@@ -2219,7 +2400,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain Gas (CUR): 15 psi; Collision Gas (CAD): 12; Heater Gas (GS2): 30 psi. Parameters for specific transitions (DP, EP, CE, CXP) are listed in Appendix A."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: ACN; B: 0.1% FA in H2O",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "None Reference parameters based on API4000 (Applied Biosystems)"
       }
     ]
   },
@@ -2247,7 +2438,7 @@
           "biological_replicate_count": null,
           "analytical_replicate_count": null,
           "harvesting_method_type": null,
-          "tissue_freezing_method": "Corn, soybean, and rice stored at room temperature; Orange and Chinese cabbage frozen below -18 ℃",
+          "tissue_freezing_method": "Corn, soybean, and rice stored at room temperature; Orange and Chinese cabbage frozen below -18 °C",
           "tissue_wash_method": "Orange and Chinese cabbage chopped without washing with water",
           "time_to_freezing": null,
           "collection_temperature": null,
@@ -2255,8 +2446,8 @@
           "anticoagulant_used": null,
           "centrifugation_conditions": "5000 r/min for 5 min",
           "tissue_processing_method": "Fresh or Frozen processing depending on sample type",
-          "homogenization_method": "Grinding (grains passed through 425 µm sieve); Homogenization (vegetables/fruits into slurry)",
-          "pre_extraction_storage_temp": "-18 ℃ (for frozen samples) or Room Temperature (grains)",
+          "homogenization_method": "Grinding (grains passed through 425 μm sieve); Homogenization (vegetables/fruits into slurry)",
+          "pre_extraction_storage_temp": "-18 °C (for frozen samples) or Room Temperature (grains)",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "Acetonitrile (and water for grains)",
@@ -2264,11 +2455,11 @@
           "extraction_replicates": "2",
           "extraction_time": "3 min (homogenization)",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Extract blown to 2 mL with nitrogen at 45℃; SPE eluate blown to near dryness with nitrogen at 45℃",
+          "concentration_process": "Extract blown to 2 mL with nitrogen at 45°C; SPE eluate blown to near dryness with nitrogen at 45°C",
           "resolubilization_solvent": "Acetic acid-methanol solution (7+3 v/v, acetic acid-water 1:1000 mixed with methanol)",
           "enrichment_method": "Solid Phase Extraction (SPE) - Pass-through cleanup",
           "spe_details": "HLB solid phase extraction column: 6 mL 500 mg. Pre-washed with 5 mL acetonitrile. Sample passed through. Rinsed with 2 mL acetonitrile. All effluent collected.",
-          "cleanup_method": "HLB SPE column followed by filtration through 0.22 µm organic phase membrane",
+          "cleanup_method": "HLB SPE column followed by filtration through 0.22 μm organic phase membrane",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
           "other_information": "For corn, soybean, rice: 5g sample + 10mL water, sit for 1h before acetonitrile addition. For orange, cabbage: 5g sample + NaCl (saturation) + 15mL acetonitrile."
@@ -2279,7 +2470,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µL",
+          "injection_volume": "10 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2287,7 +2478,7 @@
           "column_model": "Acquity BEH C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2305,7 +2496,7 @@
           "flow_rate": "0.3 mL/min",
           "column_pressure": null,
           "gradient_profile": "0 min: 70% A, 30% B; 6 min: 0% A, 100% B; 7.5 min: 70% A, 30% B",
-          "other_information": "Column temperature: 40 ℃"
+          "other_information": "Column temperature: 40 °C"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Waters",
@@ -2320,7 +2511,7 @@
           "capillary_voltage": "3000 V",
           "nebulization_gas_flow": "700 L/h (Auxiliary gas)",
           "cone_gas_flow": "50 L/h (Curtain gas)",
-          "source_temperature": "105 ℃",
+          "source_temperature": "105 °C",
           "mass_analyzer_type": "Triple Quadrupole (implied by MRM and Quattro Premier)",
           "ms_acquisition_mode": "MRM",
           "internal_calibrants_added": null,
@@ -2335,8 +2526,20 @@
           "spectral_acquisition_rate": null,
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
-          "other_information": "Desolvation temperature (Auxiliary gas temp): 350 ℃; Collision gas: Argon. See Appendix B for specific MRM transitions, cone voltages, and collision energies."
-        }
+          "other_information": "Desolvation temperature (Auxiliary gas temp): 350 °C; Collision gas: Argon. See Appendix B for specific MRM transitions, cone voltages, and collision energies."
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Fruit",
+          "Vegetable"
+        ],
+        "aug_mobile_phase_short": "solvent A: HAc-H2O (1→1000); solvent B: MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Waters Quattro Premier"
       }
     ]
   },
@@ -2373,7 +2576,7 @@
           "centrifugation_conditions": "4000 r/min for 3 min",
           "tissue_processing_method": null,
           "homogenization_method": "Vortex/Shake for 1 min",
-          "pre_extraction_storage_temp": "0℃～4℃",
+          "pre_extraction_storage_temp": "0°C~4°C",
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
           "extraction_solvent": "Acetonitrile",
@@ -2381,11 +2584,11 @@
           "extraction_replicates": 2,
           "extraction_time": "1 min (shaking)",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Rotary evaporation in 40℃ water bath to 5 mL (initial extract) and near dryness (post-SPE)",
+          "concentration_process": "Rotary evaporation in 40°C water bath to 5 mL (initial extract) and near dryness (post-SPE)",
           "resolubilization_solvent": "Methanol-water solution (3+2, volume ratio)",
           "enrichment_method": "Solid Phase Extraction (SPE)",
           "spe_details": "Envi-18 SPE column (6 mL/1000 mg) or equivalent; Conditioned with 10 mL methanol; Eluted with 15 mL methanol",
-          "cleanup_method": "Filtration through 13 mm × 0.22 µm organic membrane",
+          "cleanup_method": "Filtration through 13 mm × 0.22 μm organic membrane",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
           "other_information": "Salts added: 5 g anhydrous sodium sulfate and 2 g sodium chloride. Nitrogen blow drying used after rotary evaporation."
@@ -2396,7 +2599,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µL",
+          "injection_volume": "10 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2404,7 +2607,7 @@
           "column_model": "Hypersil GOLD C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "5 µm",
+          "particle_size": "5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2422,7 +2625,7 @@
           "flow_rate": "0.25 mL/min",
           "column_pressure": null,
           "gradient_profile": "0.00 min: 30% A; 1.00 min: 40% A; 2.00 min: 60% A; 3.00 min: 80% A; 5.00 min: 95% A; 9.00 min: 95% A; 9.10 min: 30% A; 12.00 min: 30% A",
-          "other_information": "Column Temperature: 30℃"
+          "other_information": "Column Temperature: 30°C"
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Thermo (Reference)",
@@ -2437,7 +2640,7 @@
           "capillary_voltage": "4.2 kV (Spray Voltage)",
           "nebulization_gas_flow": null,
           "cone_gas_flow": null,
-          "source_temperature": "350 ℃",
+          "source_temperature": "350 °C",
           "mass_analyzer_type": "Triple Quadrupole (implied by MRM)",
           "ms_acquisition_mode": "Multiple Reaction Monitoring (MRM)",
           "internal_calibrants_added": null,
@@ -2453,7 +2656,18 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Sheath gas pressure: 0.276 MPa; Aux gas pressure: 0.138 MPa; Collision gas pressure: 0.20 MPa (Argon); Tube lens offset and collision energy provided in Appendix A."
-        }
+        },
+        "aug_matrix_tags": [
+          "Dairy",
+          "Fruit",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "phase A: MeOH; phase B: 0.1% FA aqueous",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE"
+        ],
+        "aug_instrument_tag": "Thermo TSQ Quantum Access (Reference)"
       }
     ]
   },
@@ -2505,7 +2719,7 @@
           "cleanup_method": null,
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "Weigh 2.0 ± 0.1 g of homogenized samples or egg products. Matrix matched standards are spiked into the centrifuge tubes after initial centrifugation. A minimum of 500 µL of sample extract is transferred to autosampler vials."
+          "other_information": "Weigh 2.0 ± 0.1 g of homogenized samples or egg products. Matrix matched standards are spiked into the centrifuge tubes after initial centrifugation. A minimum of 500 μL of sample extract is transferred to autosampler vials."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Agilent",
@@ -2513,7 +2727,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "1 µL",
+          "injection_volume": "1 μL",
           "wash_cycles_description": "Wash Time: 30 sec",
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2521,7 +2735,7 @@
           "column_model": "Kinetex core-shell C18 column",
           "stationary_phase_support": "Core-shell",
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "3 mm",
@@ -2570,7 +2784,20 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain Gas: 25; Collision Gas: Medium; Source Gas 2: 50; Ion Spray Voltage ESI+: 5000 V; Ion Spray Voltage ESI-: -4500 V; MRM Detection Window: 30 sec; Target Scan Time: 0.5000 sec; Settling Time: 20.0000 msec. Collision energies are variable per analyte (see Table 19)."
-        }
+        },
+        "aug_matrix_tags": [
+          "Egg",
+          "Fish",
+          "Kidney",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "A: 0.1% FA in H2O; B: 0.1% FA in ACN",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "SCIEX QTrap 6500+"
       }
     ]
   },
@@ -2618,7 +2845,7 @@
           "concentration_process": "Evaporate to ≤ 0.5 mL in TurboVap at 45 ± 2°C at 15 psi setting, changing to 20 psi after 10 minutes.",
           "resolubilization_solvent": "0.1% formic acid in water (diluted to 1.0 mL)",
           "enrichment_method": "Dispersive SPE",
-          "spe_details": "0.5 g C18 BakerBond Octadecyl (C18) 40 µm Prep LC Packing in 50 mL polypropylene centrifuge tubes",
+          "spe_details": "0.5 g C18 BakerBond Octadecyl (C18) 40 μm Prep LC Packing in 50 mL polypropylene centrifuge tubes",
           "cleanup_method": "Hexane wash: Add 10 mL hexane (saturated with acetonitrile), shake 1 min, centrifuge, aspirate hexane.",
           "extract_storage_conditions": "Store in a freezer at -10 °C (retained sample)",
           "extract_shipping_details": null,
@@ -2630,15 +2857,15 @@
           "software_name": "MassLynx",
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "20 µL",
-          "wash_cycles_description": "Weak wash volume: 1200 µL; Strong wash volume: 400 µL",
+          "injection_volume": "20 μL",
+          "wash_cycles_description": "Weak wash volume: 1200 μL; Strong wash volume: 400 μL",
           "wash_solvent": "Weak: 10/90 Acetonitrile/Water; Strong: 50/50 Acetonitrile/Water",
           "column_type": "UHPLC column with VanGuard Precolumn",
           "column_manufacturer": "Waters",
           "column_model": "UHPLC HSS T3 (Column); VanGuard Precolumn UHPLC HSS T3 (Precolumn)",
           "stationary_phase_support": "HSS T3",
           "stationary_phase_coating": null,
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2687,7 +2914,21 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Desolvation Temperature: 450 °C; Desolvation Gas Flow: 900 L/hr; Collision Gas Flow: 0.10 mL/min. Cone voltage and Collision Energy are variable and analyte dependent."
-        }
+        },
+        "aug_matrix_tags": [
+          "Fish",
+          "Kidney",
+          "Meat",
+          "Muscle",
+          "Poultry"
+        ],
+        "aug_mobile_phase_short": "A: 95% H2O / 5% acn / 0.1% FA; B: 100% acn / 0.1% FA",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "SPE",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Waters TQD system"
       }
     ]
   },
@@ -2733,7 +2974,7 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate 1 ml of defatted acetonitrile phase to dryness under nitrogen at 40 °C",
-          "resolubilization_solvent": "75 µl methanol followed by 425 µl water (total 500 µl)",
+          "resolubilization_solvent": "75 μl methanol followed by 425 μl water (total 500 μl)",
           "enrichment_method": "None (Partitioning only)",
           "spe_details": null,
           "cleanup_method": "Defatting: Add 5 ml n-hexane to 5 ml supernatant, shake 10 min, centrifuge, discard hexane. No IAC clean-up.",
@@ -2747,7 +2988,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2755,7 +2996,7 @@
           "column_model": "ACQUITY UPLC BEH C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2770,7 +3011,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: Formic acid (1.5 ml/l) in water containing 10 mmol/l ammonium formate; Mobile Phase B: Formic acid (0.5 ml/l) in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-0.3 min: 15% B; 4-7 min: 100% B; 7.05-10 min: 15% B",
           "other_information": "Example conditions from Annex C (Table C.1)."
@@ -2804,7 +3045,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.6). CID gas pressure: 10 mTorr (high)."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: FA (1.5 ml/l) in H2O w/ 10 mmol/l NH4Fm; B: FA (0.5 ml/l) in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "SCIEX 6500+ Qtrap"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -2836,10 +3087,10 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate eluate to dryness under nitrogen at max 40 °C",
-          "resolubilization_solvent": "30 µl methanol followed by 170 µl water",
+          "resolubilization_solvent": "30 μl methanol followed by 170 μl water",
           "enrichment_method": "Immunoaffinity Column (IAC)",
           "spe_details": "IAC containing antibodies against target mycotoxins (Capacity > 100 ng). Reservoir capacity: 25 ml.",
-          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 µl methanol.",
+          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 μl methanol.",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
           "other_information": "Protocol: With IAC clean-up (Section 7.4.3)."
@@ -2850,7 +3101,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "10 µl",
+          "injection_volume": "10 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2858,7 +3109,7 @@
           "column_model": "ACQUITY UPLC BEH C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.7 µm",
+          "particle_size": "1.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2873,7 +3124,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: Formic acid (1.5 ml/l) in water containing 10 mmol/l ammonium formate; Mobile Phase B: Formic acid (0.5 ml/l) in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-0.3 min: 15% B; 4-7 min: 100% B; 7.05-10 min: 15% B",
           "other_information": "Example conditions from Annex C (Table C.1). Same instrument setup as Run 001, but with IAC sample prep."
@@ -2907,7 +3158,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.6)."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Fruit",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "A: FA (1.5 ml/l) in H2O w/ 10 mmol/l NH4Fm; B: FA (0.5 ml/l) in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "SCIEX 6500+ Qtrap"
       },
       {
         "run_config_id": "LC-MS/MS-003",
@@ -2939,7 +3202,7 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate 1 ml of defatted acetonitrile phase to dryness under nitrogen at 40 °C",
-          "resolubilization_solvent": "75 µl methanol followed by 425 µl water (total 500 µl)",
+          "resolubilization_solvent": "75 μl methanol followed by 425 μl water (total 500 μl)",
           "enrichment_method": "None (Partitioning only)",
           "spe_details": null,
           "cleanup_method": "Defatting: Add 5 ml n-hexane to 5 ml supernatant, shake 10 min, centrifuge, discard hexane. No IAC clean-up.",
@@ -2953,7 +3216,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "7.5 µl",
+          "injection_volume": "7.5 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -2961,7 +3224,7 @@
           "column_model": "Cortecs C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "2.7 µm",
+          "particle_size": "2.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -2976,7 +3239,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: 2 mmol/l ammonium acetate with 0.1 % formic acid in water; Mobile Phase B: 2 mmol/l ammonium acetate with 0.1 % formic acid in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-7 min: 1-50% A (99-50% A inv? Table says %A 99->50); 7-10 min: 50-1% A; 11.5 min: 1% A; 11.6-14.0 min: 99% A",
           "other_information": "Example conditions from Annex C (Table C.4)."
@@ -3010,7 +3273,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.7). Desolvation temperature: 600 °C. Collision gas flow: 0.15 ml/min. Cone voltage: 20 V."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: 2 mmol/l NH4Ac with 0.1 % FA in H2O; B: 2 mmol/l NH4Ac with 0.1 % FA in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Waters Xevo TQ-XS"
       },
       {
         "run_config_id": "LC-MS/MS-004",
@@ -3042,10 +3315,10 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate eluate to dryness under nitrogen at max 40 °C",
-          "resolubilization_solvent": "30 µl methanol followed by 170 µl water",
+          "resolubilization_solvent": "30 μl methanol followed by 170 μl water",
           "enrichment_method": "Immunoaffinity Column (IAC)",
           "spe_details": "IAC containing antibodies against target mycotoxins (Capacity > 100 ng). Reservoir capacity: 25 ml.",
-          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 µl methanol.",
+          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 μl methanol.",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
           "other_information": "Protocol: With IAC clean-up."
@@ -3056,7 +3329,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "7.5 µl",
+          "injection_volume": "7.5 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3064,7 +3337,7 @@
           "column_model": "Cortecs C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "2.7 µm",
+          "particle_size": "2.7 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3079,7 +3352,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: 2 mmol/l ammonium acetate with 0.1 % formic acid in water; Mobile Phase B: 2 mmol/l ammonium acetate with 0.1 % formic acid in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-7 min: 99-50% A; 7-10 min: 50-1% A; 11.5 min: 1% A; 11.6-14.0 min: 99% A",
           "other_information": "Example conditions from Annex C (Table C.4). Same instrument setup as Run 003, with IAC clean-up."
@@ -3113,7 +3386,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.7)."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Fruit",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "A: 2 mmol/l NH4Ac with 0.1 % FA in H2O; B: 2 mmol/l NH4Ac with 0.1 % FA in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Waters Xevo TQ-XS"
       },
       {
         "run_config_id": "LC-MS/MS-005",
@@ -3145,7 +3430,7 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate 1 ml of defatted acetonitrile phase to dryness under nitrogen at 40 °C",
-          "resolubilization_solvent": "75 µl methanol followed by 425 µl water (total 500 µl)",
+          "resolubilization_solvent": "75 μl methanol followed by 425 μl water (total 500 μl)",
           "enrichment_method": "None (Partitioning only)",
           "spe_details": null,
           "cleanup_method": "Defatting: Add 5 ml n-hexane to 5 ml supernatant, shake 10 min, centrifuge, discard hexane. No IAC clean-up.",
@@ -3159,7 +3444,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "4 µl",
+          "injection_volume": "4 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3167,7 +3452,7 @@
           "column_model": "Zorbax Eclipse Plus C18 Rapid Resolution HD",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3182,7 +3467,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: 5 mmol/l ammonium formate with 0.1 % formic acid in water; Mobile Phase B: 5 mmol/l ammonium formate with 0.1 % formic acid in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-0.5 min: 70% A; 8.1 min: 7.4% A; 8.2-9.5 min: 0% A; 9.6 min: 70% A",
           "other_information": "Example conditions from Annex C (Table C.5)."
@@ -3216,7 +3501,17 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.8). Nebulizer pressure: 40 psi. Sheath gas temp: 350 °C. Cone voltage: 2000 V. High Pressure iFunnel RF: 190 V. Low Pressure iFunnel RF: 80 V."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal"
+        ],
+        "aug_mobile_phase_short": "A: 5 mmol/l NH4Fm with 0.1 % FA in H2O; B: 5 mmol/l NH4Fm with 0.1 % FA in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Agilent 6495"
       },
       {
         "run_config_id": "LC-MS/MS-006",
@@ -3248,10 +3543,10 @@
           "extraction_time": "10 min mechanical shaking",
           "extraction_degassed_solvents": null,
           "concentration_process": "Evaporate eluate to dryness under nitrogen at max 40 °C",
-          "resolubilization_solvent": "30 µl methanol followed by 170 µl water",
+          "resolubilization_solvent": "30 μl methanol followed by 170 μl water",
           "enrichment_method": "Immunoaffinity Column (IAC)",
           "spe_details": "IAC containing antibodies against target mycotoxins (Capacity > 100 ng). Reservoir capacity: 25 ml.",
-          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 µl methanol.",
+          "cleanup_method": "Defatting with hexane (5ml), then dilute 2 ml of acetonitrile phase into 25 ml PBS. Pass through IAC (1-2 drops/s). Wash with 20 ml water. Elute with 3 x 800 μl methanol.",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
           "other_information": "Protocol: With IAC clean-up."
@@ -3262,7 +3557,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "4 µl",
+          "injection_volume": "4 μl",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3270,7 +3565,7 @@
           "column_model": "Zorbax Eclipse Plus C18 Rapid Resolution HD",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C18",
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3285,7 +3580,7 @@
           "split_ratio": null,
           "post_column_split_ratio": null,
           "mobile_phase_composition": "Mobile Phase A: 5 mmol/l ammonium formate with 0.1 % formic acid in water; Mobile Phase B: 5 mmol/l ammonium formate with 0.1 % formic acid in methanol",
-          "flow_rate": "400 µl/min",
+          "flow_rate": "400 μl/min",
           "column_pressure": null,
           "gradient_profile": "0-0.5 min: 70% A; 8.1 min: 7.4% A; 8.2-9.5 min: 0% A; 9.6 min: 70% A",
           "other_information": "Example conditions from Annex C (Table C.5). Same instrument setup as Run 005, with IAC clean-up."
@@ -3319,7 +3614,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Example conditions from Annex C (Table C.8). Nebulizer pressure: 40 psi. Sheath gas temp: 350 °C. Cone voltage: 2000 V. High Pressure iFunnel RF: 190 V. Low Pressure iFunnel RF: 80 V."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Fruit",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "A: 5 mmol/l NH4Fm with 0.1 % FA in H2O; B: 5 mmol/l NH4Fm with 0.1 % FA in MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "IAC",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Agilent 6495"
       }
     ]
   },
@@ -3359,7 +3666,7 @@
           "pre_extraction_storage_temp": null,
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
-          "extraction_solvent": "10 mL Acetonitrile with 150 µL Formic acid",
+          "extraction_solvent": "10 mL Acetonitrile with 150 μL Formic acid",
           "extraction_solvent_volume": "10 mL per 5 g sample",
           "extraction_replicates": null,
           "extraction_time": "1 minute shake (solvent), 5 minutes shake (salts), 2 minutes vortex (dSPE)",
@@ -3367,7 +3674,7 @@
           "concentration_process": "Blow to just below 1 mL with nitrogen in a 60 °C water bath after SPE, then bring volume to 1 mL with methanol.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
-          "spe_details": "Strata-XL-AW 100 µm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
+          "spe_details": "Strata-XL-AW 100 μm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
           "cleanup_method": "QuEChERS dSPE (900 mg MgSO4, 300 mg PSA, 150 mg graphitized carbon black) followed by SPE (Strata-XL-AW). Optional ENVI-Carb clean-up for cholic acid interferences.",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
@@ -3379,7 +3686,7 @@
           "software_name": "Analyst",
           "software_version": "1.7.1",
           "autosampler_model": null,
-          "injection_volume": "3 µL",
+          "injection_volume": "3 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3387,7 +3694,7 @@
           "column_model": "XBridge C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3395,7 +3702,7 @@
           "sample_resuspension_solvent": "Methanol",
           "injected_amount": null,
           "derivatization_details": null,
-          "internal_standards_added": "d5-N-EtFOSAA (5 µL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (50 µL of 200 ng/mL added to sample).",
+          "internal_standards_added": "d5-N-EtFOSAA (5 μL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (50 μL of 200 ng/mL added to sample).",
           "retention_index_standards": null,
           "injector_temperature": null,
           "injection_mode": null,
@@ -3405,7 +3712,7 @@
           "flow_rate": "0.30 mL/min",
           "column_pressure": null,
           "gradient_profile": "0.01 min 10% B; 3.0 min 10% B; 3.1 min 40% B; 26.0 min 90% B; 26.1 min 10% B; 28.0 min 10% B",
-          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 µm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 µm)."
+          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 μm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 μm)."
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Sciex",
@@ -3436,7 +3743,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Ion spray voltage: -4500 V; Curtain gas: 40 au; Gas 2: 50 au; CAD gas: medium."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Egg",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "A: 5 mm NH4Ac and 5mm 1-methyl piperidine in H2O; B: 100% MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "SCIEX QTRAP 6500+"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -3462,7 +3781,7 @@
           "pre_extraction_storage_temp": null,
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
-          "extraction_solvent": "10 mL Acetonitrile with 150 µL Formic acid",
+          "extraction_solvent": "10 mL Acetonitrile with 150 μL Formic acid",
           "extraction_solvent_volume": "10 mL per 1 g sample",
           "extraction_replicates": null,
           "extraction_time": "1 minute shake (solvent), 5 minutes shake (salts), 2 minutes vortex (dSPE)",
@@ -3470,11 +3789,11 @@
           "concentration_process": "Blow 5 mL dSPE supernatant to ~1 mL before SPE load. Final SPE eluate blown to <1 mL and reconstituted to 1 mL.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
-          "spe_details": "Strata-XL-AW 100 µm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
+          "spe_details": "Strata-XL-AW 100 μm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
           "cleanup_method": "QuEChERS dSPE (900 mg MgSO4, 300 mg PSA, 150 mg graphitized carbon black) followed by SPE (Strata-XL-AW).",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "1 g sample used. 10 µL surrogate added. 15 mL water added before extraction. 5 mL of filtered supernatant is concentrated to 1 mL, then diluted with 11 mL water for SPE loading."
+          "other_information": "1 g sample used. 10 μL surrogate added. 15 mL water added before extraction. 5 mL of filtered supernatant is concentrated to 1 mL, then diluted with 11 mL water for SPE loading."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Shimadzu",
@@ -3482,7 +3801,7 @@
           "software_name": "Analyst",
           "software_version": "1.7.1",
           "autosampler_model": null,
-          "injection_volume": "3 µL",
+          "injection_volume": "3 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3490,7 +3809,7 @@
           "column_model": "XBridge C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3498,7 +3817,7 @@
           "sample_resuspension_solvent": "Methanol",
           "injected_amount": null,
           "derivatization_details": null,
-          "internal_standards_added": "d5-N-EtFOSAA (5 µL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (10 µL of 200 ng/mL added to sample).",
+          "internal_standards_added": "d5-N-EtFOSAA (5 μL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (10 μL of 200 ng/mL added to sample).",
           "retention_index_standards": null,
           "injector_temperature": null,
           "injection_mode": null,
@@ -3508,7 +3827,7 @@
           "flow_rate": "0.30 mL/min",
           "column_pressure": null,
           "gradient_profile": "0.01 min 10% B; 3.0 min 10% B; 3.1 min 40% B; 26.0 min 90% B; 26.1 min 10% B; 28.0 min 10% B",
-          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 µm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 µm)."
+          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 μm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 μm)."
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Sciex",
@@ -3539,7 +3858,18 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Ion spray voltage: -4500 V; Curtain gas: 40 au; Gas 2: 50 au; CAD gas: medium."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Feed"
+        ],
+        "aug_mobile_phase_short": "A: 5 mm NH4Ac and 5mm 1-methyl piperidine in H2O; B: 100% MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "SCIEX QTRAP 6500+"
       },
       {
         "run_config_id": "LC-MS-001",
@@ -3565,7 +3895,7 @@
           "pre_extraction_storage_temp": null,
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
-          "extraction_solvent": "10 mL Acetonitrile with 150 µL Formic acid",
+          "extraction_solvent": "10 mL Acetonitrile with 150 μL Formic acid",
           "extraction_solvent_volume": "10 mL per 5 g sample",
           "extraction_replicates": null,
           "extraction_time": "1 minute shake (solvent), 5 minutes shake (salts), 2 minutes vortex (dSPE)",
@@ -3573,7 +3903,7 @@
           "concentration_process": "Blow to just below 1 mL with nitrogen in a 60 °C water bath after SPE, then bring volume to 1 mL with methanol.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
-          "spe_details": "Strata-XL-AW 100 µm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
+          "spe_details": "Strata-XL-AW 100 μm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
           "cleanup_method": "QuEChERS dSPE (900 mg MgSO4, 300 mg PSA, 150 mg graphitized carbon black) followed by SPE (Strata-XL-AW).",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
@@ -3585,7 +3915,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "3 µL",
+          "injection_volume": "3 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3593,7 +3923,7 @@
           "column_model": "XBridge C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3601,7 +3931,7 @@
           "sample_resuspension_solvent": "Methanol",
           "injected_amount": null,
           "derivatization_details": null,
-          "internal_standards_added": "d5-N-EtFOSAA (5 µL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (50 µL of 200 ng/mL added to sample).",
+          "internal_standards_added": "d5-N-EtFOSAA (5 μL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (50 μL of 200 ng/mL added to sample).",
           "retention_index_standards": null,
           "injector_temperature": null,
           "injection_mode": null,
@@ -3611,7 +3941,7 @@
           "flow_rate": "0.30 mL/min",
           "column_pressure": null,
           "gradient_profile": "0.01 min 10% B; 3.0 min 10% B; 3.1 min 40% B; 26.0 min 90% B; 26.1 min 10% B; 28.0 min 10% B",
-          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 µm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 µm). Same LC conditions as LC-MS/MS."
+          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 μm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 μm). Same LC conditions as LC-MS/MS."
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Thermo Fisher Scientific",
@@ -3642,7 +3972,19 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Spray voltage: -2.5 kV; Aux gas flow: 10 au; S-lens RF level: 25. Used for confirmation of PFBA and PFPeA."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Egg",
+          "Milk"
+        ],
+        "aug_mobile_phase_short": "A: 5 mm NH4Ac and 5mm 1-methyl piperidine in H2O; B: 100% MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Thermo Q-Exactive Orbitrap"
       },
       {
         "run_config_id": "LC-MS-002",
@@ -3668,7 +4010,7 @@
           "pre_extraction_storage_temp": null,
           "pre_extraction_storage_duration": null,
           "shipping_details": null,
-          "extraction_solvent": "10 mL Acetonitrile with 150 µL Formic acid",
+          "extraction_solvent": "10 mL Acetonitrile with 150 μL Formic acid",
           "extraction_solvent_volume": "10 mL per 1 g sample",
           "extraction_replicates": null,
           "extraction_time": "1 minute shake (solvent), 5 minutes shake (salts), 2 minutes vortex (dSPE)",
@@ -3676,11 +4018,11 @@
           "concentration_process": "Blow 5 mL dSPE supernatant to ~1 mL before SPE load. Final SPE eluate blown to <1 mL and reconstituted to 1 mL.",
           "resolubilization_solvent": "Methanol",
           "enrichment_method": "Solid Phase Extraction (SPE)",
-          "spe_details": "Strata-XL-AW 100 µm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
+          "spe_details": "Strata-XL-AW 100 μm Polymeric Weak Anion 200 mg/6 mL (Phenomenex). Condition: 6 mL 0.3% NH4OH in MeOH, 5 mL water. Wash: 5 mL water. Elute: 4 mL 0.3% NH4OH in MeOH.",
           "cleanup_method": "QuEChERS dSPE (900 mg MgSO4, 300 mg PSA, 150 mg graphitized carbon black) followed by SPE (Strata-XL-AW).",
           "extract_storage_conditions": null,
           "extract_shipping_details": null,
-          "other_information": "1 g sample used. 10 µL surrogate added. 15 mL water added before extraction. 5 mL of filtered supernatant is concentrated to 1 mL, then diluted with 11 mL water for SPE loading."
+          "other_information": "1 g sample used. 10 μL surrogate added. 15 mL water added before extraction. 5 mL of filtered supernatant is concentrated to 1 mL, then diluted with 11 mL water for SPE loading."
         },
         "chromatography_conditions": {
           "instrument_manufacturer": "Shimadzu",
@@ -3688,7 +4030,7 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "3 µL",
+          "injection_volume": "3 μL",
           "wash_cycles_description": null,
           "wash_solvent": null,
           "column_type": "Analytical column",
@@ -3696,7 +4038,7 @@
           "column_model": "XBridge C18",
           "stationary_phase_support": null,
           "stationary_phase_coating": null,
-          "particle_size": "3.5 µm",
+          "particle_size": "3.5 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3704,7 +4046,7 @@
           "sample_resuspension_solvent": "Methanol",
           "injected_amount": null,
           "derivatization_details": null,
-          "internal_standards_added": "d5-N-EtFOSAA (5 µL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (10 µL of 200 ng/mL added to sample).",
+          "internal_standards_added": "d5-N-EtFOSAA (5 μL of 200 ng/mL added to 1 mL final extract); Isotopically labeled PFAS surrogate mix (10 μL of 200 ng/mL added to sample).",
           "retention_index_standards": null,
           "injector_temperature": null,
           "injection_mode": null,
@@ -3714,7 +4056,7 @@
           "flow_rate": "0.30 mL/min",
           "column_pressure": null,
           "gradient_profile": "0.01 min 10% B; 3.0 min 10% B; 3.1 min 40% B; 26.0 min 90% B; 26.1 min 10% B; 28.0 min 10% B",
-          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 µm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 µm). Same LC conditions as LC-MS/MS."
+          "other_information": "Column temperature: 40 °C. Guard column: Vanguard Acquity BEH C18 (2.1 mm x 5 mm, 1.7 μm). Delay column: XBridge C18 (2.1 mm x 50 mm, 5 μm). Same LC conditions as LC-MS/MS."
         },
         "mass_spectrometry_conditions": {
           "ms_instrument_manufacturer": "Thermo Fisher Scientific",
@@ -3745,7 +4087,18 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Spray voltage: -2.5 kV; Aux gas flow: 10 au; S-lens RF level: 25. Used for confirmation of PFBA and PFPeA and 4:2 FTS in silage."
-        }
+        },
+        "aug_matrix_tags": [
+          "Cereal",
+          "Feed"
+        ],
+        "aug_mobile_phase_short": "A: 5 mm NH4Ac and 5mm 1-methyl piperidine in H2O; B: 100% MeOH",
+        "aug_prep_steps": [
+          "Ext: ACN",
+          "QuEChERS",
+          "Concentrate"
+        ],
+        "aug_instrument_tag": "Thermo Q-Exactive Orbitrap"
       }
     ]
   },
@@ -3790,11 +4143,11 @@
           "extraction_replicates": null,
           "extraction_time": "1 minute",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Dilute 500 µL aliquot of acetonitrile extract with 500 µL of LC grade water.",
+          "concentration_process": "Dilute 500 μL aliquot of acetonitrile extract with 500 μL of LC grade water.",
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": null,
-          "cleanup_method": "Filter through 0.2 µm PVDF filter disk.",
+          "cleanup_method": "Filter through 0.2 μm PVDF filter disk.",
           "extract_storage_conditions": "Autosampler vial",
           "extract_shipping_details": null,
           "other_information": "Samples are weighed into 50 mL polypropylene centrifuge tubes."
@@ -3805,15 +4158,15 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "2 µL",
-          "wash_cycles_description": "Strong wash volume: 500 µL",
+          "injection_volume": "2 μL",
+          "wash_cycles_description": "Strong wash volume: 500 μL",
           "wash_solvent": "1:1 methanol:water",
           "column_type": "Analytical",
           "column_manufacturer": "Agilent",
           "column_model": "Zorbax SB C-18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C-18",
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3862,7 +4215,15 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Cone (V): Variable - analyte dependent; Desolvation Temperature: 350°C; Collision Gas Flow: 0.20 mL/min; Dwell: Auto Dwell."
-        }
+        },
+        "aug_matrix_tags": [
+          "Muscle"
+        ],
+        "aug_mobile_phase_short": "A: 0.1% FA in H2O; B: 0.1% FA in ACN",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "Waters Waters Xevo TQ-S micro"
       },
       {
         "run_config_id": "LC-MS/MS-002",
@@ -3893,11 +4254,11 @@
           "extraction_replicates": null,
           "extraction_time": "1 minute",
           "extraction_degassed_solvents": null,
-          "concentration_process": "Dilute 500 µL aliquot of acetonitrile extract with 500 µL of LC grade water.",
+          "concentration_process": "Dilute 500 μL aliquot of acetonitrile extract with 500 μL of LC grade water.",
           "resolubilization_solvent": null,
           "enrichment_method": null,
           "spe_details": null,
-          "cleanup_method": "Filter through 0.2 µm PVDF filter disk.",
+          "cleanup_method": "Filter through 0.2 μm PVDF filter disk.",
           "extract_storage_conditions": "Autosampler vial",
           "extract_shipping_details": null,
           "other_information": "Samples are weighed into 50 mL polypropylene centrifuge tubes."
@@ -3908,15 +4269,15 @@
           "software_name": null,
           "software_version": null,
           "autosampler_model": null,
-          "injection_volume": "2 µL",
-          "wash_cycles_description": "Strong wash volume: 500 µL",
+          "injection_volume": "2 μL",
+          "wash_cycles_description": "Strong wash volume: 500 μL",
           "wash_solvent": "1:1 methanol:water",
           "column_type": "Analytical",
           "column_manufacturer": "Agilent",
           "column_model": "Zorbax SB C-18",
           "stationary_phase_support": null,
           "stationary_phase_coating": "C-18",
-          "particle_size": "1.8 µm",
+          "particle_size": "1.8 μm",
           "pore_size": null,
           "coating_thickness": null,
           "column_internal_diameter": "2.1 mm",
@@ -3965,7 +4326,15 @@
           "analyzer_vacuum_pressure": null,
           "lock_spray_details": null,
           "other_information": "Curtain Gas: 30; Collision Gas: 9; Ion Source Gas 2: 40; Injection Control (Full MS: 14, SIM: 14, MSn: 14, Zoom: 3000); Segment windows: 275 sec; Scan Cycle: 2 sec; Pause between mass ranges: 5.007 ms."
-        }
+        },
+        "aug_matrix_tags": [
+          "Muscle"
+        ],
+        "aug_mobile_phase_short": "A: 0.1% FA in H2O; B: 0.1% FA in ACN",
+        "aug_prep_steps": [
+          "Ext: ACN"
+        ],
+        "aug_instrument_tag": "SCIEX LC-MS/MS"
       }
     ]
   }
