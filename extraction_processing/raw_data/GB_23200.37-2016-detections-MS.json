@@ -1,0 +1,1402 @@
+[
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Milbemectin",
+    "CAS_number": "51596-10-2",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 510.4,
+        "product_mz": 207.9,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 510.4,
+        "product_mz": 190.4,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "密灭汀",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "150",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "40",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['7', '6']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "1.8",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tiamulin-fumarate",
+    "CAS_number": "55297-96-6",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 494.3,
+        "product_mz": 192.3,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "32",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 494.3,
+        "product_mz": 163.4,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "44",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "泰妙菌素",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "['106', '50']",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['14', '9']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "4.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Spinosyn A",
+    "CAS_number": "131929-60-7",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 732.5,
+        "product_mz": 142.1,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "45",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 732.5,
+        "product_mz": 189.0,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "47",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "多杀霉素 A",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "55",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['9', '8']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['15', '11']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "8.0",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Spinosyn D",
+    "CAS_number": "131929-63-0",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 746.4,
+        "product_mz": 142.1,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "45",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 746.4,
+        "product_mz": 189.1,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "45",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "多杀霉素 D",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "50",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "13",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "15",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "8.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emamectin-amino",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 872.6,
+        "product_mz": 144.1,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "39",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 872.6,
+        "product_mz": 256.0,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "38",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "氨基阿维菌素",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['10', '15']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "8.9",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emamectin -methyl amino 1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.6,
+        "product_mz": 158.2,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "50",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.6,
+        "product_mz": 82.3,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "120",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "甲氨基阿维菌素 1",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "55",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['11', '10']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "9.0",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emamectin -methyl amino 2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.6,
+        "product_mz": 158.2,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "50",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.6,
+        "product_mz": 82.3,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "120",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "甲氨基阿维菌素 2",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "55",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['11', '10']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "9.3",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Dichlormid",
+    "CAS_number": "37764-25-3",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 208.1,
+        "product_mz": 97.8,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 208.1,
+        "product_mz": 139.9,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "18",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "烯丙酰草胺",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['6', '9']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "7",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "10.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Naphthalophos",
+    "CAS_number": "1491-41-4",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 350.2,
+        "product_mz": 214.2,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 350.2,
+        "product_mz": 276.0,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "驱虫磷",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "55",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "7",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "11.7",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Diniconazole",
+    "CAS_number": "83657-24-3",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 326.2,
+        "product_mz": 69.7,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "55",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 326.2,
+        "product_mz": 159.1,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "47",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "烯唑醇",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['9', '8']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "13.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Abamectin",
+    "CAS_number": "71751-41-2",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 896.6,
+        "product_mz": 186.4,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "26",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 896.6,
+        "product_mz": 154.2,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "44",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "阿维菌素",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "150",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "90",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "5",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['13', '11']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "16.0",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emamectin-N-methyl formyl amino",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 914.6,
+        "product_mz": 186.2,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "45",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 914.6,
+        "product_mz": 153.8,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "50",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "甲基甲酸胺阿维菌素",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "150",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "50",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "16.2",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Nitenpyram",
+    "CAS_number": "150824-47-8",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 271.2,
+        "product_mz": 98.8,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "25",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 271.2,
+        "product_mz": 196.1,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "25",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "烯啶虫胺",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['15', '18']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.0",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Dinotefuran",
+    "CAS_number": "165252-70-0",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 203.0,
+        "product_mz": 129.0,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "17",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 203.0,
+        "product_mz": 87.0,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "22",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "呋虫胺",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "23",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['10', '8']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Spiroxamine",
+    "CAS_number": "118134-30-8",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 298.4,
+        "product_mz": 144.1,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "29",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 298.4,
+        "product_mz": 99.9,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "45",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "螺环菌胺",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "13",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['13', '18']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "8.1",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Fenpropimorph",
+    "CAS_number": "67564-91-4",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 304.3,
+        "product_mz": 147.0,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "41",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 304.3,
+        "product_mz": 97.8,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "43",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "丁苯吗啉",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "4",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "11",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "8.1",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Diafenthiuron-methanimidamide",
+    "CAS_number": "136337-81-9",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 353.3,
+        "product_mz": 297.4,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 353.3,
+        "product_mz": 280.1,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "36",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "杀螨隆-甲脒",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "17",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "9.5",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Tridemorph",
+    "CAS_number": "81412-43-3",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 298.4,
+        "product_mz": 130.1,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "38",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 298.4,
+        "product_mz": 97.8,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "39",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "十三吗啉",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['8', '10']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['12', '18']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "9.7",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Metconazole",
+    "CAS_number": "125116-23-6",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 320.2,
+        "product_mz": 69.7,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "50",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 320.2,
+        "product_mz": 124.8,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "50",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "叶菌唑",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "57",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "['13', '10']",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "13.0",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.37—2016",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Diafenthiuron-urea",
+    "CAS_number": "136337-67-2",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 369.2,
+        "product_mz": 229.0,
+        "parameter_type": "Quantification",
+        "source_ion_label": "定量离子对 m/z",
+        "collision_energy": {
+          "value": "35",
+          "unit": "V"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 369.2,
+        "product_mz": 271.3,
+        "parameter_type": "Confirmation",
+        "source_ion_label": "定性离子对 m/z",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "组分名称",
+        "value": "杀螨隆-脲",
+        "unit": null,
+        "context": "Source Key: 组分名称"
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "100",
+        "unit": "ms",
+        "context": "Source Key: 驻留时间（Dwell time）/ms"
+      },
+      {
+        "parameter_name": "Declustering Potential",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: 去簇电压（DP）/V"
+      },
+      {
+        "parameter_name": "Entrance Potential",
+        "value": "['8', '9']",
+        "unit": "V",
+        "context": "Source Key: 入口电压（EP）/V"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential",
+        "value": "20",
+        "unit": "V",
+        "context": "Source Key: 碰撞室出口电压（CXP）/V"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "14.6",
+        "unit": "min",
+        "context": "Source Key: 保留时间"
+      }
+    ]
+  }
+]

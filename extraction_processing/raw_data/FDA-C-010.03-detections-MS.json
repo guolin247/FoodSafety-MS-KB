@@ -1,0 +1,6082 @@
+[
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "NN EtFOSAA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 589.0,
+        "product_mz": 419.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -30.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 589.0,
+        "product_mz": 219.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -50.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -30.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "NN EtFOSAA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 589.0,
+        "product_mz": 419.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -30.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 589.0,
+        "product_mz": 219.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -50.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -30.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M3PFBA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 216.0,
+        "product_mz": 172.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -12.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 5.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M3PFBA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 216.0,
+        "product_mz": 172.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -12.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 5.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M3PFPeA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 266.0,
+        "product_mz": 222.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 7.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -28.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M3PFPeA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 266.0,
+        "product_mz": 222.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 7.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -28.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M5PFHxA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 318.0,
+        "product_mz": 273.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -14.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M5PFHxA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 318.0,
+        "product_mz": 273.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -14.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M8PFOA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 421.0,
+        "product_mz": 376.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 421.0,
+        "product_mz": 172.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.5,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -36.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M8PFOA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 421.0,
+        "product_mz": 376.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 421.0,
+        "product_mz": 172.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.5,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -36.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "MPFUdA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 565.0,
+        "product_mz": 520.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -17.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 565.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.61,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -32.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "MPFUdA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 565.0,
+        "product_mz": 520.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -17.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 565.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.61,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -32.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "MPFDoA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 615.0,
+        "product_mz": 570.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -19.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 615.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.86,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -48.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -3.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "MPFDoA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 615.0,
+        "product_mz": 570.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -19.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 615.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.86,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -48.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -3.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M2PFTeDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 715.0,
+        "product_mz": 670.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -23.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 715.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.85,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -3.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -23.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -52.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M2PFTeDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 715.0,
+        "product_mz": 670.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -23.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 715.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.85,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -3.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -23.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -52.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M3PFBS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 302.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -73.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 302.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 8.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -88.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -73.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M3PFBS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 302.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -73.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 302.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 8.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -88.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -73.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M3PFHxS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 402.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -81.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -60.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -81.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M3PFHxS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 402.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -81.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -60.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -81.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M8PFOS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 507.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -125.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 507.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -5.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -125.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M8PFOS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 507.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -125.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 507.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -5.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -125.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M3HFPO",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 287.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -10.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 287.0,
+        "product_mz": 185.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -35.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M3HFPO",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 287.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -10.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 287.0,
+        "product_mz": 185.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -35.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "M8FOSA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 506.0,
+        "product_mz": 78.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 506.0,
+        "product_mz": 64.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -165.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.29,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -101.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "M8FOSA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 506.0,
+        "product_mz": 78.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 506.0,
+        "product_mz": 64.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -165.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.29,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -101.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "13C2,D4 4:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 333.0,
+        "product_mz": 312.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -30.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 333.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -63.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.39,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -60.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -30.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "13C2,D4 4:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 333.0,
+        "product_mz": 312.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -30.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 333.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -63.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.39,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -60.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -30.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "13C2,D4 6:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 433.0,
+        "product_mz": 412.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -33.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 433.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -67.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.38,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -33.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "13C2,D4 6:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 433.0,
+        "product_mz": 412.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -33.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 433.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -67.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.38,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -33.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "13C2,D4 8:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 533.0,
+        "product_mz": 512.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -49.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 533.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -81.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.09,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -49.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -23.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "13C2,D4 8:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 533.0,
+        "product_mz": 512.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -49.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 533.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -81.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.09,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -49.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -23.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "13C2,D4 10:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 633.0,
+        "product_mz": 612.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -45.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 633.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -85.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.82,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "13C2,D4 10:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 633.0,
+        "product_mz": 612.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -45.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 633.0,
+        "product_mz": 82.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -85.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.82,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFBA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 213.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 5.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFBA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 213.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 5.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFPeA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 263.0,
+        "product_mz": 219.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 7.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFPeA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 263.0,
+        "product_mz": 219.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 7.9,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFHxA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 313.0,
+        "product_mz": 269.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 313.0,
+        "product_mz": 119.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFHxA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 313.0,
+        "product_mz": 269.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -13.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 313.0,
+        "product_mz": 119.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.52,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFHpA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 363.0,
+        "product_mz": 319.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -14.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 363.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.17,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -26.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFHpA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 363.0,
+        "product_mz": 319.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -14.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 363.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.17,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -17.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -26.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFOA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 413.0,
+        "product_mz": 369.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -16.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 413.0,
+        "product_mz": 219.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -23.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.5,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -43.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFOA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 413.0,
+        "product_mz": 369.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -16.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 413.0,
+        "product_mz": 219.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -23.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.5,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -43.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFNA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 463.0,
+        "product_mz": 419.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -15.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 463.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -24.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFNA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 463.0,
+        "product_mz": 419.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -15.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 463.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -24.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 513.0,
+        "product_mz": 469.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -16.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 513.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -26.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.18,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 513.0,
+        "product_mz": 469.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -16.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 513.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -26.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.18,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFUdA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 563.0,
+        "product_mz": 519.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -18.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 563.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.61,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -18.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFUdA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 563.0,
+        "product_mz": 519.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -18.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 563.0,
+        "product_mz": 269.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -27.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.61,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -18.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -45.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFDoA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 613.0,
+        "product_mz": 569.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -19.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 613.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.86,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -33.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -52.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFDoA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 613.0,
+        "product_mz": 569.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -19.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 613.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.86,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -33.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -19.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -52.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFTrDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 663.0,
+        "product_mz": 619.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -21.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 663.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 22.94,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -39.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -21.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -18.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFTrDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 663.0,
+        "product_mz": 619.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -21.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 663.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 22.94,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -39.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -21.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -18.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFTeDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 713.0,
+        "product_mz": 669.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 713.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.85,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -42.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -51.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFTeDA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 713.0,
+        "product_mz": 669.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -25.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 713.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.85,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -42.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -51.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFBS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 299.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -70.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 299.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 8.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -44.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -70.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFBS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 299.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -70.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 299.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 8.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -44.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -70.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFPeS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 349.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -80.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 349.0,
+        "product_mz": 119.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.0,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFPeS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 349.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -80.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 349.0,
+        "product_mz": 119.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.0,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -80.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFHxS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 399.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -84.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 399.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -42.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -108.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -84.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFHxS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 399.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -84.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 399.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -42.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.48,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -108.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -84.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFHpS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 449.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -84.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 449.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -41.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.69,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -58.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -84.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -24.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFHpS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 449.0,
+        "product_mz": 99.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -84.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 449.0,
+        "product_mz": 169.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -41.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.69,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -58.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -84.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -24.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFOS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 499.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -120.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 499.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -150.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -120.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFOS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 499.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -120.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 499.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -100.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -150.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -120.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFNS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 549.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -142.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 549.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -124.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -72.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -142.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFNS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 549.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -142.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 549.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -124.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -72.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -10.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -142.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFDS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 599.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -171.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 599.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -141.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.69,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -136.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -171.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFDS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 599.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -171.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 599.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -141.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 20.69,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -136.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -171.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFUdS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 649.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -160.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 649.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -140.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.82,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -180.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -160.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFUdS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 649.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -160.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 649.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -140.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.82,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -180.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -4.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -160.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFDoS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 699.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -171.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 699.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -158.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 22.95,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -79.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -171.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFDoS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 699.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -171.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 699.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -158.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 22.95,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -79.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -171.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "PFTrDS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 749.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -177.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 749.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -174.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.76,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -76.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -177.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "PFTrDS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 749.0,
+        "product_mz": 80.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -177.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 749.0,
+        "product_mz": 99.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -174.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 23.76,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -76.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -177.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "FOSA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 78.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -93.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 478.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -41.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.3,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -138.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -93.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "FOSA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 78.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -93.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 478.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -41.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.3,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -138.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -93.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -7.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "DONA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 377.0,
+        "product_mz": 251.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -15.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 377.0,
+        "product_mz": 85.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "DONA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 377.0,
+        "product_mz": 251.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -15.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 377.0,
+        "product_mz": 85.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -39.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 11.25,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -25.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -8.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -15.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -20.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "HFPO-DA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 285.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 285.0,
+        "product_mz": 185.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -21.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.47,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -78.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -27.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "HFPO-DA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 285.0,
+        "product_mz": 169.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -11.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 285.0,
+        "product_mz": 185.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -21.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 13.47,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -78.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -27.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "9Cl-PF3ONS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 531.0,
+        "product_mz": 351.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 531.0,
+        "product_mz": 83.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -92.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "9Cl-PF3ONS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 531.0,
+        "product_mz": 351.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -38.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 531.0,
+        "product_mz": 83.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -92.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 18.49,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -100.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -13.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "11Cl-PF3OUdS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 631.0,
+        "product_mz": 451.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 631.0,
+        "product_mz": 199.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.24,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -34.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -40.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "11Cl-PF3OUdS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 631.0,
+        "product_mz": 451.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -40.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 631.0,
+        "product_mz": 199.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -36.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.24,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -34.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -40.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -12.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "4:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 327.0,
+        "product_mz": 307.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -28.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 327.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -62.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.27,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -50.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -28.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -24.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "4:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 327.0,
+        "product_mz": 307.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -28.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 327.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -62.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 10.27,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -50.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -28.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -24.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "6:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 427.0,
+        "product_mz": 407.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -34.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 427.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -88.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.38,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -31.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -34.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "6:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 427.0,
+        "product_mz": 407.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -34.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 427.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -88.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 15.38,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -31.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -34.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -38.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "8:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 527.0,
+        "product_mz": 507.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -37.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 527.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -109.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.15,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -69.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "8:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 527.0,
+        "product_mz": 507.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -37.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 527.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -109.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 19.15,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -69.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -37.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -29.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "10:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 627.0,
+        "product_mz": 607.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -46.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 627.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -129.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.88,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -54.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -46.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -48.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "10:2 FTS",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 627.0,
+        "product_mz": 607.0,
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": -46.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 627.0,
+        "product_mz": 81.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -129.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 21.88,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -54.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -6.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -46.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -48.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "cholic acid 1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 124.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -62.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -161.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -62.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "cholic acid 1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 124.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -62.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -161.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -14.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -62.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -16.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "cholic acid 2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 80.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -152.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -107.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -152.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "C-010.03",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "cholic acid 2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": 498.0,
+        "product_mz": 80.0,
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": -152.0,
+          "unit": "volts"
+        },
+        "source_ion_label": "Transition from Table 8-2"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": 17.6,
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "DP",
+        "value": -107.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "EP",
+        "value": -11.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CE",
+        "value": -152.0,
+        "unit": "volts",
+        "context": null
+      },
+      {
+        "parameter_name": "CXP",
+        "value": -9.0,
+        "unit": "volts",
+        "context": null
+      }
+    ]
+  }
+]

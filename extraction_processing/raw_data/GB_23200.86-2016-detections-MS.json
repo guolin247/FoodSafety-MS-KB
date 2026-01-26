@@ -1,0 +1,2452 @@
+{
+  "detections": [
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "117-18-0",
+      "compound_chinese_name": "四氯硝基苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "259",
+          "product_mz": "201",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "15.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "81",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "117-18-0",
+      "compound_chinese_name": "四氯硝基苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "261",
+          "product_mz": "203",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "15.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "81",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "608-73-1",
+      "compound_chinese_name": "六氯苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "284",
+          "product_mz": "214",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "19.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "96",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "608-73-1",
+      "compound_chinese_name": "六氯苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "286",
+          "product_mz": "251",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "19.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "96",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-84-6",
+      "compound_chinese_name": "α-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "181",
+          "product_mz": "145",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "20.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "48",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-84-6",
+      "compound_chinese_name": "α-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "219",
+          "product_mz": "183",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "20.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "48",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "82-68-8",
+      "compound_chinese_name": "五氯硝基苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "237",
+          "product_mz": "143",
+          "collision_energy": {
+            "value": "25",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "23.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "22",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "82-68-8",
+      "compound_chinese_name": "五氯硝基苯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "295",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "23.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "22",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "58-89-9",
+      "compound_chinese_name": "林丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "181",
+          "product_mz": "145",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "24.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "22",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "58-89-9",
+      "compound_chinese_name": "林丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "219",
+          "product_mz": "183",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "13.0~25.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "24.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "22",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-85-7",
+      "compound_chinese_name": "β-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "181",
+          "product_mz": "145",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "26.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "67",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-85-7",
+      "compound_chinese_name": "β-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "219",
+          "product_mz": "183",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "26.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "67",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "76-44-8",
+      "compound_chinese_name": "七氯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "272",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "27.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "63",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "76-44-8",
+      "compound_chinese_name": "七氯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "274",
+          "product_mz": "239",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "27.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "63",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "527-20-8",
+      "compound_chinese_name": "五氯苯胺",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "265",
+          "product_mz": "158",
+          "collision_energy": {
+            "value": "30",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "27.8",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "527-20-8",
+      "compound_chinese_name": "五氯苯胺",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "265",
+          "product_mz": "192",
+          "collision_energy": {
+            "value": "30",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "27.8",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-86-8",
+      "compound_chinese_name": "δ-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "181",
+          "product_mz": "145",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "28.8",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "85",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "319-86-8",
+      "compound_chinese_name": "δ-六六六",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "219",
+          "product_mz": "183",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "28.8",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "85",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "309-00-2",
+      "compound_chinese_name": "艾氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "263",
+          "product_mz": "193",
+          "collision_energy": {
+            "value": "32",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "29.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "26",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "309-00-2",
+      "compound_chinese_name": "艾氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "263",
+          "product_mz": "228",
+          "collision_energy": {
+            "value": "26",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "29.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "26",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "1825-19-0",
+      "compound_chinese_name": "甲基五氯苯基硫醚",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "296",
+          "product_mz": "263",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "31.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "61",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "1825-19-0",
+      "compound_chinese_name": "甲基五氯苯基硫醚",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "298",
+          "product_mz": "265",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "25.0~33.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "31.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "61",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "27304-13-8",
+      "compound_chinese_name": "氧化氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "387",
+          "product_mz": "263",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "34.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "27304-13-8",
+      "compound_chinese_name": "氧化氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "387",
+          "product_mz": "323",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "34.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "28044-83-9",
+      "compound_chinese_name": "环氧七氯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "353",
+          "product_mz": "253",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "35.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "58",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "28044-83-9",
+      "compound_chinese_name": "环氧七氯",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "353",
+          "product_mz": "289",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "35.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "58",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "5103-74-2",
+      "compound_chinese_name": "反式-氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "373",
+          "product_mz": "266",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "37.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "46",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "5103-74-2",
+      "compound_chinese_name": "反式-氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "375",
+          "product_mz": "268",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "37.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "46",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "5103-71-9",
+      "compound_chinese_name": "顺式-氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "373",
+          "product_mz": "266",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "5103-71-9",
+      "compound_chinese_name": "顺式-氯丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "375",
+          "product_mz": "268",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.3",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-55-9",
+      "compound_chinese_name": "o,p'-滴滴伊",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "246",
+          "product_mz": "176",
+          "collision_energy": {
+            "value": "25",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.4",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-55-9",
+      "compound_chinese_name": "o,p'-滴滴伊",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "248",
+          "product_mz": "176",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.4",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "959-98-8",
+      "compound_chinese_name": "α-硫丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "241",
+          "product_mz": "206",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.4",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "959-98-8",
+      "compound_chinese_name": "α-硫丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "272",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": "38.4",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "74",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-55-9",
+      "compound_chinese_name": "p,p'-滴滴伊",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "246",
+          "product_mz": "176",
+          "collision_energy": {
+            "value": "25",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "40.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "52",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-55-9",
+      "compound_chinese_name": "p,p'-滴滴伊",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "248",
+          "product_mz": "176",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "40.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "52",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "60-57-1",
+      "compound_chinese_name": "狄氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "277",
+          "product_mz": "205",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "40.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "19",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "60-57-1",
+      "compound_chinese_name": "狄氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "263",
+          "product_mz": "193",
+          "collision_energy": {
+            "value": "26",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "40.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "19",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "53-19-0",
+      "compound_chinese_name": "o,p'-滴滴滴",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "235",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "41.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "64",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "53-19-0",
+      "compound_chinese_name": "o,p'-滴滴滴",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "237",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "41.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "64",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-20-8",
+      "compound_chinese_name": "异狄氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "263",
+          "product_mz": "193",
+          "collision_energy": {
+            "value": "26",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "41.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "40",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-20-8",
+      "compound_chinese_name": "异狄氏剂",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "281",
+          "product_mz": "245",
+          "collision_energy": {
+            "value": "12",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "41.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "40",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "789-02-6",
+      "compound_chinese_name": "o,p'-滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "235",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "42.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "66",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "789-02-6",
+      "compound_chinese_name": "o,p'-滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "237",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "42.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "66",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-54-8",
+      "compound_chinese_name": "p,p'-滴滴滴",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "235",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "65",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-54-8",
+      "compound_chinese_name": "p,p'-滴滴滴",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "237",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "65",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "33213-65-9",
+      "compound_chinese_name": "β-硫丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "241",
+          "product_mz": "206",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "97",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "33213-65-9",
+      "compound_chinese_name": "β-硫丹",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "272",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "18",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.0",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "97",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "789-02-6",
+      "compound_chinese_name": "p,p'-滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "235",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "65",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "789-02-6",
+      "compound_chinese_name": "p,p'-滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "237",
+          "product_mz": "165",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "65",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "7421-93-4",
+      "compound_chinese_name": "异狄氏剂醛",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "345",
+          "product_mz": "317",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "7421-93-4",
+      "compound_chinese_name": "异狄氏剂醛",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "347",
+          "product_mz": "319",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "43.9",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "41",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "1031-07-8",
+      "compound_chinese_name": "硫丹硫酸盐",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "272",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "44.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "54",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "1031-07-8",
+      "compound_chinese_name": "硫丹硫酸盐",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "274",
+          "product_mz": "239",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "39.5~45.3",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "44.5",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "54",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-43-5",
+      "compound_chinese_name": "甲氧滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "227",
+          "product_mz": "212",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "68",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "72-43-5",
+      "compound_chinese_name": "甲氧滴滴涕",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "227",
+          "product_mz": "169",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.1",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "68",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "53494-70-5",
+      "compound_chinese_name": "异狄氏剂酮",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "315",
+          "product_mz": "279",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "75",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "53494-70-5",
+      "compound_chinese_name": "异狄氏剂酮",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "317",
+          "product_mz": "281",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.2",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "75",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "2385-85-5",
+      "compound_chinese_name": "灭蚁灵",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "270",
+          "product_mz": "235",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Confirmation",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "60",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.86—2016",
+      "run_config_id": "GC-MS/MS-001",
+      "compound_english_name": null,
+      "CAS_number": "2385-85-5",
+      "compound_chinese_name": "灭蚁灵",
+      "data_source_location": "表A.1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": "272",
+          "product_mz": "237",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "parameter_type": "Quantification",
+          "source_ion_label": "母离子（m/z）, 子离子（m/z）, 碰撞能量（eV）"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Acquisition Window",
+          "value": "45.3~48.0",
+          "unit": "min",
+          "context": "Original Key: 时间窗口 (min)"
+        },
+        {
+          "parameter_name": "RT",
+          "value": "46.6",
+          "unit": "min",
+          "context": "Original Key: 保留时间（min）"
+        },
+        {
+          "parameter_name": "Ion Ratio",
+          "value": "60",
+          "unit": "%",
+          "context": "Original Key: 定性/定量离子丰度比（%）"
+        }
+      ]
+    }
+  ]
+}

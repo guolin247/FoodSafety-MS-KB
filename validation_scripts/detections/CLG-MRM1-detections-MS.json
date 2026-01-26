@@ -1,0 +1,6978 @@
+[
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "2-Quinoxaline Carboxylic Acid",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 174.95,
+        "product_mz": 129.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 174.95,
+        "product_mz": 131.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 174.95,
+        "product_mz": 102.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.35",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.22-2.60",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Amoxicillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 366.14,
+        "product_mz": 114.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 366.14,
+        "product_mz": 349.34,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 366.14,
+        "product_mz": 208.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.45",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.25 – 1.90",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Salbutamol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.23,
+        "product_mz": 148.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.23,
+        "product_mz": 222.3,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.23,
+        "product_mz": 166.15,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.45",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.27 - 1.67",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Cimaterol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 220.04,
+        "product_mz": 142.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 220.04,
+        "product_mz": 115.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 220.04,
+        "product_mz": 88.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.50",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.32 - 1.72",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "DCCD",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 549.1,
+        "product_mz": 182.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 549.1,
+        "product_mz": 241.12,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 549.1,
+        "product_mz": 125.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 76.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.65",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.55 - 2.10",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Lincomycin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 407.31,
+        "product_mz": 126.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 407.31,
+        "product_mz": 359.22,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 407.31,
+        "product_mz": 389.21,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.84",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.69 - 2.09",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfadiazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 251.1,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 251.1,
+        "product_mz": 108.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 251.1,
+        "product_mz": 158.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.91",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.79 - 2.19",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ampicillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 350.14,
+        "product_mz": 106.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 350.14,
+        "product_mz": 114.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 350.14,
+        "product_mz": 160.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.98",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.82 - 2.35",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Desethylene Ciprofloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 306.2,
+        "product_mz": 288.19,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 306.2,
+        "product_mz": 245.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 306.2,
+        "product_mz": 289.28,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.03",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.88 - 2.30",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfathiazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.07,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.07,
+        "product_mz": 108.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.07,
+        "product_mz": 101.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.01",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.90 - 2.30",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "25",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfapyridine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 250.09,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 250.09,
+        "product_mz": 92.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 250.09,
+        "product_mz": 108.11,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.07",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.92 - 2.37",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Norfloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 320.17,
+        "product_mz": 276.19,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 320.17,
+        "product_mz": 233.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 320.17,
+        "product_mz": 219.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.12",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.95 - 2.43",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tulathromycin A",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 806.75,
+        "product_mz": 72.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 806.75,
+        "product_mz": 577.47,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 806.75,
+        "product_mz": 116.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.16",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.93 - 2.38",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Oxytetracycline",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 461.23,
+        "product_mz": 426.35,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 461.23,
+        "product_mz": 443.39,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 461.23,
+        "product_mz": 201.24,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.17",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.94 - 2.40",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "25",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ciprofloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.23,
+        "product_mz": 245.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.23,
+        "product_mz": 288.39,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.23,
+        "product_mz": 203.21,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.18",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.00 - 2.45",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ractopamine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 302.2,
+        "product_mz": 164.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 302.2,
+        "product_mz": 106.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 302.2,
+        "product_mz": 120.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.25",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.08 - 2.48",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamerazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 265.04,
+        "product_mz": 91.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 265.04,
+        "product_mz": 155.92,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 265.04,
+        "product_mz": 107.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.22",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.10 - 2.49",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Danofloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.12,
+        "product_mz": 96.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.12,
+        "product_mz": 314.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.12,
+        "product_mz": 283.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.27",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.12 - 2.52",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tetracycline",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.23,
+        "product_mz": 154.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.23,
+        "product_mz": 410.22,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.23,
+        "product_mz": 427.32,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.32",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.16 - 2.56",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Enrofloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 360.24,
+        "product_mz": 316.4,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 360.24,
+        "product_mz": 245.25,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 360.24,
+        "product_mz": 203.16,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.35",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.20 - 2.60",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamethizole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 271.06,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 271.06,
+        "product_mz": 91.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 271.06,
+        "product_mz": 107.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.44",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.30 - 2.70",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamethazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 279.14,
+        "product_mz": 186.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 279.14,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 279.14,
+        "product_mz": 108.12,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.47",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.26 - 2.65",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamethazine-6C13",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.17,
+        "product_mz": 186.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.17,
+        "product_mz": 98.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.17,
+        "product_mz": 124.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.47",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.24 - 2.73",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Cefazolin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 455.13,
+        "product_mz": 156.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 455.13,
+        "product_mz": 323.15,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 455.13,
+        "product_mz": 112.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.44",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.32 - 2.80",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamethoxypyridazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 281.12,
+        "product_mz": 156.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 281.12,
+        "product_mz": 126.17,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 281.12,
+        "product_mz": 108.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.49",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.34 - 2.72",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Difloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 400.25,
+        "product_mz": 356.43,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 400.25,
+        "product_mz": 299.23,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 400.25,
+        "product_mz": 285.28,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.59",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.27 - 2.75",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sarafloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 386.09,
+        "product_mz": 342.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 386.09,
+        "product_mz": 299.17,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 386.09,
+        "product_mz": 270.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 45.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.55",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.35 - 2.75",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Pirlimycin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 411.29,
+        "product_mz": 112.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 411.29,
+        "product_mz": 363.33,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 411.29,
+        "product_mz": 110.34,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 45.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.74",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.44 - 2.84",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Chlortetracycline",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 479.19,
+        "product_mz": 154.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 479.19,
+        "product_mz": 444.26,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 479.19,
+        "product_mz": 462.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.81",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.63 - 3.03",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Clindamycin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 425.3,
+        "product_mz": 126.22,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 425.3,
+        "product_mz": 377.4,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 425.3,
+        "product_mz": 124.32,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 45.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.87",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.68 - 3.08",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "45",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Gamithromycin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 777.79,
+        "product_mz": 83.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 48.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 777.79,
+        "product_mz": 115.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 777.79,
+        "product_mz": 158.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.94",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.70 - 3.10",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "66",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfachloropyridazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.0,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.0,
+        "product_mz": 107.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.0,
+        "product_mz": 91.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.85",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.29 - 3.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tilmicosin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 869.79,
+        "product_mz": 174.16,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 869.79,
+        "product_mz": 132.23,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 869.79,
+        "product_mz": 696.63,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.10",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.83 - 3.25",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "45",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfadoxine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.15,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.15,
+        "product_mz": 108.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.15,
+        "product_mz": 140.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.85 - 3.25",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfamethoxazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 254.02,
+        "product_mz": 92.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 254.02,
+        "product_mz": 155.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 254.02,
+        "product_mz": 107.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.89 - 3.29",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfaethoxypyridazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 295.13,
+        "product_mz": 156.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 295.13,
+        "product_mz": 140.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 295.13,
+        "product_mz": 108.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 25.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.04",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.91 - 3.31",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Florfenicol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.1,
+        "product_mz": 241.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.1,
+        "product_mz": 206.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 358.1,
+        "product_mz": 130.36,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 60.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.06",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.93 - 3.33",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Chloramphenicol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 321.12,
+        "product_mz": 152.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 321.12,
+        "product_mz": 194.27,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 321.12,
+        "product_mz": 257.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.25",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.00 - 3.60",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Erythromycin A",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.75,
+        "product_mz": 158.15,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.75,
+        "product_mz": 115.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.75,
+        "product_mz": 576.48,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.53",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.28 - 3.68",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfadimethoxine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.14,
+        "product_mz": 156.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.14,
+        "product_mz": 108.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 311.14,
+        "product_mz": 245.22,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.46",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.33 - 3.75",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "35",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfaquinoxaline",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 301.1,
+        "product_mz": 156.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 301.1,
+        "product_mz": 107.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 301.1,
+        "product_mz": 91.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.47",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.35 - 3.75",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Prednisone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 359.15,
+        "product_mz": 341.11,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 359.15,
+        "product_mz": 146.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 359.15,
+        "product_mz": 267.28,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.56",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.37 - 3.85",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tylosin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.76,
+        "product_mz": 174.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.76,
+        "product_mz": 101.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.76,
+        "product_mz": 145.15,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 35.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.70",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.46 - 3.86",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "45",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Pen G-d7",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 342.13,
+        "product_mz": 183.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 342.13,
+        "product_mz": 160.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 342.13,
+        "product_mz": 98.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 54.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.74",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.63 - 4.20",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "46",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Penicillin G",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 335.13,
+        "product_mz": 176.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 335.13,
+        "product_mz": 160.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 335.13,
+        "product_mz": 114.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.76",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.61 - 4.03",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "18",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Sulfanitran",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 336.15,
+        "product_mz": 156.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 336.15,
+        "product_mz": 134.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 336.15,
+        "product_mz": 92.71,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 38.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.05",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.93 - 4.33",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Taleranol (β-Zearalanol)",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 323.21,
+        "product_mz": 305.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 323.21,
+        "product_mz": 189.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 323.21,
+        "product_mz": 149.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.26",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.13 - 4.53",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "16",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Oxacillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 402.14,
+        "product_mz": 160.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 402.14,
+        "product_mz": 243.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 402.14,
+        "product_mz": 144.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 34.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.29",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.17 - 4.70",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Cloxacillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 436.16,
+        "product_mz": 160.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 436.16,
+        "product_mz": 277.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 436.16,
+        "product_mz": 114.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 44.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.55",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.43 - 5.05",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Nafcillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 415.22,
+        "product_mz": 199.17,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 415.22,
+        "product_mz": 171.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 42.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 415.22,
+        "product_mz": 115.11,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 70.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.68",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.55 - 5.10",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Oxyphenylbutazone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 325.18,
+        "product_mz": 120.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 325.18,
+        "product_mz": 148.16,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 325.18,
+        "product_mz": 204.12,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.74",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.59 - 4.99",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Flunixin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 297.05,
+        "product_mz": 279.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 297.05,
+        "product_mz": 109.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 50.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 297.05,
+        "product_mz": 264.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.82",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.61 - 5.03",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "42",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Flunixin-d3",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.05,
+        "product_mz": 282.12,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.05,
+        "product_mz": 112.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 54.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.05,
+        "product_mz": 264.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.81",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.63 - 5.03",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Dicloxacillin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 470.19,
+        "product_mz": 160.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 470.19,
+        "product_mz": 311.11,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 470.19,
+        "product_mz": 114.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 48.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.93",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.80 - 5.35",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Phenylbutazone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 309.12,
+        "product_mz": 119.95,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 309.12,
+        "product_mz": 76.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 309.12,
+        "product_mz": 91.8,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "5.85",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "5.69 - 6.09",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Melengestrol acetate",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 397.35,
+        "product_mz": 279.33,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 397.35,
+        "product_mz": 337.46,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 15.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 397.35,
+        "product_mz": 221.28,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "6.18",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "6.04 - 6.44",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "2-Aminosulfone Albendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.04,
+        "product_mz": 105.55,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.04,
+        "product_mz": 132.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 240.04,
+        "product_mz": 197.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.90",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.35 - 2.05",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "36",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "2-amino-Flubendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.05,
+        "product_mz": 94.86,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 38.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.05,
+        "product_mz": 122.87,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 256.05,
+        "product_mz": 132.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.81",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.49 - 3.19",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "50",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Abamectin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 890.84,
+        "product_mz": 112.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 890.84,
+        "product_mz": 144.99,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 42.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 890.84,
+        "product_mz": 305.26,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "7.93",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "7.51 - 8.21",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "16",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Acepromazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 327.24,
+        "product_mz": 85.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 327.24,
+        "product_mz": 222.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 42.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 327.24,
+        "product_mz": 254.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.63",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.29 - 3.99",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Albendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 266.12,
+        "product_mz": 158.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 38.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 266.12,
+        "product_mz": 191.12,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 266.12,
+        "product_mz": 234.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.67",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.32 - 4.02",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Azaperone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.27,
+        "product_mz": 94.86,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 62.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.27,
+        "product_mz": 122.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.27,
+        "product_mz": 165.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.41",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.06 - 2.76",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Butorphanol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.19,
+        "product_mz": 124.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.19,
+        "product_mz": 157.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 328.19,
+        "product_mz": 310.24,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.97",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.62 - 3.32",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "10",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Carazolol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 299.26,
+        "product_mz": 97.92,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 299.26,
+        "product_mz": 115.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 299.26,
+        "product_mz": 222.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.96",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.61 - 3.31",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Diclofenac",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 296.05,
+        "product_mz": 214.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 296.05,
+        "product_mz": 250.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 296.05,
+        "product_mz": 278.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "5.53",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "5.14 - 5.84",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "20",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Dimetridazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 141.96,
+        "product_mz": 80.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 141.96,
+        "product_mz": 95.87,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 141.96,
+        "product_mz": 111.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.88",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.52 - 2.22",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Dimetridazole - OH",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 158.02,
+        "product_mz": 93.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 158.02,
+        "product_mz": 111.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 158.02,
+        "product_mz": 139.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.65",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.30 - 2.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Dipyrone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 218.09,
+        "product_mz": 96.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 218.09,
+        "product_mz": 124.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 218.09,
+        "product_mz": 187.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.61",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.28 - 1.98",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "24",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Doramectin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.85,
+        "product_mz": 112.95,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 56.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.85,
+        "product_mz": 145.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 48.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 916.85,
+        "product_mz": 331.27,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "8.28",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "7.87 - 8.57",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Doxycycline",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.31,
+        "product_mz": 97.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.31,
+        "product_mz": 153.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 445.31,
+        "product_mz": 428.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.93",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.58 - 3.28",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emamectin Benzoate",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.81,
+        "product_mz": 125.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.81,
+        "product_mz": 158.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 886.81,
+        "product_mz": 302.2,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "5.69",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "5.36 - 6.06",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "52",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Eprinomectin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 914.8,
+        "product_mz": 112.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 74.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 914.8,
+        "product_mz": 154.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 914.8,
+        "product_mz": 186.08,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "7.41",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "7.05 - 7.75",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "18",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Fenbendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.11,
+        "product_mz": 130.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.11,
+        "product_mz": 158.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 300.11,
+        "product_mz": 268.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.32",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.96 - 4.66",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "38",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Fenbendazole sulphone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.1,
+        "product_mz": 130.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 50.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.1,
+        "product_mz": 158.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 38.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 332.1,
+        "product_mz": 300.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.62",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.30 - 4.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Flubendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 314.12,
+        "product_mz": 94.85,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 50.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 314.12,
+        "product_mz": 122.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 314.12,
+        "product_mz": 282.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.88",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.51 - 4.21",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "38",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Haloperidol",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 376.24,
+        "product_mz": 94.92,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 68.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 376.24,
+        "product_mz": 122.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 42.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 376.24,
+        "product_mz": 165.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.62",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.28 - 3.98",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ipronidazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 170.05,
+        "product_mz": 95.84,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 170.05,
+        "product_mz": 109.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 170.05,
+        "product_mz": 123.99,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.21",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.83 - 3.53",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ipronidazole - OH",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 186.05,
+        "product_mz": 121.84,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 186.05,
+        "product_mz": 127.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 186.05,
+        "product_mz": 167.98,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.53",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.17 - 2.87",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ketamine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 239.18,
+        "product_mz": 126.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 239.18,
+        "product_mz": 180.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 239.18,
+        "product_mz": 221.14,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.29",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.97 - 2.67",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ketoprofen",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 255.09,
+        "product_mz": 76.84,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 255.09,
+        "product_mz": 104.85,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 255.09,
+        "product_mz": 209.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.68",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.30 - 5.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Levamisole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 205.04,
+        "product_mz": 90.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 34.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 205.04,
+        "product_mz": 122.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 205.04,
+        "product_mz": 177.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.91",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.56 - 2.26",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "40",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Meloxicam",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 352.0,
+        "product_mz": 114.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 352.0,
+        "product_mz": 140.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 352.0,
+        "product_mz": 184.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.86",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.48 - 5.18",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Metronidazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 171.96,
+        "product_mz": 81.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 171.96,
+        "product_mz": 110.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 171.96,
+        "product_mz": 127.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.63",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.29 - 1.99",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Metronidazole - OH",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 188.03,
+        "product_mz": 122.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 188.03,
+        "product_mz": 125.95,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 188.03,
+        "product_mz": 143.92,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.44",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.09 - 1.79",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Morantel tartrate",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 110.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 122.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 150.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.66",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.31 - 3.01",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "50",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Moxidectin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 640.53,
+        "product_mz": 199.03,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 640.53,
+        "product_mz": 498.22,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 640.53,
+        "product_mz": 528.34,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 8.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "8.29",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "7.86 - 8.56",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "16",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Orbifloxacin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 396.24,
+        "product_mz": 295.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 396.24,
+        "product_mz": 352.15,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 396.24,
+        "product_mz": 378.18,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.41",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.07 - 2.77",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "36",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Promethazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.16,
+        "product_mz": 85.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.16,
+        "product_mz": 197.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 285.16,
+        "product_mz": 240.09,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 16.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "3.66",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.31 - 4.01",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "24",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Propionylpromazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 341.19,
+        "product_mz": 85.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 341.19,
+        "product_mz": 236.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 341.19,
+        "product_mz": 268.07,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.00",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.67 - 4.37",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ronidazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 201.02,
+        "product_mz": 54.84,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 201.02,
+        "product_mz": 66.89,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 201.02,
+        "product_mz": 139.93,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 10.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.85",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.50 - 2.20",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "18",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Selamectin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 770.66,
+        "product_mz": 94.92,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 52.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 770.66,
+        "product_mz": 112.96,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 770.66,
+        "product_mz": 144.99,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 30.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "8.57",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "8.14 - 8.84",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "36",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Thiabendazole",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 202.0,
+        "product_mz": 64.88,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 202.0,
+        "product_mz": 130.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 202.0,
+        "product_mz": 174.91,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 26.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.95",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.60 - 2.30",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "44",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tildipirosin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.62,
+        "product_mz": 115.7,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 56.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.62,
+        "product_mz": 132.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 46.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 734.62,
+        "product_mz": 174.06,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 38.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "1.74",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "1.37 - 2.07",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "58",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tolfenamic Acid",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 262.09,
+        "product_mz": 180.0,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 40.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 262.09,
+        "product_mz": 228.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 32.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 262.09,
+        "product_mz": 244.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 14.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "6.18",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "5.77 - 6.47",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Tyvalosin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 1043.76,
+        "product_mz": 83.16,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 60.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 1043.76,
+        "product_mz": 109.28,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 48.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 1043.76,
+        "product_mz": 174.13,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.76",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.44 - 5.14",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "62",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Virginiamycin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 526.4,
+        "product_mz": 108.9,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 44.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 526.4,
+        "product_mz": 355.1,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 18.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 526.4,
+        "product_mz": 508.3,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 12.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.45",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.09 - 4.79",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Xylazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 90.01,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 105.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 36.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 221.07,
+        "product_mz": 147.04,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 24.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "2.66",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "2.18 - 2.88",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "42",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Chlorpromazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 319.19,
+        "product_mz": 85.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 20.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 319.19,
+        "product_mz": 213.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 42.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 319.19,
+        "product_mz": 245.97,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.12",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "3.8-4.5",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-MRM1.08",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Triflupromazine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 353.21,
+        "product_mz": 85.94,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 22.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 353.21,
+        "product_mz": 248.02,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 44.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": 353.21,
+        "product_mz": 280.05,
+        "parameter_type": null,
+        "collision_energy": {
+          "value": 28.0,
+          "unit": "eV"
+        },
+        "source_ion_label": null
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Retention Time",
+        "value": "4.35",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Retention Time Window",
+        "value": "4.04 - 4.74",
+        "unit": "min",
+        "context": null
+      },
+      {
+        "parameter_name": "Dwell Time",
+        "value": "5",
+        "unit": "ms",
+        "context": null
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": null
+      }
+    ]
+  },
+{
+  "method_id": "CLG-MRM1.08",
+  "run_config_id": "LC-MS/MS-001",
+  "compound_english_name": "Chloramphenicol",
+  "CAS_number": null,
+  "mass_spec_params": [
+    {
+      "ms_level": "MS2",
+      "polarity": "Negative",
+      "precursor_mz": 321.09,
+      "product_mz": 152.03,
+      "parameter_type": null,
+      "collision_energy": {
+        "value": 15.0,
+        "unit": "eV"
+      },
+      "source_ion_label": null
+    }
+  ],
+  "performance_parameters": [
+    {
+      "parameter_name": "Retention Time",
+      "value": "3.25",
+      "unit": "min",
+      "context": null
+    },
+    {
+      "parameter_name": "Window",
+      "value": "3.00-3.60",
+      "unit": "min",
+      "context": null
+    },
+    {
+      "parameter_name": "Dwell Time",
+      "value": "0.008",
+      "unit": "ms",
+      "context": null
+    },
+    {
+      "parameter_name": "Cone Voltage",
+      "value": "35",
+      "unit": "V",
+      "context": null
+    }
+  ]
+}
+]

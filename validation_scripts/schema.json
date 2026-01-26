@@ -1,0 +1,221 @@
+{
+  "schema_version": "2.1",
+  "definitions": {
+    "methods": {
+      "method_identification": {
+        "key":"method_identification",
+        "description": "Method identification information",
+        "type": "object",
+        "properties": {
+        "method_id": { "key": "method_id", "description": "方法方案标识符: 指向一个已发布的详细方法或方案的唯一标识符（如DOI或URL）。" },
+        "method_name": { "key": "method_name", "description": "方法名称: 协议或标准的完整官方名称。" },
+        "issuing_country": { "key": "issuing_country", "description": "发布国家: 标准发布国家。" },
+        "issuing_agency": { "key": "issuing_agency", "description": "发布机构: 标准发布机构。" },
+        "publication_date": { "key": "publication_date", "description": "发布日期: 标准发布日期。" },
+        "implementation_date": { "key": "implementation_date", "description": "实施日期: 标准实施日期。" },
+        "method_type": { "key": "method_type", "description": "方法类型: 方法的主要技术类型。" },
+        "other_information": { "key": "other_information", "description": "其他信息: 其他有关方法的说明。" }
+        }
+      },
+    "analytical_runs": {
+        "key": "analytical_runs",
+        "description": "该方法下所有可用的、不同环境参数的分析运行配置列表。每个条目是一个可独立运行的完整配置（前处理、色谱、质谱）。",
+        "type": "array",
+        "items": {
+            "type": "object",
+            "properties": {
+                "run_config_id": { 
+                    "key": "run_config_id", 
+                    "description": "该运行配置的**规范化唯一标识符**。**必须**使用以下四种前缀之一：'LC-MS'、'LC-MS/MS'、'GC-MS'、'GC-MS/MS'，后接三位数字序列号（从001开始）。**格式示例**：'LC-MS/MS-001'，'GC-MS-002'，用于detections关联。", 
+                    "type": "string" 
+                },
+
+                "sample_information": {
+                  "key": "sample_information",
+                  "description": "样品信息: 关于被测样品的描述信息。",
+                  "type": "object",
+                  "properties": {
+                    "source": { "key": "source", "description": "食品来源: 食品的来源（如植物、动物或其他生物）。" },
+                    "partNature": { "key": "partNature", "description": "样品部位性质: 食品的部分性质（如谷物、叶子、果实）。" },
+                    "scientificNames": { "key": "scientificNames", "description": "科学名称: 食品的科学名称。" },
+                    "other_information": { "key": "other_information", "description": "其他样品信息: 样品范围的详细补充说明。" }
+                  }
+                },
+                "sample_preparation": {
+                  "key": "sample_preparation",
+                  "description": "样品制备: 样品前处理的完整流程和参数。",
+                  "type": "object",
+                  "properties": {
+                    "biological_replicate_count": { "key": "biological_replicate_count", "description": "生物学重复数: 从不同个体或群体池中获取并进行重复分析的样本数量。推荐最少为3，首选为5。" },
+                    "analytical_replicate_count": { "key": "analytical_replicate_count", "description": "分析重复数: 对同一样本进行重复技术分析的次数。" },
+                    "harvesting_method_type": { "key": "harvesting_method_type", "description": "获取方法类型: 样本获取方法的分类。" },
+                    "tissue_freezing_method": { "key": "tissue_freezing_method", "description": "组织冷冻方法: 描述组织样本的快速冷冻方法。" },
+                    "tissue_wash_method": { "key": "tissue_wash_method", "description": "组织清洗方法: 描述为去除不需要的外部成分而采用的样本清洗方法。" },
+                    "time_to_freezing": { "key": "time_to_freezing", "description": "样本冻结前耗时: 从组织切除到液氮冷冻所花费的时间和持续时长。" },
+                    "collection_temperature": { "key": "collection_temperature", "description": "样本收集温度: 组织收集过程中的环境温度。" },
+                    "biofluid_collection_method": { "key": "biofluid_collection_method", "description": "生物流体收集方法: 描述生物流体的具体收集方式，如注射器或真空采血管。" },
+                    "anticoagulant_used": { "key": "anticoagulant_used", "description": "使用的抗凝剂: 如果相关，注明血液收集中使用的抗凝剂。" },
+                    "centrifugation_conditions": { "key": "centrifugation_conditions", "description": "离心条件: 描述离心操作的温度、速度和持续时间。" },
+                    "tissue_processing_method": { "key": "tissue_processing_method", "description": "组织处理方法: 描述样本是冷冻干燥还是新鲜处理。" },
+                    "homogenization_method": { "key": "homogenization_method", "description": "匀浆/裂解方法: 描述组织的粉碎、匀浆或细胞裂解方法。" },
+                    "pre_extraction_storage_temp": { "key": "pre_extraction_storage_temp", "description": "提取前储存温度: 提取或进一步处理前，样本的储存温度。" },
+                    "pre_extraction_storage_duration": { "key": "pre_extraction_storage_duration", "description": "提取前储存时长: 提取或进一步处理前，样本的储存持续时间。" },
+                    "shipping_details": { "key": "shipping_details", "description": "运输详情: 如果样本在不同实验室间转移，描述运输的相关细节。" },
+                    "extraction_solvent": { "key": "extraction_solvent", "description": "提取溶剂: 提取过程中使用的溶剂及其组成。" },
+                    "extraction_solvent_volume": { "key": "extraction_solvent_volume", "description": "提取溶剂体积: 每单位重量组织的溶剂用量。" },
+                    "extraction_replicates": { "key": "extraction_replicates", "description": "提取重复次数: 对同一样本进行提取的次数。" },
+                    "extraction_time": { "key": "extraction_time", "description": "提取时间: 提取过程的持续时间。" },
+                    "extraction_degassed_solvents": { "key": "extraction_degassed_solvents", "description": "提取溶剂是否脱气: 溶剂是否经过脱气处理，以减少敏感化合物的氧化。" },
+                    "concentration_process": { "key": "concentration_process", "description": "浓缩过程: 描述提取物的浓缩或稀释过程。" },
+                    "resolubilization_solvent": { "key": "resolubilization_solvent", "description": "再溶解溶剂: 描述干燥后的提取物用于再溶解的溶剂。" },
+                    "enrichment_method": { "key": "enrichment_method", "description": "富集方法: 如果相关，描述提取物的富集方法，如SPE。" },
+                    "spe_details": { "key": "spe_details", "description": "SPE详情: 描述固相萃取柱的体积/质量、洗脱液、吸附剂和制造商。" },
+                    "cleanup_method": { "key": "cleanup_method", "description": "净化方法: 描述提取物的净化或其他额外操作，如超滤或添加金属螯合剂。" },
+                    "extract_storage_conditions": { "key": "extract_storage_conditions", "description": "提取物储存条件: 分析前和分析期间提取物的储存条件。" },
+                    "extract_shipping_details": { "key": "extract_shipping_details", "description": "提取物运输详情: 如果提取物在不同实验室间转移，描述运输的相关细节。" },
+                    "other_information": { "key": "other_information", "description": "其他样品制备信息: 任何未被覆盖的补充信息。" }
+                  }
+                },
+                "chromatography_conditions": {
+                  "key": "chromatography_conditions",
+                  "description": "色谱条件: 色谱分离的完整条件和参数。",
+                  "type": "object",
+                  "properties": {
+                    "instrument_manufacturer": { "key": "instrument_manufacturer", "description": "仪器制造商: 色谱系统或模块的制造商名称。" },
+                    "instrument_model": { "key": "instrument_model", "description": "仪器型号: 色谱系统或模块的官方型号名称。" },
+                    "software_name": { "key": "software_name", "description": "软件包名称: 用于控制仪器和采集数据的软件包名称。" },
+                    "software_version": { "key": "software_version", "description": "软件包版本: 软件包的版本号或发布日期。" },
+                    "autosampler_model": { "key": "autosampler_model", "description": "进样器型号/类型: 自动进样器的型号或类型。" },
+                    "injection_volume": { "key": "injection_volume", "description": "进样体积: 单次注入样品的体积。" },
+                    "wash_cycles_description": { "key": "wash_cycles_description", "description": "清洗循环描述: 描述进样针的清洗循环，包括次数、体积和溶剂。" },
+                    "wash_solvent": { "key": "wash_solvent", "description": "清洗溶剂: 用于清洗进样针的溶剂成分。" },
+                    "column_type": { "key": "column_type", "description": "柱类型: 分离柱的类型，如分析柱、预柱或保护柱。" },
+                    "column_manufacturer": { "key": "column_manufacturer", "description": "色谱柱制造商: 色谱柱的制造商名称。" },
+                    "column_model": { "key": "column_model", "description": "色谱柱型号/名称: 色谱柱的官方型号或商品名称。" },
+                    "stationary_phase_support": { "key": "stationary_phase_support", "description": "固定相载体: 固定相的基质材料。" },
+                    "stationary_phase_coating": { "key": "stationary_phase_coating", "description": "固定相涂层: 固定相的化学键合相或涂层。" },
+                    "particle_size": { "key": "particle_size", "description": "颗粒粒径 (LC): LC填充颗粒的平均直径。" },
+                    "pore_size": { "key": "pore_size", "description": "颗粒孔径 (LC): LC填充颗粒的平均孔径。" },
+                    "coating_thickness": { "key": "coating_thickness", "description": "涂层厚度 (GC): GC毛细管柱内壁涂层的厚度。" },
+                    "column_internal_diameter": { "key": "column_internal_diameter", "description": "柱内径: 色谱柱的内部直径。" },
+                    "column_length": { "key": "column_length", "description": "柱长度: 色谱柱的长度。" },
+                    "sample_resuspension_solvent": { "key": "sample_resuspension_solvent", "description": "样品重悬溶剂: 干燥后的样品在注入分析前用于重新溶解的溶剂。" },
+                    "injected_amount": { "key": "injected_amount", "description": "注入量: 注入色谱柱的样品绝对量或浓度。" },
+                    "derivatization_details": { "key": "derivatization_details", "description": "衍生化详情: 如果进行了衍生化，描述完整的反应条件。" },
+                    "internal_standards_added": { "key": "internal_standards_added", "description": "添加的内标: 描述为定量或质量控制而添加到样品中的内标物。" },
+                    "retention_index_standards": { "key": "retention_index_standards", "description": "添加的保留指数标品: 描述为计算保留指数而添加的标准品（常用于GC）。" },
+                    "injector_temperature": { "key": "injector_temperature", "description": "进样口温度 (GC): GC进样口的温度设定值。" },
+                    "injection_mode": { "key": "injection_mode", "description": "进样模式 (GC): GC的进样模式，如分流或不分流。" },
+                    "split_ratio": { "key": "split_ratio", "description": "分流比 (GC): 如果使用分流模式，注明分流比。" },
+                    "post_column_split_ratio": { "key": "post_column_split_ratio", "description": "柱后分流比 (LC): LC柱后到检测器的分流比。" },
+                    "mobile_phase_composition": { "key": "mobile_phase_composition", "description": "流动相组成: 描述所有流动相溶剂及其组分（例如，A相和B相）。" },
+                    "flow_rate": { "key": "flow_rate", "description": "流速: 流动相或载气的流速。" },
+                    "column_pressure": { "key": "column_pressure", "description": "柱压: 色谱分离过程中的典型或最大系统压力。" },
+                    "gradient_profile": { "key": "gradient_profile", "description": "梯度曲线: 描述溶剂或温度的梯度变化程序。" },
+                    "other_information": { "key": "other_information", "description": "其他色谱信息: 任何未被覆盖的补充信息。" }
+                  }
+                },
+                "mass_spectrometry_conditions": {
+                  "key": "mass_spectrometry_conditions",
+                  "description": "质谱条件: 质谱检测的完整条件和参数。",
+                  "type": "object",
+                  "properties": {
+                    "ms_instrument_manufacturer": { "key": "ms_instrument_manufacturer", "description": "质谱仪制造商: 质谱仪的制造商名称。" },
+                    "ms_instrument_model": { "key": "ms_instrument_model", "description": "质谱仪型号: 质谱仪的官方型号名称。" },
+                    "ms_software_name": { "key": "ms_software_name", "description": "质谱软件包名称: 用于控制质谱仪和采集数据的软件包名称。" },
+                    "ms_software_version": { "key": "ms_software_version", "description": "质谱软件包版本: 软件包的版本号或发布日期。" },
+                    "sample_introduction_method": { "key": "sample_introduction_method", "description": "样品引入方式: 样品进入质谱仪的方式，例如通过气相色谱、液相色谱或直接注入。" },
+                    "direct_infusion_flow_rate": { "key": "direct_infusion_flow_rate", "description": "直接注入流速: 当使用直接注入时，样品的流速。" },
+                    "ionization_mode": { "key": "ionization_mode", "description": "电离模式: 使用的离子源电离技术类型。" },
+                    "ionization_polarity": { "key": "ionization_polarity", "description": "离子极性: 离子分析的极性模式。" },
+                    "source_vacuum_pressure": { "key": "source_vacuum_pressure", "description": "离子源真空压力: 离子源区域的真空压力。" },
+                    "capillary_voltage": { "key": "capillary_voltage", "description": "毛细管电压: 施加在离子源毛细管上的电压。" },
+                    "nebulization_gas_flow": { "key": "nebulization_gas_flow", "description": "雾化气流速: 雾化气的流速。" },
+                    "cone_gas_flow": { "key": "cone_gas_flow", "description": "锥孔气流速: 锥孔气的流速。" },
+                    "source_temperature": { "key": "source_temperature", "description": "离子源温度: 离子源的温度设定值。" },
+                    "mass_analyzer_type": { "key": "mass_analyzer_type", "description": "质量分析器类型: 使用的质量分析器类型，对于组合仪器应注明组合方式。" },
+                    "ms_acquisition_mode": { "key": "ms_acquisition_mode", "description": "质谱采集模式: 数据的采集模式。" },
+                    "internal_calibrants_added": { "key": "internal_calibrants_added", "description": "添加的内标定物: 为实现高质量数准确度而添加到样品中的内标定物详情。" },
+                    "acquisition_date": { "key": "acquisition_date", "description": "采集日期: 数据采集的日期。" },
+                    "operator_name": { "key": "operator_name", "description": "操作员姓名: 执行数据采集的操作人员姓名。" },
+                    "acquisition_rate": { "key": "acquisition_rate", "description": "采集速率: 数据的采集速率或频率。" },
+                    "scan_range": { "key": "scan_range", "description": "扫描范围: 质荷比(m/z)扫描范围。" },
+                    "mz_calibration_compounds": { "key": "mz_calibration_compounds", "description": "m/z校准化合物: 用于对质荷比(m/z)轴进行校准的化合物列表。" },
+                    "mass_resolution": { "key": "mass_resolution", "description": "质量分辨率: 仪器的质量分辨率设定值。" },
+                    "mass_accuracy": { "key": "mass_accuracy", "description": "质量准确度: 仪器质量测量的准确度。" },
+                    "acquisition_logic_program": { "key": "acquisition_logic_program", "description": "采集逻辑程序: 用于数据采集的逻辑程序描述，常见于离子阱（如数据依赖采集DDA）。" },
+                    "spectral_acquisition_rate": { "key": "spectral_acquisition_rate", "description": "谱图采集速率: 谱图的采集速率。" },
+                    "analyzer_vacuum_pressure": { "key": "analyzer_vacuum_pressure", "description": "分析器真空压力: 质量分析器区域的真空压力。" },
+                    "lock_spray_details": { "key": "lock_spray_details", "description": "锁喷详情: 如果使用锁喷（lock spray）进行实时质量校准，描述其浓度、锁定质量、流速和频率。" },
+                    "other_information": { "key": "other_information", "description": "其他质谱信息: 任何未被覆盖的补充信息。" }
+                  }
+                }
+              }
+           }
+          }
+        },             
+    "detections": {
+      "method_id": {
+        "key": "method_id",
+        "description": "关联到methods集合的外键，指向所使用的检测方法。",
+        "source_keys": ["method_id", "standard_id"],
+        "type": "string"
+      },
+      "run_config_id": { 
+        "key": "run_config_id", 
+        "description": "该运行配置的**规范化唯一标识符**。**必须**使用以下四种前缀之一：'LC-MS'、'LC-MS/MS'、'GC-MS'、'GC-MS/MS'，后接三位数字序列号（从001开始）。**格式示例**：'LC-MS/MS-001'，'GC-MS-002'，用于detections关联。", 
+        "type": "string" 
+      },
+      "compound_english_name": {
+        "key": "compound_english_name",
+        "description": "化合物的英文名称，作为临时的关联键。",
+        "source_keys": ["compound_english_name", "name", "英文名称"],
+        "type": "string"
+      },
+      "CAS_number": {
+        "key": "CAS_number",
+        "description": "化合物的CAS注册号，是化学物质的唯一数字标识符。作为关联化合物的**首选**唯一键。",
+        "source_keys": ["CAS_number", "cas", "CAS", "cas_no", "cas_id", "CAS号"],
+        "type": "string"
+      },
+      "mass_spec_params": {
+        "key": "mass_spec_params",
+        "description": "一个包含所有质谱检测参数事件的列表。每个对象描述一个SIM监测离子或一个MS/MS离子对。",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "ms_level": { "key": "ms_level", "description": "质谱级别，'MS1' (用于SIM) 或 'MS2' (用于MS/MS)。" },
+            "polarity": { "key": "polarity", "description": "离子极性，'Positive' 或 'Negative'。" },
+            "precursor_mz": { "key": "precursor_mz", "description": "母离子的质荷比 (m/z)，MS1级别时为null。" },
+            "product_mz": { "key": "product_mz", "description": "子离子或监测离子的质荷比 (m/z)。" },
+            "parameter_type": { "key": "parameter_type", "description": "参数用途，如 'Quantification' (定量) 或 'Confirmation' (定性)。" },
+            "collision_energy": {
+              "key": "collision_energy",
+              "description": "碰撞能量，包含数值和单位，MS1级别时为null。",
+              "type": "object"
+            },
+            "source_ion_label": { "key": "source_ion_label", "description": "在源文件中的原始标签 (如 '定量离子', 'lon1')，用于溯源。" }
+          }
+        }
+      },
+      "performance_parameters": {
+        "key": "performance_parameters",
+        "description": "一个包含所有性能验证参数的列表。每个对象描述一个独立的参数，如RT,LOQ, LOD, 回收率等。",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "parameter_name": { 
+              "key": "parameter_name", 
+              "description": "参数的规范化名称 (来自一个受控词表)。" 
+            },
+            "value": { "key": "value", "description": "参数的数值。" },
+            "unit": { "key": "unit", "description": "参数的单位。" },
+            "context": { "key": "context", "description": "描述该参数的附加上下文信息，例如基质、添加水平等。" }
+          }
+        }
+      }
+    }
+  }
+}
