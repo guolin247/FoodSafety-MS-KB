@@ -1,0 +1,598 @@
+﻿original_name,source,suggested_cas,suggested_name,pubchem_cid,confidence,notes
+Sulfachloropyridazine,PubChem_API,80-32-0,4-amino-N-(6-chloropyridazin-3-yl)benzenesulfonamide,6634.0,High,Direct match from PubChem API.
+dimefox,PubChem_API,115-26-4,N-[dimethylamino(fluoro)phosphoryl]-N-methylmethanamine,8264.0,High,Direct match from PubChem API.
+Clethodim-imin-sulfoxid,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Clethodim-imin-sulfoxid/property/IUPACName/JSON
+Cimaterol,PubChem_API,54239-37-1,2-amino-5-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzonitrile,2755.0,High,Direct match from PubChem API.
+Florfenicol amine,PubChem_API,76639-93-5,"(1R,2S)-2-amino-3-fluoro-1-(4-methylsulfonylphenyl)propan-1-ol",156406.0,High,Direct match from PubChem API.
+Ochratoxin A,PubChem_API,303-47-9,"(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",442530.0,High,Direct match from PubChem API.
+(13C17)-AFB2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C17)-AFB2/property/IUPACName/JSON
+Doxycycline,PubChem_API,7164-70-7,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide",54671203.0,High,Direct match from PubChem API.
+etobenzanid,PubChem_API,79540-50-4,"N-(2,3-dichlorophenyl)-4-(ethoxymethoxy)benzamide",12771065.0,High,Direct match from PubChem API.
+sebutylazine,PubChem_API,7286-69-3,"2-N-butan-2-yl-6-chloro-4-N-ethyl-1,3,5-triazine-2,4-diamine",23712.0,High,Direct match from PubChem API.
+Oxamyl-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oxamyl-2/property/IUPACName/JSON
+"4,4'-dichlorobenzophenone",PubChem_API,90-98-2,bis(4-chlorophenyl)methanone,7034.0,High,Direct match from PubChem API.
+Apomorphine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Apomorphine-1/property/IUPACName/JSON
+Picrotin,PubChem_API,21416-53-5,"(1R,3R,5S,8S,9R,12S,13R,14S)-1-hydroxy-14-(2-hydroxypropan-2-yl)-13-methyl-4,7,10-trioxapentacyclo[6.4.1.19,12.03,5.05,13]tetradecane-6,11-dione",442291.0,High,Direct match from PubChem API.
+dioxacarb,PubChem_API,6988-21-2,"[2-(1,3-dioxolan-2-yl)phenyl] N-methylcarbamate",23421.0,High,Direct match from PubChem API.
+Desacetyl Cephapirin,PubChem_API,38115-21-8,"(6R,7R)-3-(hydroxymethyl)-8-oxo-7-[(2-pyridin-4-ylsulfanylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid",162287.0,High,Direct match from PubChem API.
+"silafluofen,",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/silafluofen,/property/IUPACName/JSON"
+zeta cypermethrin,PubChem_API,1315501-18-8,"[(S)-cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",12617362.0,High,Direct match from PubChem API.
+Eserine,PubChem_API,57-47-6,"[(3aR,8bS)-3,4,8b-trimethyl-2,3a-dihydro-1H-pyrrolo[2,3-b]indol-7-yl] N-methylcarbamate",5983.0,High,Direct match from PubChem API.
+Coumaphos-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Coumaphos-1/property/IUPACName/JSON
+Ricinine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ricinine-1/property/IUPACName/JSON
+trichloronat,PubChem_API,327-98-0,"ethoxy-ethyl-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane",9477.0,High,Direct match from PubChem API.
+mexacarbate,PubChem_API,315-18-4,"[4-(dimethylamino)-3,5-dimethylphenyl] N-methylcarbamate",9414.0,High,Direct match from PubChem API.
+Chlorpromazine,PubChem_API,50-53-3,"3-(2-chlorophenothiazin-10-yl)-N,N-dimethylpropan-1-amine",2726.0,High,Direct match from PubChem API.
+Pentazocine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Pentazocine-2/property/IUPACName/JSON
+PFHpA,PubChem_API,375-85-9,"2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptanoic acid",67818.0,High,Direct match from PubChem API.
+butachlor,PubChem_API,23184-66-9,"N-(butoxymethyl)-2-chloro-N-(2,6-diethylphenyl)acetamide",31677.0,High,Direct match from PubChem API.
+fenaminosulf,PubChem_API,140-56-7,sodium N-[4-(dimethylamino)phenyl]iminosulfamate,23668198.0,High,Direct match from PubChem API.
+bifenazate,PubChem_API,149877-41-8,propan-2-yl N-(2-methoxy-5-phenylanilino)carbamate,176879.0,High,Direct match from PubChem API.
+tralkoxydim,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tralkoxydim/property/IUPACName/JSON
+Clethodim-imin-sulfon,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Clethodim-imin-sulfon/property/IUPACName/JSON
+Tribufos (DEF6),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tribufos%20(DEF6)/property/IUPACName/JSON
+Ethiofencarb-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ethiofencarb-2/property/IUPACName/JSON
+Ricinine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ricinine-2/property/IUPACName/JSON
+isouron,PubChem_API,55861-78-4,"3-(5-tert-butyl-1,2-oxazol-3-yl)-1,1-dimethylurea",41648.0,High,Direct match from PubChem API.
+Cefazolin,PubChem_API,25953-19-9,"(6R,7R)-3-[(5-methyl-1,3,4-thiadiazol-2-yl)sulfanylmethyl]-8-oxo-7-[[2-(tetrazol-1-yl)acetyl]amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid",33255.0,High,Direct match from PubChem API.
+Coumaphos-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Coumaphos-2/property/IUPACName/JSON
+phosfolan,PubChem_API,947-02-4,"N-diethoxyphosphoryl-1,3-dithiolan-2-imine",13689.0,High,Direct match from PubChem API.
+gibberellic acid,PubChem_API,77-06-5,"(1R,2R,5S,8S,9S,10R,11S,12S)-5,12-dihydroxy-11-methyl-6-methylidene-16-oxo-15-oxapentacyclo[9.3.2.15,8.01,10.02,8]heptadec-13-ene-9-carboxylic acid",6466.0,High,Direct match from PubChem API.
+anilofos,PubChem_API,64249-01-0,N-(4-chlorophenyl)-2-dimethoxyphosphinothioylsulfanyl-N-propan-2-ylacetamide,91687.0,High,Direct match from PubChem API.
+triazoxide,PubChem_API,72459-58-6,"7-chloro-3-imidazol-1-yl-1-oxido-1,2,4-benzotriazin-1-ium",93422.0,High,Direct match from PubChem API.
+Sulfadiazine,PubChem_API,68-35-9,4-amino-N-pyrimidin-2-ylbenzenesulfonamide,5215.0,High,Direct match from PubChem API.
+**Zearalanol,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/**Zearalanol/property/IUPACName/JSON
+isoxaben,PubChem_API,82558-50-7,"2,6-dimethoxy-N-[3-(3-methylpentan-3-yl)-1,2-oxazol-5-yl]benzamide",73672.0,High,Direct match from PubChem API.
+Fenamiphos sulfoxide-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fenamiphos%20sulfoxide-2/property/IUPACName/JSON
+imibenzonazole-des-benzyl,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imibenzonazole-des-benzyl/property/IUPACName/JSON
+HFPO-DA,PubChem_API,13252-13-6,"2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)propanoic acid",114481.0,High,Direct match from PubChem API.
+thiazopyr,PubChem_API,117718-60-2,"methyl 2-(difluoromethyl)-5-(4,5-dihydro-1,3-thiazol-2-yl)-4-(2-methylpropyl)-6-(trifluoromethyl)pyridine-3-carboxylate",91776.0,High,Direct match from PubChem API.
+phorate sulfone,PubChem_API,2588-04-7,diethoxy-(ethylsulfonylmethylsulfanyl)-sulfanylidene-lambda5-phosphane,17425.0,High,Direct match from PubChem API.
+Clethodim-sulfoxid,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Clethodim-sulfoxid/property/IUPACName/JSON
+HT-2 toxin [13C22],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/HT-2%20toxin%20%5B13C22%5D/property/IUPACName/JSON
+"4,4-dichlorobenzophenone",PubChem_API,90-98-2,bis(4-chlorophenyl)methanone,7034.0,High,Direct match from PubChem API.
+etaconazole,PubChem_API,60207-93-4,"1-[[2-(2,4-dichlorophenyl)-4-ethyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole",91673.0,High,Direct match from PubChem API.
+phthalimide,PubChem_API,85-41-6,"isoindole-1,3-dione",6809.0,High,Direct match from PubChem API.
+Amoxicillin,PubChem_API,26787-78-0,"(2S,5R,6R)-6-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",33613.0,High,Direct match from PubChem API.
+Aldicarb sulfone-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb%20sulfone-1/property/IUPACName/JSON
+PFDS,PubChem_API,335-77-3,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-henicosafluorodecane-1-sulfonic acid",67636.0,High,Direct match from PubChem API.
+OTA,PubChem_API,303-47-9,"(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",442530.0,High,Direct match from PubChem API.
+tolclofos methyl,PubChem_API,57018-04-9,"(2,6-dichloro-4-methylphenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane",91664.0,High,Direct match from PubChem API.
+(13C17)-AFB1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C17)-AFB1/property/IUPACName/JSON
+chlormequat chloride,PubChem_API,999-81-5,2-chloroethyl(trimethyl)azanium chloride,13836.0,High,Direct match from PubChem API.
+warfarin,PubChem_API,81-81-2,4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one,54678486.0,High,Direct match from PubChem API.
+FB1,PubChem_API,116355-83-0,"(2R)-2-[2-[(5R,6R,7S,9S,11R,16R,18S,19S)-19-amino-6-[(3R)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",2733487.0,High,Direct match from PubChem API.
+"phthalic acid, biscyclohexyl ester",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phthalic%20acid,%20biscyclohexyl%20ester/property/IUPACName/JSON"
+M5PFHxA,PubChem_API,2328024-54-8,"2,2,3,3,4,4,5,5,6,6,6-undecafluoro(1,2,3,4,6-13C5)hexanoic acid",165363576.0,High,Direct match from PubChem API.
+rabenzazole,PubChem_API,40341-04-6,"2-(3,5-dimethylpyrazol-1-yl)-1H-benzimidazole",38441.0,High,Direct match from PubChem API.
+AFG1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AFG1/property/IUPACName/JSON
+dithiopyr,PubChem_API,97886-45-8,"3-S,5-S-dimethyl 2-(difluoromethyl)-4-(2-methylpropyl)-6-(trifluoromethyl)pyridine-3,5-dicarbothioate",91757.0,High,Direct match from PubChem API.
+DONA,PubChem_API,29031-19-4,"bis((2R,3R,4S,5R)-2-amino-3,4,5,6-tetrahydroxyhexanal);sulfuric acid",73415774.0,High,Direct match from PubChem API.
+FOSA,PubChem_API,754-91-6,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonamide",69785.0,High,Direct match from PubChem API.
+"phthalic acid,dicyclobexyl ester",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phthalic%20acid,dicyclobexyl%20ester/property/IUPACName/JSON"
+fenthion oxon,PubChem_API,6552-12-1,dimethyl (3-methyl-4-methylsulfanylphenyl) phosphate,23046.0,High,Direct match from PubChem API.
+"13C2,D4 8:2 FTS",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C2,D4%208:2%20FTS/property/IUPACName/JSON"
+heptanophos,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/heptanophos/property/IUPACName/JSON
+phorate sulfoxide,PubChem_API,2588-03-6,diethoxy-(ethylsulfinylmethylsulfanyl)-sulfanylidene-lambda5-phosphane,17424.0,High,Direct match from PubChem API.
+4-aminopyridine,PubChem_API,504-24-5,pyridin-4-amine,1727.0,High,Direct match from PubChem API.
+4:2 FTS,PubChem_API,414911-30-1,"3,3,4,4,5,5,6,6,6-nonafluorohexane-1-sulfonate",20734542.0,High,Direct match from PubChem API.
+Penicillin G,PubChem_API,61-33-6,"(2S,5R,6R)-3,3-dimethyl-7-oxo-6-[(2-phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",5904.0,High,Direct match from PubChem API.
+Hydrocodone-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hydrocodone-1/property/IUPACName/JSON
+dipropetryn,PubChem_API,4147-51-7,"6-ethylsulfanyl-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine",20105.0,High,Direct match from PubChem API.
+flupropanate,PubChem_API,756-09-2,"2,2,3,3-tetrafluoropropanoic acid",69789.0,High,Direct match from PubChem API.
+PFUdS,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/PFUdS/property/IUPACName/JSON
+Tildipirosin,PubChem_API,328898-40-4,"(4R,5S,6S,7R,9R,11E,13E,15R,16R)-6-[(2R,3R,4S,5S,6R)-4-(dimethylamino)-3,5-dihydroxy-6-methyloxan-2-yl]oxy-16-ethyl-4-hydroxy-5,9,13-trimethyl-7-(2-piperidin-1-ylethyl)-15-(piperidin-1-ylmethyl)-1-oxacyclohexadeca-11,13-diene-2,10-dione",24860548.0,High,Direct match from PubChem API.
+demeton-s,PubChem_API,126-75-0,1-diethoxyphosphorylsulfanyl-2-ethylsulfanylethane,24723.0,High,Direct match from PubChem API.
+fenthion sulfone,PubChem_API,3761-42-0,dimethoxy-(3-methyl-4-methylsulfonylphenoxy)-sulfanylidene-lambda5-phosphane,19578.0,High,Direct match from PubChem API.
+Tolfenamic Acid,PubChem_API,13710-19-5,2-(3-chloro-2-methylanilino)benzoic acid,610479.0,High,Direct match from PubChem API.
+Lincomycin,PubChem_API,154-21-2,"(2S,4R)-N-[(1R,2R)-2-hydroxy-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methylsulfanyloxan-2-yl]propyl]-1-methyl-4-propylpyrrolidine-2-carboxamide",3000540.0,High,Direct match from PubChem API.
+Hydrastine,PubChem_API,118-08-1,"(3S)-6,7-dimethoxy-3-[(5R)-6-methyl-7,8-dihydro-5H-[1,3]dioxolo[4,5-g]isoquinolin-5-yl]-3H-2-benzofuran-1-one",197835.0,High,Direct match from PubChem API.
+Scopolamine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Scopolamine-1/property/IUPACName/JSON
+thidiazuron,PubChem_API,51707-55-2,1-phenyl-3-(thiadiazol-5-yl)urea,40087.0,High,Direct match from PubChem API.
+pentachloroaniline,PubChem_API,527-20-8,"2,3,4,5,6-pentachloroaniline",10693.0,High,Direct match from PubChem API.
+Fenbendazole sulphone,PubChem_API,54029-20-8,methyl N-[6-(benzenesulfonyl)-1H-benzimidazol-2-yl]carbamate,162136.0,High,Direct match from PubChem API.
+15-AcDON,PubChem_API,88337-96-6,"[(1R,2R,3S,7R,9R,10R,12S)-3,10-dihydroxy-1,5-dimethyl-4-oxospiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-2-yl]methyl acetate",10382483.0,High,Direct match from PubChem API.
+Sulfamethoxypyridazine,PubChem_API,80-35-3,4-amino-N-(6-methoxypyridazin-3-yl)benzenesulfonamide,5330.0,High,Direct match from PubChem API.
+PFBS,PubChem_API,375-73-5,"1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid",67815.0,High,Direct match from PubChem API.
+MPFDoA,PubChem_API,960315-52-0,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-tricosafluoro(1,2-13C2)dodecanoic acid",165363581.0,High,Direct match from PubChem API.
+Sulfamethoxy-pyridazine,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sulfamethoxy-pyridazine/property/IUPACName/JSON
+chlorobenzuron,PubChem_API,57160-47-1,2-chloro-N-[(4-chlorophenyl)carbamoyl]benzamide,108078.0,High,Direct match from PubChem API.
+13C-DON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-DON/property/IUPACName/JSON
+Zearalenone,PubChem_API,17924-92-4,"(4S,12E)-16,18-dihydroxy-4-methyl-3-oxabicyclo[12.4.0]octadeca-1(14),12,15,17-tetraene-2,8-dione",5281576.0,High,Direct match from PubChem API.
+Pentazocine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Pentazocine-1/property/IUPACName/JSON
+mepiquat chloride,PubChem_API,24307-26-4,"1,1-dimethylpiperidin-1-ium chloride",62781.0,High,Direct match from PubChem API.
+thiophanat ethyl,PubChem_API,23564-06-9,ethyl N-[[2-(ethoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,3032792.0,High,Direct match from PubChem API.
+naptalam,PubChem_API,132-66-1,2-(naphthalen-1-ylcarbamoyl)benzoic acid,8594.0,High,Direct match from PubChem API.
+Hydrocodone,PubChem_API,125-29-1,"(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",5284569.0,High,Direct match from PubChem API.
+Pen G-d7,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Pen%20G-d7/property/IUPACName/JSON
+M3PFBA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M3PFBA/property/IUPACName/JSON
+PFTrDS,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/PFTrDS/property/IUPACName/JSON
+Cloxacillin,PubChem_API,61-72-3,"(2S,5R,6R)-6-[[3-(2-chlorophenyl)-5-methyl-1,2-oxazole-4-carbonyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",6098.0,High,Direct match from PubChem API.
+"13C2,D4 4:2 FTS",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C2,D4%204:2%20FTS/property/IUPACName/JSON"
+Zearalanol,PubChem_API,26538-44-3,"(4S,8R)-8,16,18-trihydroxy-4-methyl-3-oxabicyclo[12.4.0]octadeca-1(14),15,17-trien-2-one",2999413.0,High,Direct match from PubChem API.
+atrazine-desethyl,PubChem_API,6190-65-4,"6-chloro-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",22563.0,High,Direct match from PubChem API.
+imazapic,PubChem_API,104098-48-8,5-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid,91770.0,High,Direct match from PubChem API.
+Abamectin-Na,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Abamectin-Na/property/IUPACName/JSON
+DON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/DON/property/IUPACName/JSON
+Morantel tartrate,PubChem_API,26155-31-7,"(2R,3R)-2,3-dihydroxybutanedioic acid;1-methyl-2-[(E)-2-(3-methylthiophen-2-yl)ethenyl]-5,6-dihydro-4H-pyrimidine",6433951.0,High,Direct match from PubChem API.
+Emetine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emetine-1/property/IUPACName/JSON
+Brodifacoum-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Brodifacoum-2/property/IUPACName/JSON
+Monensin,PubChem_API,17090-79-8,"(2S,3R,4S)-4-[(2S,5R,7S,8R,9S)-2-[(2R,5S)-5-ethyl-5-[(2R,3S,5R)-5-[(2S,3S,5R,6R)-6-hydroxy-6-(hydroxymethyl)-3,5-dimethyloxan-2-yl]-3-methyloxolan-2-yl]oxolan-2-yl]-7-hydroxy-2,8-dimethyl-1,10-dioxaspiro[4.5]decan-9-yl]-3-methoxy-2-methylpentanoic acid",441145.0,High,Direct match from PubChem API.
+kadethrin,PubChem_API,58769-20-3,"trans-(5-benzylfuran-3-yl)methyl (1R,3S)-2,2-dimethyl-3-[(E)-(2-oxothiolan-3-ylidene)methyl]cyclopropane-1-carboxylate",12940701.0,High,Direct match from PubChem API.
+Colchicine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Colchicine-2/property/IUPACName/JSON
+Ergotamine,PubChem_API,113-15-5,"(6aR,9R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",8223.0,High,Direct match from PubChem API.
+benalyxyl,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/benalyxyl/property/IUPACName/JSON
+PFHxS,PubChem_API,355-46-4,"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid",67734.0,High,Direct match from PubChem API.
+disulfoton-sulfoxide,PubChem_API,2497-07-6,diethoxy-(2-ethylsulfinylethylsulfanyl)-sulfanylidene-lambda5-phosphane,17242.0,High,Direct match from PubChem API.
+Aldicarb-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb-2/property/IUPACName/JSON
+PFTrDA,PubChem_API,72629-94-8,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluorotridecanoic acid",3018355.0,High,Direct match from PubChem API.
+Pentazocine,PubChem_API,359-83-1,"(1R,9R,13R)-1,13-dimethyl-10-(3-methylbut-2-enyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",441278.0,High,Direct match from PubChem API.
+HT-2,PubChem_API,26934-87-2,"[(1S,2R,4S,7R,9R,10R,11S,12S)-2-(acetyloxymethyl)-10,11-dihydroxy-1,5-dimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-4-yl] 3-methylbutanoate",10093830.0,High,Direct match from PubChem API.
+clodinafop propargyl,PubChem_API,105512-06-9,prop-2-ynyl (2R)-2-[4-[(5-chloro-3-fluoro-2-pyridinyl)oxy]phenoxy]propanoate,92431.0,High,Direct match from PubChem API.
+prothoate,PubChem_API,2275-18-5,2-diethoxyphosphinothioylsulfanyl-N-propan-2-ylacetamide,16774.0,High,Direct match from PubChem API.
+benzoylprop-ethyl,PubChem_API,22212-55-1,"ethyl 2-(N-benzoyl-3,4-dichloroanilino)propanoate",31068.0,High,Direct match from PubChem API.
+Tetracycline,PubChem_API,60-54-8,"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",54675776.0,High,Direct match from PubChem API.
+Sulfanitran,PubChem_API,122-16-7,N-[4-[(4-nitrophenyl)sulfamoyl]phenyl]acetamide,5334.0,High,Direct match from PubChem API.
+Sulfadoxine,PubChem_API,2447-57-6,"4-amino-N-(5,6-dimethoxypyrimidin-4-yl)benzenesulfonamide",17134.0,High,Direct match from PubChem API.
+imazamox,PubChem_API,114311-32-9,5-(methoxymethyl)-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid,86137.0,High,Direct match from PubChem API.
+Emamectin-amino,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emamectin-amino/property/IUPACName/JSON
+FB2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/FB2/property/IUPACName/JSON
+Ketamine,PubChem_API,6740-88-1,2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one,3821.0,High,Direct match from PubChem API.
+Heroin-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Heroin-1/property/IUPACName/JSON
+Aflatoxin B1 [13C17],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aflatoxin%20B1%20%5B13C17%5D/property/IUPACName/JSON
+tri-n-butyl phosphate,PubChem_API,126-73-8,tributyl phosphate,31357.0,High,Direct match from PubChem API.
+chlorprifos methyl,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chlorprifos%20methyl/property/IUPACName/JSON
+Penicillin G-d7,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Penicillin%20G-d7/property/IUPACName/JSON
+SMZ-13C6,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/SMZ-13C6/property/IUPACName/JSON
+Sulfanilamide,PubChem_API,63-74-1,4-aminobenzenesulfonamide,5333.0,High,Direct match from PubChem API.
+Tyvalosin,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tyvalosin/property/IUPACName/JSON
+Digitoxigenin-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Digitoxigenin-1/property/IUPACName/JSON
+fluazuron,PubChem_API,86811-58-7,"N-[[4-chloro-3-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]carbamoyl]-2,6-difluorobenzamide",65651.0,High,Direct match from PubChem API.
+Acepromazine,PubChem_API,61-00-7,1-[10-[3-(dimethylamino)propyl]phenothiazin-2-yl]ethanone,6077.0,High,Direct match from PubChem API.
+Erythromycin A,PubChem_API,114-07-8,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-7,12,13-trihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",12560.0,High,Direct match from PubChem API.
+diethyltoluamide,PubChem_API,134-62-3,"N,N-diethyl-3-methylbenzamide",4284.0,High,Direct match from PubChem API.
+fensulfothin,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/fensulfothin/property/IUPACName/JSON
+temephos,PubChem_API,3383-96-8,[4-(4-dimethoxyphosphinothioyloxyphenyl)sulfanylphenoxy]-dimethoxy-sulfanylidene-lambda5-phosphane,5392.0,High,Direct match from PubChem API.
+Fumonisin B2 [13C34],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fumonisin%20B2%20%5B13C34%5D/property/IUPACName/JSON
+secbumeton,PubChem_API,26259-45-0,"2-N-butan-2-yl-4-N-ethyl-6-methoxy-1,3,5-triazine-2,4-diamine",33443.0,High,Direct match from PubChem API.
+flamprop isopropyl,PubChem_API,52756-22-6,propan-2-yl 2-(N-benzoyl-3-chloro-4-fluoroanilino)propanoate,40520.0,High,Direct match from PubChem API.
+dibutyl succinate,PubChem_API,141-03-7,dibutyl butanedioate,8830.0,High,Direct match from PubChem API.
+(13C17)-AFG1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C17)-AFG1/property/IUPACName/JSON
+isomethiozin,PubChem_API,57052-04-7,"6-tert-butyl-4-[(E)-2-methylpropylideneamino]-3-methylsulfanyl-1,2,4-triazin-5-one",9576097.0,High,Direct match from PubChem API.
+cumyluron,PubChem_API,99485-76-4,1-[(2-chlorophenyl)methyl]-3-(2-phenylpropan-2-yl)urea,11709249.0,High,Direct match from PubChem API.
+dodine,PubChem_API,2439-10-3,acetic acid;2-dodecylguanidine,17110.0,High,Direct match from PubChem API.
+chlorfenethol,PubChem_API,80-06-8,"1,1-bis(4-chlorophenyl)ethanol",6624.0,High,Direct match from PubChem API.
+dimethirimol,PubChem_API,5221-53-4,5-butyl-2-(dimethylamino)-4-methyl-1H-pyrimidin-6-one,135424353.0,High,Direct match from PubChem API.
+chlordimeform hydrochloride,PubChem_API,19750-95-9,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide;hydrochloride",12336279.0,High,Direct match from PubChem API.
+Emetine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emetine-2/property/IUPACName/JSON
+Clenbuterol,PubChem_API,37148-27-9,"1-(4-amino-3,5-dichlorophenyl)-2-(tert-butylamino)ethanol",2783.0,High,Direct match from PubChem API.
+hydramethylnon,PubChem_API,67485-29-4,"N-[1,5-bis[4-(trifluoromethyl)phenyl]penta-1,4-dien-3-ylideneamino]-5,5-dimethyl-4,6-dihydro-1H-pyrimidin-2-amine",49901.0,High,Direct match from PubChem API.
+acrylamide,PubChem_API,79-06-1,prop-2-enamide,6579.0,High,Direct match from PubChem API.
+dalapon,PubChem_API,75-99-0,"2,2-dichloropropanoic acid",6418.0,High,Direct match from PubChem API.
+Dicloxacillin,PubChem_API,3116-76-5,"(2S,5R,6R)-6-[[3-(2,6-dichlorophenyl)-5-methyl-1,2-oxazole-4-carbonyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",18381.0,High,Direct match from PubChem API.
+Fumonisin B1,PubChem_API,116355-83-0,"(2R)-2-[2-[(5R,6R,7S,9S,11R,16R,18S,19S)-19-amino-6-[(3R)-3,4-dicarboxybutanoyl]oxy-11,16,18-trihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",2733487.0,High,Direct match from PubChem API.
+ZEN,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ZEN/property/IUPACName/JSON
+aziprotryne,PubChem_API,4658-28-0,"4-azido-6-methylsulfanyl-N-propan-2-yl-1,3,5-triazin-2-amine",3032472.0,High,Direct match from PubChem API.
+Salbutamol,PubChem_API,18559-94-9,4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol,2083.0,High,Direct match from PubChem API.
+Levamisole,PubChem_API,14769-73-4,"(6S)-6-phenyl-2,3,5,6-tetrahydroimidazo[2,1-b][1,3]thiazole",26879.0,High,Direct match from PubChem API.
+Aconitine,PubChem_API,302-27-2,"[(1S,2R,3R,4R,5R,6S,7S,8R,9R,13R,14R,16S,17S,18R)-8-acetyloxy-11-ethyl-5,7,14-trihydroxy-6,16,18-trimethoxy-13-(methoxymethyl)-11-azahexacyclo[7.7.2.12,5.01,10.03,8.013,17]nonadecan-4-yl] benzoate",245005.0,High,Direct match from PubChem API.
+ziram,PubChem_API,137-30-4,"zinc bis(N,N-dimethylcarbamodithioate)",8722.0,High,Direct match from PubChem API.
+Chlortetracycline,PubChem_API,57-62-5,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",54675777.0,High,Direct match from PubChem API.
+Methamidophos-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methamidophos-1/property/IUPACName/JSON
+Fenbendazole,PubChem_API,43210-67-9,methyl N-(6-phenylsulfanyl-1H-benzimidazol-2-yl)carbamate,3334.0,High,Direct match from PubChem API.
+cyclosulfamuron,PubChem_API,136849-15-5,"1-[[2-(cyclopropanecarbonyl)phenyl]sulfamoyl]-3-(4,6-dimethoxypyrimidin-2-yl)urea",6451137.0,High,Direct match from PubChem API.
+Brucine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Brucine-2/property/IUPACName/JSON
+dimethyl phthalate,PubChem_API,131-11-3,"dimethyl benzene-1,2-dicarboxylate",8554.0,High,Direct match from PubChem API.
+fluazifop butyl,PubChem_API,69806-50-4,butyl 2-[4-[[5-(trifluoromethyl)-2-pyridinyl]oxy]phenoxy]propanoate,50897.0,High,Direct match from PubChem API.
+13C-ZEN,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-ZEN/property/IUPACName/JSON
+AFB2,PubChem_API,7220-81-7,"(3S,7R)-11-methoxy-6,8,19-trioxapentacyclo[10.7.0.02,9.03,7.013,17]nonadeca-1,9,11,13(17)-tetraene-16,18-dione",2724360.0,High,Direct match from PubChem API.
+fluthiacet methyl,PubChem_API,117337-19-6,"methyl 2-[2-chloro-4-fluoro-5-[(3-oxo-5,6,7,8-tetrahydro-[1,3,4]thiadiazolo[3,4-a]pyridazin-1-ylidene)amino]phenyl]sulfanylacetate",93542.0,High,Direct match from PubChem API.
+Oxycodone-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oxycodone-2/property/IUPACName/JSON
+chlortoluron,PubChem_API,15545-48-9,"3-(3-chloro-4-methylphenyl)-1,1-dimethylurea",27375.0,High,Direct match from PubChem API.
+Iprodnidazole - OH,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Iprodnidazole%20-%20OH/property/IUPACName/JSON
+atratone,PubChem_API,1610-17-9,"4-N-ethyl-6-methoxy-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",15359.0,High,Direct match from PubChem API.
+dimehypo,PubChem_API,52207-48-4,"disodium;2-(dimethylamino)-1,3-bis(sulfonatosulfanyl)propane",162117.0,High,Direct match from PubChem API.
+butralin,PubChem_API,33629-47-9,"N-butan-2-yl-4-tert-butyl-2,6-dinitroaniline",36565.0,High,Direct match from PubChem API.
+thiophanate methyl,PubChem_API,23564-05-8,methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,3032791.0,High,Direct match from PubChem API.
+dimethametryn,PubChem_API,22936-75-0,"4-N-ethyl-2-N-(3-methylbutan-2-yl)-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",31573.0,High,Direct match from PubChem API.
+9Cl-PF3ONS,PubChem_API,756426-58-1,"2-(6-chloro-1,1,2,2,3,3,4,4,5,5,6,6-dodecafluorohexoxy)-1,1,2,2-tetrafluoroethanesulfonic acid",22568738.0,High,Direct match from PubChem API.
+PFOA,PubChem_API,335-67-1,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",9554.0,High,Direct match from PubChem API.
+Clindamycin,PubChem_API,18323-44-9,"(2S,4R)-N-[(1S,2S)-2-chloro-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methylsulfanyloxan-2-yl]propyl]-1-methyl-4-propylpyrrolidine-2-carboxamide",446598.0,High,Direct match from PubChem API.
+imazamethabenz-methyl,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/imazamethabenz-methyl/property/IUPACName/JSON
+Digoxigenin,PubChem_API,1672-46-4,"3-[(3S,5R,8R,9S,10S,12R,13S,14S,17R)-3,12,14-trihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",15478.0,High,Direct match from PubChem API.
+Propionylpromazine,PubChem_API,3568-24-9,1-[10-[3-(dimethylamino)propyl]phenothiazin-2-yl]propan-1-one,24352.0,High,Direct match from PubChem API.
+monalide,PubChem_API,7287-36-7,"N-(4-chlorophenyl)-2,2-dimethylpentanamide",23715.0,High,Direct match from PubChem API.
+dioxabenzofos,PubChem_API,3811-49-2,"2-methoxy-2-sulfanylidene-4H-1,3,2lambda5-benzodioxaphosphinine",19657.0,High,Direct match from PubChem API.
+Fumonisin B1 [13C34],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fumonisin%20B1%20%5B13C34%5D/property/IUPACName/JSON
+cyprazine,PubChem_API,22936-86-3,"6-chloro-4-N-cyclopropyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",24738.0,High,Direct match from PubChem API.
+aminopyralid,PubChem_API,150114-71-9,"4-amino-3,6-dichloropyridine-2-carboxylic acid",213012.0,High,Direct match from PubChem API.
+Doramectin,PubChem_API,117704-25-3,"(1'R,2R,3S,4'S,6S,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-2-cyclohexyl-21',24'-dihydroxy-12'-[(2R,4S,5S,6S)-5-[(2S,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-3,11',13',22'-tetramethylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-2'-one",9832750.0,High,Direct match from PubChem API.
+Hydrastine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hydrastine-1/property/IUPACName/JSON
+Strychnine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Strychnine-2/property/IUPACName/JSON
+isocarbophos,PubChem_API,24353-61-5,propan-2-yl 2-[amino(methoxy)phosphinothioyl]oxybenzoate,90479.0,High,Direct match from PubChem API.
+Sulfamethazine Phenyl - 13C6,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sulfamethazine%20Phenyl%20-%2013C6/property/IUPACName/JSON
+Strychnine,PubChem_API,57-24-9,"(4aR,5aS,8aR,13aS,15aS,15bR)-4a,5,5a,7,8,13a,15,15a,15b,16-decahydro-2H-4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinolin-14-one",441071.0,High,Direct match from PubChem API.
+α-Ergocryptine,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/%CE%B1-Ergocryptine/property/IUPACName/JSON
+3/15-AcDON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3/15-AcDON/property/IUPACName/JSON
+M2PFTeDA,PubChem_API,2708218-82-8,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-heptacosafluoro(1,2-13C2)tetradecanoic acid",165363580.0,High,Direct match from PubChem API.
+Ipronidazole,PubChem_API,14885-29-1,1-methyl-5-nitro-2-propan-2-ylimidazole,26951.0,High,Direct match from PubChem API.
+Aldicarb sulfone-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb%20sulfone-2/property/IUPACName/JSON
+paraoxon methyl,PubChem_API,950-35-6,dimethyl (4-nitrophenyl) phosphate,13708.0,High,Direct match from PubChem API.
+cloprop,PubChem_API,101-10-0,2-(3-chlorophenoxy)propanoic acid,7542.0,High,Direct match from PubChem API.
+Ergosine,PubChem_API,561-94-4,"(6aR,9R)-N-[(1S,2S,4R,7S)-2-hydroxy-4-methyl-7-(2-methylpropyl)-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",105137.0,High,Direct match from PubChem API.
+Ergocornine,PubChem_API,564-36-3,"(6aR,9R)-N-[(1S,2S,4R,7S)-2-hydroxy-5,8-dioxo-4,7-di(propan-2-yl)-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",73453.0,High,Direct match from PubChem API.
+mephosfolan,PubChem_API,950-10-7,"(E)-N-diethoxyphosphoryl-4-methyl-1,3-dithiolan-2-imine",9568069.0,High,Direct match from PubChem API.
+aspon,PubChem_API,3244-90-4,dipropoxyphosphinothioyloxy-dipropoxy-sulfanylidene-lambda5-phosphane,18609.0,High,Direct match from PubChem API.
+kelevan,PubChem_API,4234-79-1,"ethyl 5-(1,2,3,4,6,7,8,9,10,10-decachloro-5-hydroxy-5-pentacyclo[5.3.0.02,6.03,9.04,8]decanyl)-4-oxopentanoate",20226.0,High,Direct match from PubChem API.
+etridiazole,PubChem_API,2593-15-9,"5-ethoxy-3-(trichloromethyl)-1,2,4-thiadiazole",17432.0,High,Direct match from PubChem API.
+tebupirimfos,PubChem_API,96182-53-5,(2-tert-butylpyrimidin-5-yl)oxy-ethoxy-propan-2-yloxy-sulfanylidene-lambda5-phosphane,93516.0,High,Direct match from PubChem API.
+Gamithromycin,PubChem_API,145435-72-9,"(2R,3S,4R,5S,8R,10R,11R,12S,13S,14R)-11-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-2-ethyl-3,4,10-trihydroxy-13-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,8,10,12,14-hexamethyl-7-propyl-1-oxa-7-azacyclopentadecan-15-one",59364992.0,High,Direct match from PubChem API.
+"2,6-dichlorobenzamide",PubChem_API,2008-58-4,"2,6-dichlorobenzamide",16183.0,High,Direct match from PubChem API.
+Albendazole,PubChem_API,54965-21-8,methyl N-(6-propylsulfanyl-1H-benzimidazol-2-yl)carbamate,2082.0,High,Direct match from PubChem API.
+Sulfamerazine,PubChem_API,127-79-7,4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide,5325.0,High,Direct match from PubChem API.
+Ergometrinine,PubChem_API,479-00-5,"(6aR,9S)-N-[(2S)-1-hydroxypropan-2-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",5486180.0,High,Direct match from PubChem API.
+T-2 toxin [13C24],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/T-2%20toxin%20%5B13C24%5D/property/IUPACName/JSON
+Meloxicam,PubChem_API,71125-38-7,"4-hydroxy-2-methyl-N-(5-methyl-1,3-thiazol-2-yl)-1,1-dioxo-1lambda6,2-benzothiazine-3-carboxamide",54677470.0,High,Direct match from PubChem API.
+Solanine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Solanine-1/property/IUPACName/JSON
+Oxyphenylbutazone,PubChem_API,129-20-4,"4-butyl-1-(4-hydroxyphenyl)-2-phenylpyrazolidine-3,5-dione",4641.0,High,Direct match from PubChem API.
+Desethylene ciprofloxacin,PubChem_API,103222-12-4,7-(2-aminoethylamino)-1-cyclopropyl-6-fluoro-4-oxoquinoline-3-carboxylic acid,63000.0,High,Direct match from PubChem API.
+flumetsulam,PubChem_API,98967-40-9,"N-(2,6-difluorophenyl)-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide",91759.0,High,Direct match from PubChem API.
+Codeine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Codeine-2/property/IUPACName/JSON
+Colchicine,PubChem_API,64-86-8,"N-[(7S)-1,2,3,10-tetramethoxy-9-oxo-6,7-dihydro-5H-benzo[a]heptalen-7-yl]acetamide",6167.0,High,Direct match from PubChem API.
+Aldicarb.Na,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb.Na/property/IUPACName/JSON
+Picrotin-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Picrotin-2/property/IUPACName/JSON
+T-2 toxin,PubChem_API,21259-20-1,"[(1S,2R,4S,7R,9R,10R,11S,12S)-11-acetyloxy-2-(acetyloxymethyl)-10-hydroxy-1,5-dimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-4-yl] 3-methylbutanoate",5284461.0,High,Direct match from PubChem API.
+crimidine,PubChem_API,535-89-7,"2-chloro-N,N,6-trimethylpyrimidin-4-amine",10813.0,High,Direct match from PubChem API.
+Atropine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Atropine-2/property/IUPACName/JSON
+pyrethrin,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrethrin/property/IUPACName/JSON
+dazomet,PubChem_API,533-74-4,"3,5-dimethyl-1,3,5-thiadiazinane-2-thione",10788.0,High,Direct match from PubChem API.
+PFNA,PubChem_API,375-95-1,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluorononanoic acid",67821.0,High,Direct match from PubChem API.
+Carazolol,PubChem_API,57775-29-8,1-(9H-carbazol-4-yloxy)-3-(propan-2-ylamino)propan-2-ol,71739.0,High,Direct match from PubChem API.
+Solanine,PubChem_API,,,30185.0,None,CAS Not Found
+Metronidazole,PubChem_API,443-48-1,2-(2-methyl-5-nitroimidazol-1-yl)ethanol,4173.0,High,Direct match from PubChem API.
+Sulfamethizole,PubChem_API,144-82-1,"4-amino-N-(5-methyl-1,3,4-thiadiazol-2-yl)benzenesulfonamide",5328.0,High,Direct match from PubChem API.
+coumatetralyl,PubChem_API,5836-29-3,"4-hydroxy-3-(1,2,3,4-tetrahydronaphthalen-1-yl)chromen-2-one",54678504.0,High,Direct match from PubChem API.
+PFNS,PubChem_API,68259-12-1,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-nonadecafluorononane-1-sulfonic acid",86998.0,High,Direct match from PubChem API.
+Sulfisoxazole,PubChem_API,127-69-5,"4-amino-N-(3,4-dimethyl-1,2-oxazol-5-yl)benzenesulfonamide",5344.0,High,Direct match from PubChem API.
+Sulfaethoxypyridazine,PubChem_API,963-14-4,4-amino-N-(6-ethoxypyridazin-3-yl)benzenesulfonamide,13755.0,High,Direct match from PubChem API.
+pyrithlobac sodium,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/pyrithlobac%20sodium/property/IUPACName/JSON
+Danofloxacin,PubChem_API,112398-08-0,"1-cyclopropyl-6-fluoro-7-[(1S,4S)-5-methyl-2,5-diazabicyclo[2.2.1]heptan-2-yl]-4-oxoquinoline-3-carboxylic acid",71335.0,High,Direct match from PubChem API.
+Dimetridazole,PubChem_API,551-92-8,"1,2-dimethyl-5-nitroimidazole",3090.0,High,Direct match from PubChem API.
+ioxynil,PubChem_API,1689-83-4,"4-hydroxy-3,5-diiodobenzonitrile",15530.0,High,Direct match from PubChem API.
+Oxacillin,PubChem_API,66-79-5,"(2S,5R,6R)-3,3-dimethyl-6-[(5-methyl-3-phenyl-1,2-oxazole-4-carbonyl)amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",6196.0,High,Direct match from PubChem API.
+AFG2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AFG2/property/IUPACName/JSON
+Yohimbine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Yohimbine-2/property/IUPACName/JSON
+6:2 FTS,PubChem_API,27619-97-2,"3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctane-1-sulfonic acid",119688.0,High,Direct match from PubChem API.
+fenoxanil,PubChem_API,115852-48-7,"N-(2-cyano-3-methylbutan-2-yl)-2-(2,4-dichlorophenoxy)propanamide",11262655.0,High,Direct match from PubChem API.
+Phenylbutazone,PubChem_API,50-33-9,"4-butyl-1,2-diphenylpyrazolidine-3,5-dione",4781.0,High,Direct match from PubChem API.
+quinoxyphen,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/quinoxyphen/property/IUPACName/JSON
+Tilmicosin,PubChem_API,108050-54-0,"(4R,5S,6S,7R,9R,11E,13E,15R,16R)-6-[(2R,3R,4S,5S,6R)-4-(dimethylamino)-3,5-dihydroxy-6-methyloxan-2-yl]oxy-7-[2-[(3R,5S)-3,5-dimethylpiperidin-1-yl]ethyl]-16-ethyl-4-hydroxy-15-[[(2R,3R,4R,5R,6R)-5-hydroxy-3,4-dimethoxy-6-methyloxan-2-yl]oxymethyl]-5,9,13-trimethyl-1-oxacyclohexadeca-11,13-diene-2,10-dione",5282521.0,High,Direct match from PubChem API.
+M3PFBS,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M3PFBS/property/IUPACName/JSON
+MPFUdA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MPFUdA/property/IUPACName/JSON
+demeton-s-methyl sulfone,PubChem_API,17040-19-6,1-dimethoxyphosphorylsulfanyl-2-ethylsulfonylethane,28213.0,High,Direct match from PubChem API.
+dimethachloro,PubChem_API,50563-36-5,"2-chloro-N-(2,6-dimethylphenyl)-N-(2-methoxyethyl)acetamide",39722.0,High,Direct match from PubChem API.
+13C-T-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-T-2/property/IUPACName/JSON
+Ochratoxin A [13C20],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ochratoxin%20A%20%5B13C20%5D/property/IUPACName/JSON
+cholic acid 1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cholic%20acid%201/property/IUPACName/JSON
+Eprinomectin,PubChem_API,123997-26-2,"N-[(2S,3R,4R,6S)-6-[(2S,3R,4S,6R)-6-[(1'R,2R,3S,4'S,6S,8'R,10'Z,12'S,13'S,14'Z,16'Z,20'R,21'R,24'S)-21',24'-dihydroxy-3,11',13',22'-tetramethyl-2'-oxo-2-propan-2-ylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-12'-yl]oxy-4-methoxy-2-methyloxan-3-yl]oxy-4-methoxy-2-methyloxan-3-yl]acetamide",6450531.0,High,Direct match from PubChem API.
+Ipronidazole - OH,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ipronidazole%20-%20OH/property/IUPACName/JSON
+Hyoscyamine,PubChem_API,101-31-5,"[(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] (2S)-3-hydroxy-2-phenylpropanoate",154417.0,High,Direct match from PubChem API.
+prometryne,PubChem_API,7287-19-6,"6-methylsulfanyl-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine",4929.0,High,Direct match from PubChem API.
+Oxycodone,PubChem_API,76-42-6,"(4R,4aS,7aR,12bS)-4a-hydroxy-9-methoxy-3-methyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",5284603.0,High,Direct match from PubChem API.
+ronnel,PubChem_API,299-84-3,"dimethoxy-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane",9298.0,High,Direct match from PubChem API.
+spinosad,PubChem_API,168316-95-8,"(1S,2S,5R,7S,9S,10S,14R,15S,19S)-15-[(2R,5S,6R)-5-(dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-4,14-dimethyl-7-[(2R,3R,4R,5S,6S)-3,4,5-trimethoxy-6-methyloxan-2-yl]oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione;(1S,2R,5S,7R,9R,10S,14R,15S,19S)-15-[(2R,5S,6R)-5-(dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-14-methyl-7-[(2R,3R,4R,5S,6S)-3,4,5-trimethoxy-6-methyloxan-2-yl]oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione",17754356.0,High,Direct match from PubChem API.
+Heroin-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Heroin-2/property/IUPACName/JSON
+"Sebuthylazine, desethyl-",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sebuthylazine,%20desethyl-/property/IUPACName/JSON"
+PFPeS,PubChem_API,2706-91-4,"1,1,2,2,3,3,4,4,5,5,5-undecafluoropentane-1-sulfonic acid",75922.0,High,Direct match from PubChem API.
+fluchloralin,PubChem_API,33245-39-5,"N-(2-chloroethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)aniline",36392.0,High,Direct match from PubChem API.
+profenefos,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/profenefos/property/IUPACName/JSON
+chlordimeform,PubChem_API,6164-98-3,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide",22544.0,High,Direct match from PubChem API.
+10:2 FTS,PubChem_API,120226-60-0,"3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-henicosafluorododecane-1-sulfonic acid",23136180.0,High,Direct match from PubChem API.
+chlorphoxim,PubChem_API,14816-20-7,2-chloro-N-diethoxyphosphinothioyloxybenzenecarboximidoyl cyanide,26928.0,High,Direct match from PubChem API.
+piperophos,PubChem_API,24151-93-7,2-dipropoxyphosphinothioylsulfanyl-1-(2-methylpiperidin-1-yl)ethanone,32230.0,High,Direct match from PubChem API.
+fentin chloride,PubChem_API,639-58-7,chloro(triphenyl)stannane,12540.0,High,Direct match from PubChem API.
+Trichloronate,PubChem_API,327-98-0,"ethoxy-ethyl-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane",9477.0,High,Direct match from PubChem API.
+pebulate,PubChem_API,1114-71-2,S-propyl N-butyl-N-ethylcarbamothioate,14215.0,High,Direct match from PubChem API.
+Emetine,PubChem_API,483-18-1,"(2S,3R,11bS)-2-[[(1R)-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinolin-1-yl]methyl]-3-ethyl-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizine",10219.0,High,Direct match from PubChem API.
+chlormequat,PubChem_API,7003-89-6,2-chloroethyl(trimethyl)azanium,13837.0,High,Direct match from PubChem API.
+tert-butylamine,PubChem_API,75-64-9,2-methylpropan-2-amine,6385.0,High,Direct match from PubChem API.
+Melengesterol acetate,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Melengesterol%20acetate/property/IUPACName/JSON
+Moxidectin,PubChem_API,113507-06-5,"(1R,4S,4'E,5'S,6R,6'S,8R,10E,13R,14E,16E,20R,21R,24S)-21,24-dihydroxy-4'-methoxyimino-5',11,13,22-tetramethyl-6'-[(E)-4-methylpent-2-en-2-yl]spiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one",9832912.0,High,Direct match from PubChem API.
+cloquintocet mexyl,PubChem_API,99607-70-2,heptan-2-yl 2-(5-chloroquinolin-8-yl)oxyacetate,93528.0,High,Direct match from PubChem API.
+Ergosinine,PubChem_API,596-88-3,"(6aR,9S)-N-[(1S,2S,4R,7S)-2-hydroxy-4-methyl-7-(2-methylpropyl)-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",10030389.0,High,Direct match from PubChem API.
+Virginiamycin M1,PubChem_API,21411-53-0,"(10R,11R,12E,17E,19E,21S)-21-hydroxy-11,19-dimethyl-10-propan-2-yl-9,26-dioxa-3,15,28-triazatricyclo[23.2.1.03,7]octacosa-1(27),6,12,17,19,25(28)-hexaene-2,8,14,23-tetrone",5459319.0,High,Direct match from PubChem API.
+Fipronil sulfone,PubChem_API,120068-36-2,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfonyl)pyrazole-3-carbonitrile",3078139.0,High,Direct match from PubChem API.
+flamprop methyl,PubChem_API,52756-25-9,methyl 2-(N-benzoyl-3-chloro-4-fluoroanilino)propanoate,40521.0,High,Direct match from PubChem API.
+2-Quinoxaline carboxylic acid (QCA),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-Quinoxaline%20carboxylic%20acid%20(QCA)/property/IUPACName/JSON
+demeton (o+s),PubChem_API,8065-48-3,diethoxy-(2-ethylsulfanylethoxy)-sulfanylidene-lambda5-phosphane;1-diethoxyphosphorylsulfanyl-2-ethylsulfanylethane,24722.0,High,Direct match from PubChem API.
+NN EtFOSAA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/NN%20EtFOSAA/property/IUPACName/JSON
+"2,4,5-T",PubChem_API,93-76-5,"2-(2,4,5-trichlorophenoxy)acetic acid",1480.0,High,Direct match from PubChem API.
+Sulfamethazine,PubChem_API,57-68-1,"4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide",5327.0,High,Direct match from PubChem API.
+Sulfamethoxazole,PubChem_API,723-46-6,"4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide",5329.0,High,Direct match from PubChem API.
+Codeine,PubChem_API,76-57-3,"(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",5284371.0,High,Direct match from PubChem API.
+2-Aminosulfone albendazole,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-Aminosulfone%20albendazole/property/IUPACName/JSON
+Dipyrone,PubChem_API,68-89-3,"sodium [(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)-methylamino]methanesulfonate",522325.0,High,Direct match from PubChem API.
+difenzoquat-methyl sulfate,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/difenzoquat-methyl%20sulfate/property/IUPACName/JSON
+Colchicine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Colchicine-1/property/IUPACName/JSON
+Emamectin Benzoate,PubChem_API,155569-91-8,"benzoic acid;(1'R,2R,3S,4'S,6S,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-2-[(2S)-butan-2-yl]-21',24'-dihydroxy-12'-[(2R,4S,5S,6S)-4-methoxy-5-[(2S,4S,5S,6S)-4-methoxy-6-methyl-5-(methylamino)oxan-2-yl]oxy-6-methyloxan-2-yl]oxy-3,11',13',22'-tetramethylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-2'-one",11650986.0,High,Direct match from PubChem API.
+Sulfamethazine-6C13,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sulfamethazine-6C13/property/IUPACName/JSON
+fentrazamide,PubChem_API,158237-07-1,4-(2-chlorophenyl)-N-cyclohexyl-N-ethyl-5-oxotetrazole-1-carboxamide,3081363.0,High,Direct match from PubChem API.
+Eserine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Eserine-1/property/IUPACName/JSON
+Yohimbine,PubChem_API,146-48-5,"methyl (1S,15R,18S,19R,20S)-18-hydroxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",8969.0,High,Direct match from PubChem API.
+Fenamiphos-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fenamiphos-2/property/IUPACName/JSON
+Carbaryl-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Carbaryl-1/property/IUPACName/JSON
+Xylazine,PubChem_API,7361-61-7,"N-(2,6-dimethylphenyl)-5,6-dihydro-4H-1,3-thiazin-2-amine",5707.0,High,Direct match from PubChem API.
+Nafcillin,PubChem_API,147-52-4,"(2S,5R,6R)-6-[(2-ethoxynaphthalene-1-carbonyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",8982.0,High,Direct match from PubChem API.
+chlorimuron ethyl,PubChem_API,90982-32-4,ethyl 2-[(4-chloro-6-methoxypyrimidin-2-yl)carbamoylsulfamoyl]benzoate,56160.0,High,Direct match from PubChem API.
+Fenamiphos sulfoxide,PubChem_API,31972-43-7,N-[ethoxy-(3-methyl-4-methylsulfinylphenoxy)phosphoryl]propan-2-amine,36027.0,High,Direct match from PubChem API.
+Fumonisin B2,PubChem_API,116355-84-1,"(2R)-2-[2-[(5R,6R,7S,9S,16R,18S,19S)-19-amino-6-[(3R)-3,4-dicarboxybutanoyl]oxy-16,18-dihydroxy-5,9-dimethylicosan-7-yl]oxy-2-oxoethyl]butanedioic acid",2733489.0,High,Direct match from PubChem API.
+Aldicarb-sulfoxide-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb-sulfoxide-2/property/IUPACName/JSON
+13C-3-AcDON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-3-AcDON/property/IUPACName/JSON
+famphur,PubChem_API,52-85-7,"4-dimethoxyphosphinothioyloxy-N,N-dimethylbenzenesulfonamide",5859.0,High,Direct match from PubChem API.
+(13C18)-ZEN,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C18)-ZEN/property/IUPACName/JSON
+Methamidophos-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methamidophos-2/property/IUPACName/JSON
+PFDA,PubChem_API,335-76-2,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoic acid",9555.0,High,Direct match from PubChem API.
+nitralin,PubChem_API,4726-14-1,"4-methylsulfonyl-2,6-dinitro-N,N-dipropylaniline",20848.0,High,Direct match from PubChem API.
+Florfenicol,PubChem_API,73231-34-2,"2,2-dichloro-N-[(1R,2S)-3-fluoro-1-hydroxy-1-(4-methylsulfonylphenyl)propan-2-yl]acetamide",114811.0,High,Direct match from PubChem API.
+Haloperidol,PubChem_API,52-86-8,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,3559.0,High,Direct match from PubChem API.
+Ronidazole,PubChem_API,7681-76-7,(1-methyl-5-nitroimidazol-2-yl)methyl carbamate,5094.0,High,Direct match from PubChem API.
+M3PFHxS,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M3PFHxS/property/IUPACName/JSON
+furalaxyl,PubChem_API,57646-30-7,"methyl 2-[N-(furan-2-carbonyl)-2,6-dimethylanilino]propanoate",42504.0,High,Direct match from PubChem API.
+diclobutrazole,PubChem_API,75736-33-3,"1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",53309.0,High,Direct match from PubChem API.
+benfuracarb-methyl,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/benfuracarb-methyl/property/IUPACName/JSON
+"Clethodim-sulfon, 5-hydroxy-",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Clethodim-sulfon,%205-hydroxy-/property/IUPACName/JSON"
+Hyoscyamine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hyoscyamine-1/property/IUPACName/JSON
+simeton,PubChem_API,673-04-1,"2-N,4-N-diethyl-6-methoxy-1,3,5-triazine-2,4-diamine",12654.0,High,Direct match from PubChem API.
+benzyladenine,PubChem_API,1214-39-7,N-benzyl-7H-purin-6-amine,62389.0,High,Direct match from PubChem API.
+(13C24)-T-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C24)-T-2/property/IUPACName/JSON
+Morantel,PubChem_API,20574-50-9,"1-methyl-2-[(E)-2-(3-methylthiophen-2-yl)ethenyl]-5,6-dihydro-4H-pyrimidine",5353792.0,High,Direct match from PubChem API.
+bromfenvinfos,PubChem_API,33399-00-7,"[2-bromo-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate",105047.0,High,Direct match from PubChem API.
+Aflatoxin B1,PubChem_API,1162-65-8,"(3S,7R)-11-methoxy-6,8,19-trioxapentacyclo[10.7.0.02,9.03,7.013,17]nonadeca-1,4,9,11,13(17)-pentaene-16,18-dione",186907.0,High,Direct match from PubChem API.
+dinitramine,PubChem_API,29091-05-2,"3-N,3-N-diethyl-2,4-dinitro-6-(trifluoromethyl)benzene-1,3-diamine",34468.0,High,Direct match from PubChem API.
+ditalimfos,PubChem_API,5131-24-8,"2-diethoxyphosphinothioylisoindole-1,3-dione",21207.0,High,Direct match from PubChem API.
+carpropamid,PubChem_API,104030-54-8,"2,2-dichloro-N-[1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropane-1-carboxamide",153847.0,High,Direct match from PubChem API.
+Promethazine,PubChem_API,60-87-7,"N,N-dimethyl-1-phenothiazin-10-ylpropan-2-amine",4927.0,High,Direct match from PubChem API.
+pyriftalid,PubChem_API,135186-78-6,"7-(4,6-dimethoxypyrimidin-2-yl)sulfanyl-3-methyl-3H-2-benzofuran-1-one",9948894.0,High,Direct match from PubChem API.
+Hydrastine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hydrastine-2/property/IUPACName/JSON
+Aldicarb-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb-1/property/IUPACName/JSON
+DMST,PubChem_API,66840-71-9,1-(dimethylsulfamoylamino)-4-methylbenzene,738302.0,High,Direct match from PubChem API.
+13C-HT-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-HT-2/property/IUPACName/JSON
+Carbofuran-3-hydroxy,PubChem_API,16655-82-6,"(3-hydroxy-2,2-dimethyl-3H-1-benzofuran-7-yl) N-methylcarbamate",27975.0,High,Direct match from PubChem API.
+1-naphthy acetamide,PubChem_API,575-36-0,N-naphthalen-1-ylacetamide,68461.0,High,Direct match from PubChem API.
+benodanil,PubChem_API,15310-01-7,2-iodo-N-phenylbenzamide,27195.0,High,Direct match from PubChem API.
+Sulfathiazole,PubChem_API,72-14-0,"4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",5340.0,High,Direct match from PubChem API.
+Enrofloxacin,PubChem_API,93106-60-6,1-cyclopropyl-7-(4-ethylpiperazin-1-yl)-6-fluoro-4-oxoquinoline-3-carboxylic acid,71188.0,High,Direct match from PubChem API.
+oesmetryn,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oesmetryn/property/IUPACName/JSON
+propaquiafop,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/propaquiafop/property/IUPACName/JSON
+2-Quinoxaline Carboxylic Acid,PubChem_API,879-65-2,quinoxaline-2-carboxylic acid,96695.0,High,Direct match from PubChem API.
+M8PFOS,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M8PFOS/property/IUPACName/JSON
+novaluron,PubChem_API,116714-46-6,"N-[[3-chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]carbamoyl]-2,6-difluorobenzamide",93541.0,High,Direct match from PubChem API.
+Difloxacin,PubChem_API,98106-17-3,6-fluoro-1-(4-fluorophenyl)-7-(4-methylpiperazin-1-yl)-4-oxoquinoline-3-carboxylic acid,56206.0,High,Direct match from PubChem API.
+Carbadox,PubChem_API,6804-07-5,"methyl N-[(1,4-dioxidoquinoxaline-1,4-diium-2-yl)methylideneamino]carbamate",135403805.0,High,Direct match from PubChem API.
+Azaperone,PubChem_API,1649-18-9,1-(4-fluorophenyl)-4-(4-pyridin-2-ylpiperazin-1-yl)butan-1-one,15443.0,High,Direct match from PubChem API.
+diphenamid,PubChem_API,957-51-7,"N,N-dimethyl-2,2-diphenylacetamide",13728.0,High,Direct match from PubChem API.
+(13C15)-DON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C15)-DON/property/IUPACName/JSON
+clomazone dimethazone,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clomazone%20dimethazone/property/IUPACName/JSON
+bioallethrin,PubChem_API,260359-57-7,"cis-(2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",15558638.0,High,Direct match from PubChem API.
+dinoseb acetate,PubChem_API,2813-95-8,"(2-butan-2-yl-4,6-dinitrophenyl) acetate",17776.0,High,Direct match from PubChem API.
+2-phenylphenol,PubChem_API,90-43-7,2-phenylphenol,7017.0,High,Direct match from PubChem API.
+ethofume sate,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ethofume%20sate/property/IUPACName/JSON
+Digitoxigenin-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Digitoxigenin-2/property/IUPACName/JSON
+Hyoscyamine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hyoscyamine-2/property/IUPACName/JSON
+furmecyclox,PubChem_API,60568-05-0,"N-cyclohexyl-N-methoxy-2,5-dimethylfuran-3-carboxamide",43359.0,High,Direct match from PubChem API.
+Oxamyl-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oxamyl-1/property/IUPACName/JSON
+trans-permethin,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trans-permethin/property/IUPACName/JSON
+M3PFPeA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M3PFPeA/property/IUPACName/JSON
+flubenzimine,PubChem_API,37893-02-0,"2-N,3-diphenyl-4-N,5-N-bis(trifluoromethyl)-1,3-thiazolidine-2,4,5-triimine",91625.0,High,Direct match from PubChem API.
+PFOS,PubChem_API,1763-23-1,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid",74483.0,High,Direct match from PubChem API.
+Metronidazole - OH,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Metronidazole%20-%20OH/property/IUPACName/JSON
+Methiocarb-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methiocarb-1/property/IUPACName/JSON
+PFHxA,PubChem_API,307-24-4,"2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid",67542.0,High,Direct match from PubChem API.
+thenylchlor,PubChem_API,96491-05-3,"2-chloro-N-(2,6-dimethylphenyl)-N-[(3-methoxythiophen-2-yl)methyl]acetamide",443036.0,High,Direct match from PubChem API.
+AFM1,PubChem_API,6795-23-9,"(3R,7R)-3-hydroxy-11-methoxy-6,8,19-trioxapentacyclo[10.7.0.02,9.03,7.013,17]nonadeca-1,4,9,11,13(17)-pentaene-16,18-dione",15558498.0,High,Direct match from PubChem API.
+propamocarb,PubChem_API,24579-73-5,propyl N-[3-(dimethylamino)propyl]carbamate,32490.0,High,Direct match from PubChem API.
+Phenothrin (sumithrin),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Phenothrin%20(sumithrin)/property/IUPACName/JSON
+Zearalenone [13C18],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Zearalenone%20%5B13C18%5D/property/IUPACName/JSON
+Lasalocid A,PubChem_API,25999-31-9,"6-[(3R,4S,5S,7R)-7-[(2S,3S,5S)-5-ethyl-5-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyloxan-2-yl]-3-methyloxolan-2-yl]-4-hydroxy-3,5-dimethyl-6-oxononyl]-2-hydroxy-3-methylbenzoic acid",5360807.0,High,Direct match from PubChem API.
+**Chloramphenicol,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/**Chloramphenicol/property/IUPACName/JSON
+fenthion sulfoxide,PubChem_API,3761-41-9,dimethoxy-(3-methyl-4-methylsulfinylphenoxy)-sulfanylidene-lambda5-phosphane,19577.0,High,Direct match from PubChem API.
+Butorphanol,PubChem_API,42408-82-2,"(1S,9R,10S)-17-(cyclobutylmethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene-4,10-diol",5361092.0,High,Direct match from PubChem API.
+demeton-s-methyl sulfoxide,PubChem_API,301-12-2,1-dimethoxyphosphorylsulfanyl-2-ethylsulfinylethane,4618.0,High,Direct match from PubChem API.
+Prednisone,PubChem_API,53-03-2,"(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione",5865.0,High,Direct match from PubChem API.
+oryzalin,PubChem_API,19044-88-3,"4-(dipropylamino)-3,5-dinitrobenzenesulfonamide",29393.0,High,Direct match from PubChem API.
+(13C22)-HT-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C22)-HT-2/property/IUPACName/JSON
+tetramethirn,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tetramethirn/property/IUPACName/JSON
+brompyrazon,PubChem_API,3042-84-0,5-amino-4-bromo-2-phenylpyridazin-3-one,76441.0,High,Direct match from PubChem API.
+Apomorphine,PubChem_API,58-00-4,"(6aR)-6-methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline-10,11-diol",6005.0,High,Direct match from PubChem API.
+demeton(o+s),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/demeton(o+s)/property/IUPACName/JSON
+Aconitine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aconitine-1/property/IUPACName/JSON
+8:2 FTS,PubChem_API,39108-34-4,"3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecane-1-sulfonic acid",3016044.0,High,Direct match from PubChem API.
+dimethenamid,PubChem_API,87674-68-8,"2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-(1-methoxypropan-2-yl)acetamide",91744.0,High,Direct match from PubChem API.
+Orbifloxacin,PubChem_API,113617-63-3,"1-cyclopropyl-7-[(3S,5R)-3,5-dimethylpiperazin-1-yl]-5,6,8-trifluoro-4-oxoquinoline-3-carboxylic acid",60605.0,High,Direct match from PubChem API.
+Taleranol (β-Zearalanol),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Taleranol%20(%CE%B2-Zearalanol)/property/IUPACName/JSON
+Dimetridazole - OH,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Dimetridazole%20-%20OH/property/IUPACName/JSON
+(13C34)-FB2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C34)-FB2/property/IUPACName/JSON
+"Terbuthylazine, 2-hydroxy-",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Terbuthylazine,%202-hydroxy-/property/IUPACName/JSON"
+trichlorphon,PubChem_API,52-68-6,"2,2,2-trichloro-1-dimethoxyphosphorylethanol",5853.0,High,Direct match from PubChem API.
+Emamectin -methyl amino 2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emamectin%20-methyl%20amino%202/property/IUPACName/JSON
+cyphenothrin,PubChem_API,39515-40-7,"[cyano-(3-phenoxyphenyl)methyl] 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",38283.0,High,Direct match from PubChem API.
+"Imidacloprid, 5-hydroxide",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Imidacloprid,%205-hydroxide/property/IUPACName/JSON"
+Flunixin-d3,PubChem_API,1015856-60-6,2-[2-(trideuteriomethyl)-3-(trifluoromethyl)anilino]pyridine-3-carboxylic acid,16212207.0,High,Direct match from PubChem API.
+diallate,PubChem_API,2303-16-4,"S-[(Z)-2,3-dichloroprop-2-enyl] N,N-di(propan-2-yl)carbamothioate",5284376.0,High,Direct match from PubChem API.
+(13C17)-AFG2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C17)-AFG2/property/IUPACName/JSON
+Atrazine-d5,PubChem_API,163165-75-1,"6-chloro-4-N-(1,1,2,2,2-pentadeuterioethyl)-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",12306645.0,High,Direct match from PubChem API.
+aldimorph,PubChem_API,1704-28-5,"4-dodecyl-2,6-dimethylmorpholine",3014032.0,High,Direct match from PubChem API.
+(13C17)-AFM1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C17)-AFM1/property/IUPACName/JSON
+fenoprop,PubChem_API,93-72-1,"2-(2,4,5-trichlorophenoxy)propanoic acid",7158.0,High,Direct match from PubChem API.
+13C-NIV,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C-NIV/property/IUPACName/JSON
+Deoxynivalenol,PubChem_API,51481-10-8,"(1R,2R,3S,7R,9R,10R,12S)-3,10-dihydroxy-2-(hydroxymethyl)-1,5-dimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-4-one",40024.0,High,Direct match from PubChem API.
+Atropine,PubChem_API,51-55-8,"[(1S,5R)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] 3-hydroxy-2-phenylpropanoate",174174.0,High,Direct match from PubChem API.
+iodosulfuron-methyl sodium,PubChem_API,144550-36-7,"sodium (5-iodo-2-methoxycarbonylphenyl)sulfonyl-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoyl]azanide",16760189.0,High,Direct match from PubChem API.
+triforine,PubChem_API,26644-46-2,"N-[2,2,2-trichloro-1-[4-(2,2,2-trichloro-1-formamidoethyl)piperazin-1-yl]ethyl]formamide",33565.0,High,Direct match from PubChem API.
+pyrimidifen,PubChem_API,105779-78-0,"5-chloro-N-[2-[4-(2-ethoxyethyl)-2,3-dimethylphenoxy]ethyl]-6-ethylpyrimidin-4-amine",6451139.0,High,Direct match from PubChem API.
+pyributicarb,PubChem_API,88678-67-5,O-(3-tert-butylphenyl) N-(6-methoxy-2-pyridinyl)-N-methylcarbamothioate,93486.0,High,Direct match from PubChem API.
+vamidothion sulfone,PubChem_API,70898-34-9,2-(2-dimethoxyphosphorylsulfanylethylsulfonyl)-N-methylpropanamide,21123472.0,High,Direct match from PubChem API.
+2-Amino-flubendazole,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-Amino-flubendazole/property/IUPACName/JSON
+Salinomycin,PubChem_API,53003-10-4,"(2R)-2-[(2R,5S,6R)-6-[(2S,3S,4S,6R)-6-[(3S,5S,7R,9S,10S,12R,15R)-3-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyloxan-2-yl]-15-hydroxy-3,10,12-trimethyl-4,6,8-trioxadispiro[4.1.57.35]pentadec-13-en-9-yl]-3-hydroxy-4-methyl-5-oxooctan-2-yl]-5-methyloxan-2-yl]butanoic acid",3085092.0,High,Direct match from PubChem API.
+Ivermectin,PubChem_API,71827-03-7,"(1R,4S,5'S,6R,6'R,8R,10E,12S,13S,14E,16E,20R,21R,24S)-6'-[(2S)-butan-2-yl]-21,24-dihydroxy-12-[(2R,4S,5S,6S)-5-[(2S,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-5',11,13,22-tetramethylspiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one",6321424.0,High,Direct match from PubChem API.
+Berberine,PubChem_API,2086-83-1,"16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene",2353.0,High,Direct match from PubChem API.
+forchlorfenuron,PubChem_API,68157-60-8,1-(2-chloro-4-pyridinyl)-3-phenylurea,93379.0,High,Direct match from PubChem API.
+Codeine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Codeine-1/property/IUPACName/JSON
+oxyflurofen,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oxyflurofen/property/IUPACName/JSON
+Brodifacoum,PubChem_API,56073-10-0,"3-[3-[4-(4-bromophenyl)phenyl]-1,2,3,4-tetrahydronaphthalen-1-yl]-4-hydroxychromen-2-one",54680676.0,High,Direct match from PubChem API.
+tri-iso-butyl phosphate,PubChem_API,126-71-6,tris(2-methylpropyl) phosphate,31355.0,High,Direct match from PubChem API.
+triallate,PubChem_API,2303-17-5,"S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate",5543.0,High,Direct match from PubChem API.
+Solanine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Solanine-2/property/IUPACName/JSON
+Sulfaquinoxaline,PubChem_API,59-40-5,4-amino-N-quinoxalin-2-ylbenzenesulfonamide,5338.0,High,Direct match from PubChem API.
+Fenamiphos-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fenamiphos-1/property/IUPACName/JSON
+pyrazoxyfen,PubChem_API,71561-11-0,"2-[4-(2,4-dichlorobenzoyl)-1,3-dimethylpyrazol-5-yl]oxy-1-phenylethanone",92383.0,High,Direct match from PubChem API.
+ethoxysulfuron,PubChem_API,126801-58-9,"(2-ethoxyphenyl) N-[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]sulfamate",3623881.0,High,Direct match from PubChem API.
+Ergocristine,PubChem_API,511-08-0,"(6aR,9R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",31116.0,High,Direct match from PubChem API.
+mefenoxam,PubChem_API,70630-17-0,"methyl (2R)-2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate",11150163.0,High,Direct match from PubChem API.
+Brucine,PubChem_API,357-57-3,"(4aR,5aS,8aR,13aS,15aS,15bR)-10,11-dimethoxy-4a,5,5a,7,8,13a,15,15a,15b,16-decahydro-2H-4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinolin-14-one",442021.0,High,Direct match from PubChem API.
+M8FOSA,PubChem_API,1365803-60-6,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro(1,2,3,4,5,6,7,8-13C8)octane-1-sulfonamide",165360282.0,High,Direct match from PubChem API.
+Virginiamycin,PubChem_API,11006-76-1,"N-[(3S,6S,12R,15S,16R,19S,22S)-3-benzyl-12-ethyl-4,16-dimethyl-2,5,11,14,18,21,24-heptaoxo-19-phenyl-17-oxa-1,4,10,13,20-pentazatricyclo[20.4.0.06,10]hexacosan-15-yl]-3-hydroxypyridine-2-carboxamide;(10R,11R,12E,17E,19E,21S)-21-hydroxy-11,19-dimethyl-10-propan-2-yl-9,26-dioxa-3,15,28-triazatricyclo[23.2.1.03,7]octacosa-1(27),6,12,17,19,25(28)-hexaene-2,8,14,23-tetrone",127053480.0,High,Direct match from PubChem API.
+lactofen,PubChem_API,77501-63-4,(1-ethoxy-1-oxopropan-2-yl) 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate,62276.0,High,Direct match from PubChem API.
+Clethodim-sulfon,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Clethodim-sulfon/property/IUPACName/JSON
+Yohimbine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Yohimbine-1/property/IUPACName/JSON
+flurazuron,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/flurazuron/property/IUPACName/JSON
+propylene thiourea,PubChem_API,2122-19-2,4-methylimidazolidine-2-thione,2777312.0,High,Direct match from PubChem API.
+isopropalin,PubChem_API,33820-53-0,"2,6-dinitro-4-propan-2-yl-N,N-dipropylaniline",36606.0,High,Direct match from PubChem API.
+vernolate,PubChem_API,1929-77-7,(Z)-11-(3-pentyloxiran-2-yl)undec-9-enoate,25246088.0,High,Direct match from PubChem API.
+Berberine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Berberine-2/property/IUPACName/JSON
+Tulathromycin A,PubChem_API,217500-96-4,"(2R,3S,4R,5R,8R,10R,11R,12S,13S,14R)-11-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-2-ethyl-3,4,10-trihydroxy-13-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyl-5-(propylaminomethyl)oxan-2-yl]oxy-3,5,8,10,12,14-hexamethyl-1-oxa-6-azacyclopentadecan-15-one",9832301.0,High,Direct match from PubChem API.
+ethylene thiourea,PubChem_API,96-45-7,imidazolidine-2-thione,2723650.0,High,Direct match from PubChem API.
+flumiclorac-pentyl,PubChem_API,87546-18-7,"pentyl 2-[2-chloro-5-(1,3-dioxo-4,5,6,7-tetrahydroisoindol-2-yl)-4-fluorophenoxy]acetate",443048.0,High,Direct match from PubChem API.
+Fenamiphos sulfoxide-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Fenamiphos%20sulfoxide-1/property/IUPACName/JSON
+T-2,PubChem_API,50-31-7,"2,3,6-trichlorobenzoic acid",5759.0,High,Direct match from PubChem API.
+Triflupromazine,PubChem_API,146-54-3,"N,N-dimethyl-3-[2-(trifluoromethyl)phenothiazin-10-yl]propan-1-amine",5568.0,High,Direct match from PubChem API.
+fenamiphos sulfone,PubChem_API,31972-44-8,N-[ethoxy-(3-methyl-4-methylsulfonylphenoxy)phosphoryl]propan-2-amine,36028.0,High,Direct match from PubChem API.
+Pirlimycin,PubChem_API,79548-73-5,"(2S,4R)-N-[(1S,2S)-2-chloro-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methylsulfanyloxan-2-yl]propyl]-4-ethylpiperidine-2-carboxamide",157385.0,High,Direct match from PubChem API.
+PFBA,PubChem_API,375-22-4,"2,2,3,3,4,4,4-heptafluorobutanoic acid",9777.0,High,Direct match from PubChem API.
+Sulfapyridine,PubChem_API,144-83-2,4-amino-N-pyridin-2-ylbenzenesulfonamide,5336.0,High,Direct match from PubChem API.
+Propionyl-promazine,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Propionyl-promazine/property/IUPACName/JSON
+"Propazin, 2-hydroxy-",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Propazin,%202-hydroxy-/property/IUPACName/JSON"
+**Sulfanitran,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/**Sulfanitran/property/IUPACName/JSON
+"phthalic acid, benzyl butyl ester",PubChem_API,85-68-7,"2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate",2347.0,High,Direct match from PubChem API.
+alloxydim-sodium,PubChem_API,55635-13-7,"sodium methyl 2,2-dimethyl-4,6-dioxo-5-(N-prop-2-enoxy-C-propylcarbonimidoyl)cyclohexane-1-carboxylate",74087703.0,High,Direct match from PubChem API.
+Deoxynivalenol [13C15],PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Deoxynivalenol%20%5B13C15%5D/property/IUPACName/JSON
+Ketoprofen,PubChem_API,22071-15-4,2-(3-benzoylphenyl)propanoic acid,3825.0,High,Direct match from PubChem API.
+PFUdA,PubChem_API,2058-94-8,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-henicosafluoroundecanoic acid",77222.0,High,Direct match from PubChem API.
+propisochlor,PubChem_API,86763-47-5,2-chloro-N-(2-ethyl-6-methylphenyl)-N-(propan-2-yloxymethyl)acetamide,167454.0,High,Direct match from PubChem API.
+2QCA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2QCA/property/IUPACName/JSON
+HT-2 toxin,PubChem_API,26934-87-2,"[(1S,2R,4S,7R,9R,10R,11S,12S)-2-(acetyloxymethyl)-10,11-dihydroxy-1,5-dimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-4-yl] 3-methylbutanoate",10093830.0,High,Direct match from PubChem API.
+triamiphos,PubChem_API,1031-47-6,"2-[bis(dimethylamino)phosphoryl]-5-phenyl-1,2,4-triazol-3-amine",13943.0,High,Direct match from PubChem API.
+Ethiofencarb-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ethiofencarb-1/property/IUPACName/JSON
+Melengestrol acetate,PubChem_API,2919-66-6,"[(8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-16-methylidene-3-oxo-1,2,8,9,11,12,14,15-octahydrocyclopenta[a]phenanthren-17-yl] acetate",250948.0,High,Direct match from PubChem API.
+Heroin,PubChem_API,561-27-3,"[(4R,4aR,7S,7aR,12bS)-9-acetyloxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate",5462328.0,High,Direct match from PubChem API.
+Propyzamide (Pronamide),PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Propyzamide%20(Pronamide)/property/IUPACName/JSON
+bensulide,PubChem_API,741-58-2,N-[2-di(propan-2-yloxy)phosphinothioylsulfanylethyl]benzenesulfonamide,12932.0,High,Direct match from PubChem API.
+Sulfadimethoxine,PubChem_API,122-11-2,"4-amino-N-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide",5323.0,High,Direct match from PubChem API.
+Eserine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Eserine-2/property/IUPACName/JSON
+AFB1,PubChem_API,1162-65-8,"(3S,7R)-11-methoxy-6,8,19-trioxapentacyclo[10.7.0.02,9.03,7.013,17]nonadeca-1,4,9,11,13(17)-pentaene-16,18-dione",186907.0,High,Direct match from PubChem API.
+α-Ergocryptinine,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/%CE%B1-Ergocryptinine/property/IUPACName/JSON
+chloramphenicolum,PubChem_API,56-75-7,"2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide",5959.0,High,Direct match from PubChem API.
+PFPeA,PubChem_API,2706-90-3,"2,2,3,3,4,4,5,5,5-nonafluoropentanoic acid",75921.0,High,Direct match from PubChem API.
+mecoprop,PubChem_API,93-65-2,2-(4-chloro-2-methylphenoxy)propanoic acid,7153.0,High,Direct match from PubChem API.
+**Lasalocid A,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/**Lasalocid%20A/property/IUPACName/JSON
+Chloramphenicol,PubChem_API,56-75-7,"2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide",5959.0,High,Direct match from PubChem API.
+fluorochloridone,PubChem_API,61213-25-0,3-chloro-4-(chloromethyl)-1-[3-(trifluoromethyl)phenyl]pyrrolidin-2-one,91677.0,High,Direct match from PubChem API.
+cythioate,PubChem_API,115-93-5,4-dimethoxyphosphinothioyloxybenzenesulfonamide,8293.0,High,Direct match from PubChem API.
+Brucine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Brucine-1/property/IUPACName/JSON
+Norfloxacin,PubChem_API,70458-96-7,1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,4539.0,High,Direct match from PubChem API.
+terrbucarb,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/terrbucarb/property/IUPACName/JSON
+"Imidacloprid, olefine",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Imidacloprid,%20olefine/property/IUPACName/JSON"
+Ergometrine,PubChem_API,60-79-7,"(6aR,9R)-N-[(2S)-1-hydroxypropan-2-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",443884.0,High,Direct match from PubChem API.
+Methiocarb-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methiocarb-2/property/IUPACName/JSON
+"13C2,D4 10:2 FTS",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C2,D4%2010:2%20FTS/property/IUPACName/JSON"
+Selamectin,PubChem_API,220119-17-5,"(1R,4S,5'S,6R,6'S,8R,10E,12S,13S,14E,16E,20R,21Z,24S)-6'-cyclohexyl-24-hydroxy-21-hydroxyimino-12-[(2R,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-5',11,13,22-tetramethylspiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one",9578507.0,High,Direct match from PubChem API.
+crufomate,PubChem_API,299-86-5,N-[(4-tert-butyl-2-chlorophenoxy)-methoxyphosphoryl]methanamine,9300.0,High,Direct match from PubChem API.
+ethiprole,PubChem_API,181587-01-9,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-ethylsulfinylpyrazole-3-carbonitrile",9930667.0,High,Direct match from PubChem API.
+Digoxigenin-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Digoxigenin-2/property/IUPACName/JSON
+cholic acid 2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cholic%20acid%202/property/IUPACName/JSON
+Oxytetracycline,PubChem_API,79-57-2,"(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",54675779.0,High,Direct match from PubChem API.
+pretilachlor,PubChem_API,51218-49-6,"2-chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)acetamide",91644.0,High,Direct match from PubChem API.
+Ractopamine,PubChem_API,97825-25-7,4-[3-[[2-hydroxy-2-(4-hydroxyphenyl)ethyl]amino]butyl]phenol,56052.0,High,Direct match from PubChem API.
+methobromuron,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methobromuron/property/IUPACName/JSON
+Ergocristinine,PubChem_API,511-07-9,"(6aR,9S)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",7067483.0,High,Direct match from PubChem API.
+haloxyfop-methyl,PubChem_API,69806-40-2,methyl 2-[4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenoxy]propanoate,50896.0,High,Direct match from PubChem API.
+Atropine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Atropine-1/property/IUPACName/JSON
+disulfoton sulfone,PubChem_API,2497-06-5,diethoxy-(2-ethylsulfonylethylsulfanyl)-sulfanylidene-lambda5-phosphane,17241.0,High,Direct match from PubChem API.
+Oxycodone-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oxycodone-1/property/IUPACName/JSON
+hymexazol,PubChem_API,10004-44-1,"5-methyl-1,2-oxazol-3-one",24781.0,High,Direct match from PubChem API.
+DCCD,PubChem_API,538-75-0,"N,N'-dicyclohexylmethanediimine",10868.0,High,Direct match from PubChem API.
+benzofenap,PubChem_API,82692-44-2,"2-[4-(2,4-dichloro-3-methylbenzoyl)-1,3-dimethylpyrazol-5-yl]oxy-1-(4-methylphenyl)ethanone",94686.0,High,Direct match from PubChem API.
+11Cl-PF3OUdS,PubChem_API,763051-92-9,"2-(8-chloro-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctoxy)-1,1,2,2-tetrafluoroethanesulfonic acid",15099039.0,High,Direct match from PubChem API.
+Strychnine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Strychnine-1/property/IUPACName/JSON
+Narasin,PubChem_API,55134-13-9,"(2R)-2-[(2R,3S,5S,6R)-6-[(2S,3S,4S,6R)-6-[(3S,5S,7R,9S,10S,12R,15R)-3-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyloxan-2-yl]-15-hydroxy-3,10,12-trimethyl-4,6,8-trioxadispiro[4.1.57.35]pentadec-13-en-9-yl]-3-hydroxy-4-methyl-5-oxooctan-2-yl]-3,5-dimethyloxan-2-yl]butanoic acid",65452.0,High,Direct match from PubChem API.
+pyrimitate,PubChem_API,5221-49-8,"4-diethoxyphosphinothioyloxy-N,N,6-trimethylpyrimidin-2-amine",21289.0,High,Direct match from PubChem API.
+Scopolamine,PubChem_API,51-34-3,"[(1S,2S,4R,5R)-9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl] (2S)-3-hydroxy-2-phenylpropanoate",3000322.0,High,Direct match from PubChem API.
+pyroquilon,PubChem_API,57369-32-1,"1-azatricyclo[6.3.1.04,12]dodeca-4,6,8(12)-trien-11-one",91665.0,High,Direct match from PubChem API.
+Digitoxigenin,PubChem_API,143-62-4,"3-[(3S,5R,8R,9S,10S,13R,14S,17R)-3,14-dihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",4369270.0,High,Direct match from PubChem API.
+acifluorfen,PubChem_API,50594-66-6,5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid,44073.0,High,Direct match from PubChem API.
+fluoroglycofen-ethyl,PubChem_API,77501-90-7,(2-ethoxy-2-oxoethyl) 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate,53672.0,High,Direct match from PubChem API.
+allidochlor,PubChem_API,93-71-0,"2-chloro-N,N-bis(prop-2-enyl)acetamide",7157.0,High,Direct match from PubChem API.
+Emamectin-N-methyl formyl amino,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emamectin-N-methyl%20formyl%20amino/property/IUPACName/JSON
+terbufos sulfone,PubChem_API,56070-16-7,tert-butylsulfonylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane,41718.0,High,Direct match from PubChem API.
+Zilpaterol,PubChem_API,119520-05-7,"(9R,10R)-9-hydroxy-10-(propan-2-ylamino)-1,3-diazatricyclo[6.4.1.04,13]trideca-4,6,8(13)-trien-2-one",3086576.0,High,Direct match from PubChem API.
+simeconazole,PubChem_API,149508-90-7,"2-(4-fluorophenyl)-1-(1,2,4-triazol-1-yl)-3-trimethylsilylpropan-2-ol",10085783.0,High,Direct match from PubChem API.
+Flunixin,PubChem_API,38677-85-9,2-[2-methyl-3-(trifluoromethyl)anilino]pyridine-3-carboxylic acid,38081.0,High,Direct match from PubChem API.
+Sarafloxacin,PubChem_API,98105-99-8,6-fluoro-1-(4-fluorophenyl)-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,56208.0,High,Direct match from PubChem API.
+3-AcDON,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3-AcDON/property/IUPACName/JSON
+Tylosin,PubChem_API,1401-69-0,"2-[(4R,5S,6S,7R,9R,11E,13E,15R,16R)-6-[(2R,3R,4R,5S,6R)-5-[(2S,4R,5S,6S)-4,5-dihydroxy-4,6-dimethyloxan-2-yl]oxy-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-16-ethyl-4-hydroxy-15-[[(2R,3R,4R,5R,6R)-5-hydroxy-3,4-dimethoxy-6-methyloxan-2-yl]oxymethyl]-5,9,13-trimethyl-2,10-dioxo-1-oxacyclohexadeca-11,13-dien-7-yl]acetaldehyde",5280440.0,High,Direct match from PubChem API.
+methoprotryne,PubChem_API,841-06-5,"4-N-(3-methoxypropyl)-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",13290.0,High,Direct match from PubChem API.
+flusulfamide,PubChem_API,106917-52-6,4-chloro-N-(2-chloro-4-nitrophenyl)-3-(trifluoromethyl)benzenesulfonamide,86268.0,High,Direct match from PubChem API.
+"phthalic acid, dibutyl ester",PubChem_API,84-74-2,"dibutyl benzene-1,2-dicarboxylate",3026.0,High,Direct match from PubChem API.
+Ciprofloxacin,PubChem_API,85721-33-1,1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid,2764.0,High,Direct match from PubChem API.
+"phthalicacid, dicyclobexyl ster",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/phthalicacid,%20dicyclobexyl%20ster/property/IUPACName/JSON"
+Apomorphine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Apomorphine-2/property/IUPACName/JSON
+DEF,PubChem_API,78-48-8,1-bis(butylsulfanyl)phosphorylsulfanylbutane,5125.0,High,Direct match from PubChem API.
+Scopolamine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Scopolamine-2/property/IUPACName/JSON
+chlorthion,PubChem_API,500-28-7,(3-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane,10372.0,High,Direct match from PubChem API.
+(13C34)-FB1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C34)-FB1/property/IUPACName/JSON
+Brodifacoum-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Brodifacoum-1/property/IUPACName/JSON
+dimepiperate,PubChem_API,61432-55-1,S-(2-phenylpropan-2-yl) piperidine-1-carbothioate,91679.0,High,Direct match from PubChem API.
+NIV,PubChem_API,,,440908.0,None,CAS Not Found
+PFHpS,PubChem_API,375-92-8,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoroheptane-1-sulfonic acid",67820.0,High,Direct match from PubChem API.
+PFDoS,PubChem_API,79780-39-5,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-pentacosafluorododecane-1-sulfonic acid",3018866.0,High,Direct match from PubChem API.
+thiofanox sulfone,PubChem_API,39184-59-3,"[(Z)-(3,3-dimethyl-1-methylsulfonylbutan-2-ylidene)amino] N-methylcarbamate",5491760.0,High,Direct match from PubChem API.
+iodosulfuron-methyl,PubChem_API,144550-06-1,"methyl 4-iodo-2-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoylsulfamoyl]benzoate",11027582.0,High,Direct match from PubChem API.
+M3HFPO,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/M3HFPO/property/IUPACName/JSON
+PFDoA,PubChem_API,307-55-1,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-tricosafluorododecanoic acid",67545.0,High,Direct match from PubChem API.
+dicapthon,PubChem_API,2463-84-5,(2-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane,17168.0,High,Direct match from PubChem API.
+isocarbamid,PubChem_API,30979-48-7,N-(2-methylpropyl)-2-oxoimidazolidine-1-carboxamide,35699.0,High,Direct match from PubChem API.
+dichlorprop,PubChem_API,120-36-5,"2-(2,4-dichlorophenoxy)propanoic acid",8427.0,High,Direct match from PubChem API.
+Ricinine,PubChem_API,524-40-3,4-methoxy-1-methyl-2-oxopyridine-3-carbonitrile,10666.0,High,Direct match from PubChem API.
+Berberine-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Berberine-1/property/IUPACName/JSON
+3-phenylphenol,PubChem_API,580-51-8,3-phenylphenol,11381.0,High,Direct match from PubChem API.
+(13C20)-OTA,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/(13C20)-OTA/property/IUPACName/JSON
+Atrazine desethyl,PubChem_API,6190-65-4,"6-chloro-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",22563.0,High,Direct match from PubChem API.
+Emamectin -methyl amino 1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Emamectin%20-methyl%20amino%201/property/IUPACName/JSON
+Carbaryl-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Carbaryl-2/property/IUPACName/JSON
+Hydrocodone-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Hydrocodone-2/property/IUPACName/JSON
+Flubendazole,PubChem_API,31430-15-6,methyl N-[6-(4-fluorobenzoyl)-1H-benzimidazol-2-yl]carbamate,35802.0,High,Direct match from PubChem API.
+diphenylamin,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/diphenylamin/property/IUPACName/JSON
+pyrazosulfuron-ethyl,PubChem_API,93697-74-6,"ethyl 5-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-1-methylpyrazole-4-carboxylate",91750.0,High,Direct match from PubChem API.
+Ergocorninine,PubChem_API,564-37-4,"(6aR,9S)-N-[(1S,2S,4R,7S)-2-hydroxy-5,8-dioxo-4,7-di(propan-2-yl)-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",10007994.0,High,Direct match from PubChem API.
+thionazin,PubChem_API,297-97-2,diethoxy-pyrazin-2-yloxy-sulfanylidene-lambda5-phosphane,9272.0,High,Direct match from PubChem API.
+resmethrin-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/resmethrin-2/property/IUPACName/JSON
+Ampicillin,PubChem_API,69-53-4,"(2S,5R,6R)-6-[[(2R)-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",6249.0,High,Direct match from PubChem API.
+M8PFOA,PubChem_API,1350614-84-4,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro(1,2,3,4,5,6,7,8-13C8)octanoic acid",101375161.0,High,Direct match from PubChem API.
+pymetrozin,PubChem_API,123312-89-0,"6-methyl-4-[(E)-pyridin-3-ylmethylideneamino]-2,5-dihydro-1,2,4-triazin-3-one",9576037.0,High,Direct match from PubChem API.
+6-chloro-4-hydroxy-3-phenyl-pyridazin,PubChem_API,40020-01-7,6-chloro-3-phenyl-1H-pyridazin-4-one,92316.0,High,Direct match from PubChem API.
+fentin-chloride,PubChem_API,639-58-7,chloro(triphenyl)stannane,12540.0,High,Direct match from PubChem API.
+azinphos ethyl,PubChem_API,2642-71-9,"3-(diethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",17531.0,High,Direct match from PubChem API.
+haloxyfop-2-ethoxyethyl,PubChem_API,87237-48-7,2-ethoxyethyl 2-[4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenoxy]propanoate,91743.0,High,Direct match from PubChem API.
+Diclofenac,PubChem_API,15307-86-5,"2-[2-(2,6-dichloroanilino)phenyl]acetic acid",3033.0,High,Direct match from PubChem API.
+PFTeDA,PubChem_API,376-06-7,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-heptacosafluorotetradecanoic acid",67822.0,High,Direct match from PubChem API.
+sulfallate,PubChem_API,95-06-7,"2-chloroprop-2-enyl N,N-diethylcarbamodithioate",7216.0,High,Direct match from PubChem API.
+clopyralld,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/clopyralld/property/IUPACName/JSON
+amidithion,PubChem_API,919-76-6,2-dimethoxyphosphinothioylsulfanyl-N-(2-methoxyethyl)acetamide,13525.0,High,Direct match from PubChem API.
+Picrotin-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Picrotin-1/property/IUPACName/JSON
+Ergotaminine,PubChem_API,639-81-6,"(6aR,9S)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",115248.0,High,Direct match from PubChem API.
+Aldicarb-sulfoxide-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aldicarb-sulfoxide-1/property/IUPACName/JSON
+diafenthiuron,PubChem_API,80060-09-9,"1-tert-butyl-3-[4-phenoxy-2,6-di(propan-2-yl)phenyl]thiourea",3034380.0,High,Direct match from PubChem API.
+Digoxigenin-1,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Digoxigenin-1/property/IUPACName/JSON
+mefenacet,PubChem_API,73250-68-7,"2-(1,3-benzothiazol-2-yloxy)-N-methyl-N-phenylacetamide",91716.0,High,Direct match from PubChem API.
+Aconitine-2,PubChem_API,,,,None,Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Aconitine-2/property/IUPACName/JSON
+"13C2,D4 6:2 FTS",PubChem_API,,,,None,"Error: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13C2,D4%206:2%20FTS/property/IUPACName/JSON"

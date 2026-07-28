@@ -1,0 +1,3016 @@
+{
+  "detections": [
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergometrine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 1.65,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.122,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 27,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergometrinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 24,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 24,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.05,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.122,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 24,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergosine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.7,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.059,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 30,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergosinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.2,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.059,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 30,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergotamine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 32,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 32,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.85,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.059,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 32,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergotaminine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 564,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 14,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 14,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.6,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 564",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 14,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergocornine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 268,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 23,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 23,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.3,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 268",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 23,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergocorninine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 544,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 5.0,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 544",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "α-Ergocryptine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 268,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 24,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 24,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.7,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 268",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 24,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "α-Ergocryptinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 558,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 14,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 14,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 5.45,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 558",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 14,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergocristine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 35,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 35,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.85,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 35,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "Ergocristinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.3"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 592,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 13,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 13,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 5.65,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 592",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.038,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 30,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 13,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergometrine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 1.62,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.1,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 35,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 15,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergometrinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 20,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 20,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.0,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "326 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.1,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 35,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 20,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergosine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 25,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 25,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.66,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.05,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 40,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 25,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergosinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 25,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 25,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.17,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "548 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.05,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 40,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 25,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergotamine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.82,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.05,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 45,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 30,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergotaminine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 564,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.55,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 564",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "582 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergocornine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 268,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.27,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 268",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergocorninine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 544,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.94,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 544",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "562 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "α-Ergocryptine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 268,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.66,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 268",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.05,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 35,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 18,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "α-Ergocryptinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 558,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 5.38,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 558",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "576 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergocristine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 35,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 208,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 35,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.83,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 223",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 208",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Dwell time",
+          "value": 0.05,
+          "unit": "s",
+          "context": null
+        },
+        {
+          "parameter_name": "Cone voltage",
+          "value": 40,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 35,
+          "unit": "eV",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "Ergocristinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.7"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 592,
+          "source_ion_label": "MRM quantifier",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "source_ion_label": "MRM qualifier",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": null,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 5.56,
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 592",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": "610 → 223",
+          "unit": null,
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergometrine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 33,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 326,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 33,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 1.88,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergometrine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 41,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 326,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 208,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 41,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 1.88,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergometrinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 208,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 37,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 326,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 208,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 37,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 2.23,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergometrinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 326,
+          "product_mz": 207,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 56,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 326,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 207,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 56,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 2.23,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergosine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 42,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 548,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 42,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 2.95,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergosine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 268,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 34,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 548,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 268,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 34,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 2.95,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergotamine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 41,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 582,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 41,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 3.15,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergotamine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 208,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 51,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 582,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 208,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 51,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 3.15,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocornine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 268,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 34,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 562,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 268,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 34,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 3.63,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocornine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 46,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 562,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 46,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 3.63,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "α-Ergocryptine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 268,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 34,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 576,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 268,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 34,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.05,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "α-Ergocryptine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 46,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 576,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 46,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.05,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocristine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 268,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 36,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 610,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 268,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 36,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.25,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocristine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 45,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 610,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 45,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.25,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergosinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 42,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 548,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 42,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.67,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergosinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 548,
+          "product_mz": 208,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 65,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 548,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 208,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 65,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 4.67,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergotaminine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 42,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 582,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 42,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.1,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergotaminine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 582,
+          "product_mz": 277,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 35,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 582,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 277,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 35,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.1,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocorninine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 305,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 36,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 562,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 305,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 36,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.45,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocorninine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 562,
+          "product_mz": 277,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 37,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 562,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 277,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 100,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 37,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.45,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "α-Ergocryptinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 305,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 37,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 576,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 305,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 37,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.88,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "α-Ergocryptinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 576,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 45,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 576,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 45,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 5.88,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocristinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 305,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 39,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 610,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 305,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 39,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 6.1,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17425:2021",
+      "run_config_id": "LC-MS/MS-003",
+      "compound_english_name": "Ergocristinine",
+      "CAS_number": null,
+      "data_source": {
+        "document_title": "Foodstuffs - Determination of ergot alkaloids in cereals and cereal products by dSPE clean-up and HPLC-MS/MS",
+        "location_id": "Table A.9"
+      },
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": null,
+          "precursor_mz": 610,
+          "product_mz": 223,
+          "parameter_type": "Quantification",
+          "source_ion_label": "Precursor ion m/z / Product ion m/z",
+          "collision_energy": {
+            "value": 46,
+            "unit": "eV"
+          }
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 610,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 223,
+          "unit": "m/z",
+          "context": null
+        },
+        {
+          "parameter_name": "Declustering potential",
+          "value": 90,
+          "unit": "V",
+          "context": null
+        },
+        {
+          "parameter_name": "Repeatability limit (r)",
+          "value": 46,
+          "unit": "eV",
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": 6.1,
+          "unit": "min",
+          "context": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3554 @@
+[
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.2",
+        "product_mz": "249.2",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.2",
+        "product_mz": "203.2",
+        "collision_energy": {
+          "value": "16",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C15)-DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "312.4",
+        "product_mz": "263.2",
+        "collision_energy": {
+          "value": "16",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C15)-DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "312.4",
+        "product_mz": "216.1",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "285.1",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "65",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "241.2",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "65",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "330.3",
+        "product_mz": "301.0",
+        "collision_energy": {
+          "value": "31",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "330.3",
+        "product_mz": "255.2",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "287.1",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "65",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "259.2",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "65",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "332.0",
+        "product_mz": "303.1",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "332.0",
+        "product_mz": "273.1",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "243.1",
+        "collision_energy": {
+          "value": "37",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "200.0",
+        "collision_energy": {
+          "value": "54",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.1",
+        "product_mz": "257.2",
+        "collision_energy": {
+          "value": "37",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.1",
+        "product_mz": "212.1",
+        "collision_energy": {
+          "value": "55",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.0",
+        "product_mz": "313.1",
+        "collision_energy": {
+          "value": "34",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.0",
+        "product_mz": "245.2",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "348.1",
+        "product_mz": "330.2",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "348.1",
+        "product_mz": "259.1",
+        "collision_energy": {
+          "value": "42",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "50",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "273.1",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "229.1",
+        "collision_energy": {
+          "value": "57",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.2",
+        "product_mz": "288.2",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C17)-AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.2",
+        "product_mz": "242.3",
+        "collision_energy": {
+          "value": "55",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.4",
+        "product_mz": "334.4",
+        "collision_energy": {
+          "value": "55",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.4",
+        "product_mz": "352.4",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C34)-FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "756.4",
+        "product_mz": "356.4",
+        "collision_energy": {
+          "value": "55",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C34)-FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "756.4",
+        "product_mz": "374.5",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.5",
+        "product_mz": "336.3",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.5",
+        "product_mz": "318.4",
+        "collision_energy": {
+          "value": "52",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C34)-FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "740.6",
+        "product_mz": "358.4",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C34)-FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "740.6",
+        "product_mz": "340.4",
+        "collision_energy": {
+          "value": "53",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "60",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.4",
+        "product_mz": "305.0",
+        "collision_energy": {
+          "value": "18",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "35",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.4",
+        "product_mz": "215.3",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "35",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C24)-T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": null,
+        "precursor_mz": "508.4",
+        "product_mz": "322.2",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C24)-T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "508.4",
+        "product_mz": "229.3",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.4",
+        "product_mz": "263.3",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.4",
+        "product_mz": "215.1",
+        "collision_energy": {
+          "value": "18",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C22)-HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "464.5",
+        "product_mz": "278.3",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C22)-HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "464.5",
+        "product_mz": "229.3",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "30",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "317.2",
+        "product_mz": "175.1",
+        "collision_energy": {
+          "value": "-30",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "-80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "317.2",
+        "product_mz": "131.2",
+        "collision_energy": {
+          "value": "-38",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "-80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C18)-ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "335.1",
+        "product_mz": "185.1",
+        "collision_energy": {
+          "value": "-33",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "-80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C18)-ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "335.1",
+        "product_mz": "140.1",
+        "collision_energy": {
+          "value": "-40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "-80",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.2",
+        "product_mz": "239.2",
+        "collision_energy": {
+          "value": "30",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "35",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.2",
+        "product_mz": "221.1",
+        "collision_energy": {
+          "value": "47",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "35",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C20)-OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "424.3",
+        "product_mz": "250.2",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "(13C20)-OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "424.3",
+        "product_mz": "232.2",
+        "collision_energy": {
+          "value": "50",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "Declustering Potential (DP)",
+        "value": "40",
+        "unit": null,
+        "context": "Source Key: DP a"
+      },
+      {
+        "parameter_name": "Entrance Potential (EP)",
+        "value": "10",
+        "unit": null,
+        "context": "Source Key: EP a"
+      },
+      {
+        "parameter_name": "Collision Cell Exit Potential (CXP)",
+        "value": "15",
+        "unit": null,
+        "context": "Source Key: CXP a"
+      }
+    ],
+    "data_source": "Table C.6"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.2",
+        "product_mz": "249.4",
+        "collision_energy": {
+          "value": "10",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.2",
+        "product_mz": "231.1",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C15)-DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "312.2",
+        "product_mz": "263.2",
+        "collision_energy": {
+          "value": "9",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "241.2",
+        "collision_energy": {
+          "value": "36",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "213.1",
+        "collision_energy": {
+          "value": "46",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C17)-AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "330.2",
+        "product_mz": "255.2",
+        "collision_energy": {
+          "value": "38",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "287.2",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "259.1",
+        "collision_energy": {
+          "value": "28",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C17)-AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "332.2",
+        "product_mz": "273.2",
+        "collision_energy": {
+          "value": "30",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "243.1",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "200.0",
+        "collision_energy": {
+          "value": "36",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C17)-AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.2",
+        "product_mz": "124.0",
+        "collision_energy": {
+          "value": "64",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.1",
+        "product_mz": "189.1",
+        "collision_energy": {
+          "value": "42",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.1",
+        "product_mz": "245.1",
+        "collision_energy": {
+          "value": "28",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C17)-AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "348.2",
+        "product_mz": "259.1",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "229.1",
+        "collision_energy": {
+          "value": "36",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "273.1",
+        "collision_energy": {
+          "value": "36",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C17)-AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.2",
+        "product_mz": "242.3",
+        "collision_energy": {
+          "value": "38",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.5",
+        "product_mz": "334.5",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.5",
+        "product_mz": "352.5",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C34)-FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "756.6",
+        "product_mz": "356.4",
+        "collision_energy": {
+          "value": "42",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.5",
+        "product_mz": "336.5",
+        "collision_energy": {
+          "value": "35",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.5",
+        "product_mz": "318.5",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C34)-FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "740.6",
+        "product_mz": "358.5",
+        "collision_energy": {
+          "value": "38",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.4",
+        "product_mz": "305.2",
+        "collision_energy": {
+          "value": "14",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.4",
+        "product_mz": "245.2",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C24)-T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "508.4",
+        "product_mz": "229.2",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.29",
+        "product_mz": "215.1",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.29",
+        "product_mz": "263.2",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C22)-HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "464.4",
+        "product_mz": "278.2",
+        "collision_energy": {
+          "value": "14",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "317.1",
+        "product_mz": "174.9",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "317.1",
+        "product_mz": "130.9",
+        "collision_energy": {
+          "value": "28",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C18)-ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Negative",
+        "precursor_mz": "335.2",
+        "product_mz": "184.9",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.2",
+        "product_mz": "239.1",
+        "collision_energy": {
+          "value": "22",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.2",
+        "product_mz": "221.1",
+        "collision_energy": {
+          "value": "34",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-003",
+    "compound_english_name": "(13C20)-OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "424.2",
+        "product_mz": "250.4",
+        "collision_energy": {
+          "value": "22",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.7"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.1",
+        "product_mz": "230.7",
+        "collision_energy": {
+          "value": "8",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "297.1",
+        "product_mz": "279.1",
+        "collision_energy": {
+          "value": "4",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C15)-DON",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "312.2",
+        "product_mz": "263.1",
+        "collision_energy": {
+          "value": "4",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "240.8",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "313.1",
+        "product_mz": "268.9",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C17)-AFB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "330.1",
+        "product_mz": "301.1",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "258.8",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "315.1",
+        "product_mz": "287.0",
+        "collision_energy": {
+          "value": "28",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C17)-AFB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "332.2",
+        "product_mz": "303.0",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "199.6",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "242.9",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C17)-AFG1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.1",
+        "product_mz": "212.2",
+        "collision_energy": {
+          "value": "41",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.1",
+        "product_mz": "216.9",
+        "collision_energy": {
+          "value": "40",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "331.1",
+        "product_mz": "245.1",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C17)-AFG2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "348.1",
+        "product_mz": "259.1",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "273.1",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "329.1",
+        "product_mz": "258.9",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C17)-AFM1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "346.0",
+        "product_mz": "288.2",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.4",
+        "product_mz": "352.3",
+        "collision_energy": {
+          "value": "36",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "722.4",
+        "product_mz": "334.3",
+        "collision_energy": {
+          "value": "48",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C34)-FB1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "756.5",
+        "product_mz": "374.4",
+        "collision_energy": {
+          "value": "37",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.4",
+        "product_mz": "336.2",
+        "collision_energy": {
+          "value": "44",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "706.4",
+        "product_mz": "318.2",
+        "collision_energy": {
+          "value": "52",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C34)-FB2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "740.5",
+        "product_mz": "358.3",
+        "collision_energy": {
+          "value": "41",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.3",
+        "product_mz": "245.0",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "484.3",
+        "product_mz": "197.0",
+        "collision_energy": {
+          "value": "16",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C24)-T-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "508.3",
+        "product_mz": "322.1",
+        "collision_energy": {
+          "value": "8",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.2",
+        "product_mz": "215.0",
+        "collision_energy": {
+          "value": "12",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "442.2",
+        "product_mz": "245.0",
+        "collision_energy": {
+          "value": "8",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C22)-HT-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "464.3",
+        "product_mz": "263.0",
+        "collision_energy": {
+          "value": "9",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "319.2",
+        "product_mz": "283.0",
+        "collision_energy": {
+          "value": "8",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "319.2",
+        "product_mz": "187.0",
+        "collision_energy": {
+          "value": "24",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C18)-ZEN",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "337.2",
+        "product_mz": "199.2",
+        "collision_energy": {
+          "value": "16",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.1",
+        "product_mz": "238.9",
+        "collision_energy": {
+          "value": "28",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "404.1",
+        "product_mz": "220.7",
+        "collision_energy": {
+          "value": "52",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  },
+  {
+    "method_id": "EN 17641:2022",
+    "run_config_id": "LC-MS/MS-005",
+    "compound_english_name": "(13C20)-OTA",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "424.2",
+        "product_mz": "249.9",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        },
+        "source_ion_label": "Product ions",
+        "parameter_type": "Quantification"
+      }
+    ],
+    "performance_parameters": [],
+    "data_source": "Table C.8"
+  }
+]

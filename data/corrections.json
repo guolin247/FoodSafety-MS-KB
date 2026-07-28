@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "documents": {
+    "193F.00": {
+      "display_id": "JP 000473283（内部记录）",
+      "source_file": "data/raw_pdf/JP/000473283.pdf",
+      "reviewed_at": "2026-07-28",
+      "reason": "原 PDF 是日本《トリクラベンダゾール試験法（畜産物）》。第 4 页参考文献中的 Novartis Animal Health Austrasia Pty. Ltd., Australia, 2004 被抽取器误识别为文档发布信息。",
+      "overrides": {
+        "issuing_country": {
+          "value": "日本",
+          "evidence": null
+        },
+        "issuing_agency": {
+          "value": null,
+          "evidence": null
+        },
+        "publication_date": {
+          "value": null,
+          "evidence": null
+        },
+        "implementation_date": {
+          "value": null,
+          "evidence": null
+        }
+      }
+    }
+  }
+}

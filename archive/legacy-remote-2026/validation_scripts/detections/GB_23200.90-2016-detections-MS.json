@@ -1,0 +1,3168 @@
+{
+  "detections": [
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "oxamyl",
+      "CAS_number": "023135-22-0",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "242.1",
+          "product_mz": "72.3",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "242.1",
+          "product_mz": "112.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C7H13N3O3S",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "2.10",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.8～98.5",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.95",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.9～98.4",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.44",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.8～99.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.27",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～94.8",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.40",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "86.4～102.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.84",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "90.2～98.8",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.21",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～99.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.27",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～96.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.53",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.4～97.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.68",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.5～93.6",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.60",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～105.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.51",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "91.6～106.3",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.39",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.6～108.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "10.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.2～104.8",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.46",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.5～108.9",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.57",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "methomyl",
+      "CAS_number": "16752-77-5",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "163.1",
+          "product_mz": "88.1",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "6",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "163.1",
+          "product_mz": "106.1",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "11",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C5H10N2O2S",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "2.41",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.3～98.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.30",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.2～99.2",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.74",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.1～101.7",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.13",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.5～105.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.37",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.2～102.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.50",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.5～97.9",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.81",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.6～95.7",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.62",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～96.4",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.42",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.2～99.7",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.96",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.1～94.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.15",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～96.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.07",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.4～108.7",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "9.72",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.3～96.8",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.85",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.2～98.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.74",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.5～92.1",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.99",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "pirimicarb",
+      "CAS_number": "023103-98-2",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "239.1",
+          "product_mz": "72.4",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "20",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "239.1",
+          "product_mz": "182.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C11H18N4O2",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "3.97",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.8～97.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.74",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "74.2～88.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.41",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.8～93.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.55",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.0～93.5",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.65",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～102.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.66",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "92.5～106.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.05",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～97.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.38",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.0～102.2",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.98",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "88.0～107.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.84",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.4～96.0",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.04",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.6～103.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.17",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "89.3～108.1",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.12",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.6～86.6",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.62",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.8～104.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.22",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.2～98.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.97",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "aldicarb",
+      "CAS_number": "000116-06-3",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "213.1",
+          "product_mz": "89.3",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "16",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "213.1",
+          "product_mz": "116.3",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "12",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C7H14N2O2S",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "5.36",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "88.5～108.9",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.62",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.8～105.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "9.51",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.2～99.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.27",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.5～92.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.50",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "91.2～106.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.40",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.1～108.0",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.64",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "74.2～91.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.40",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.0～97.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.66",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.4～98.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.20",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.1～98.9",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.91",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.0～97.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.37",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.1～94.7",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.17",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "88.5～104.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.90",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～98.6",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.55",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.0～98.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.59",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "metolcarb",
+      "CAS_number": "001129-41-5",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "166.1",
+          "product_mz": "94.3",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "31",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "166.1",
+          "product_mz": "109.3",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "8",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C9H11NO2",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "5.61",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～93.5",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.58",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.8～93.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.63",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.8～93.0",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.92",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.3～95.3",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.56",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "87.0～109.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.93",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～107.9",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.42",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.9～94.2",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.59",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.4～102.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.45",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.2～98.1",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.28",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.8～86.1",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.75",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.2～106.0",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.83",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.6～98.3",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.37",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.1～107.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.64",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.8～97.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.24",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.1～97.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.00",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "bendiocarb",
+      "CAS_number": "022781-23-3",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "224.1",
+          "product_mz": "109.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "17",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "224.1",
+          "product_mz": "167.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "7",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C11H13NO4",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "5.85",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.2～94.5",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.96",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.2～95.0",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.24",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.9～93.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.20",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～90.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.38",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "87.0～104.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.64",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "91.2～102.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.56",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.6～94.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.50",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～96.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.48",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～98.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.03",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.5～88.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.38",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.8～102.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.63",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～100.1",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.82",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.6～93.6",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.70",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.2～98.6",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.99",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.4～97.4",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.45",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "carbofuran",
+      "CAS_number": "001563-66-2",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "222.1",
+          "product_mz": "123.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "21",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "222.1",
+          "product_mz": "165.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "11",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C12H15NO3",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "5.85",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.5～98.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.43",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.4～97.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.03",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.1～91.9",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.24",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～95.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.95",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "87.2～104.8",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.76",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～96.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.21",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～106.7",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.15",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "89.8～108.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.96",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.4～95.7",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.85",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.1～91.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.83",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.8～102.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.67",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～93.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.77",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.5～101.1",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.11",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.2～97.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.97",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～97.4",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.05",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "carbaryl",
+      "CAS_number": "000063-25-2",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "202.1",
+          "product_mz": "127.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "28",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "202.1",
+          "product_mz": "145.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C12H11NO2",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "6.04",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.9～108.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "11.9",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.0～94.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.69",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.9～95.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.46",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.2～98.8",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.80",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.2～105.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.57",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.5～104.5",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.31",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.0～93.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.35",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.2～100.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.65",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.8～96.3",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.86",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～94.0",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.50",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.0～99.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.76",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.1～97.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.83",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～106.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.01",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.2～93.6",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.83",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.2～96.8",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.89",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "furathiocarb",
+      "CAS_number": "65907-30-4",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "383.1",
+          "product_mz": "195.0",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "17",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "383.1",
+          "product_mz": "252.1",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "11",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C18H26N2O5S",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "7.94",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.3～96.1",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.70",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "74.0～92.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.06",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.3～94.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.91",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.2～109.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "9.77",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～106.0",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "10.0",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.5～105.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.61",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～97.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.11",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.2～96.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.32",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～97.4",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.48",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.0～87.0",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.24",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.4～98.6",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.30",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "90.6～106.0",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.18",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～109.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "9.64",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.6～90.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.42",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.0～95.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.30",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "isoprocarb",
+      "CAS_number": "002631-40-5",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "194.0",
+          "product_mz": "95.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "15",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "194.0",
+          "product_mz": "137.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "9",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C11H15NO2",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "6.34",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.1～108.5",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "11.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～95.0",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.20",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.1～87.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "2.86",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.4～95.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.90",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.8～107.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.67",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～103.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.87",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.2～94.2",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.40",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "77.4～97.4",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.25",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.6～98.5",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.81",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.9～93.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.90",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "88.2～106.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.56",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "76.1～92.1",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.78",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～96.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.66",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.0～104.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.11",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.6～102.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.86",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "diethofencarb",
+      "CAS_number": "087130-20-9",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "268.1",
+          "product_mz": "124.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "32",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "268.1",
+          "product_mz": "226.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "6",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C14H21NO4",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "6.59",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.1～98.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.71",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "75.4～93.0",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.50",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.1～87.0",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.46",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.7～95.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.36",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～106.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.03",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.2～106.9",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.78",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.6～95.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.63",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～100.2",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.94",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.3～98.0",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.46",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.0～97.9",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.23",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.4～99.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.68",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.7～109.7",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "10.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.1～99.5",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.74",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～97.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.84",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "85.2～105.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.07",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "fenobucarb",
+      "CAS_number": "3766-81-2",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "208.1",
+          "product_mz": "77.3",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "34",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "208.1",
+          "product_mz": "152.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "6",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C12H17NO2",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "6.70",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.0～92.4",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.17",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.2～97.6",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.04",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.7～91.4",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.86",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.5～91.9",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.85",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.2～106.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.12",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "92.1～107.4",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.74",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.9～97.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.01",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "75.0～95.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.51",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "90.6～98.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "2.99",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.5～87.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.42",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.0～102.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.62",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.4～96.3",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.22",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.1～97.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.70",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～97.8",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.83",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.3～95.1",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.13",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "propoxur",
+      "CAS_number": "114-26-1",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "210.1",
+          "product_mz": "111.2",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "14",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "210.1",
+          "product_mz": "168.1",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "5",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C11H15NO3",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "5.79",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～93.9",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.05",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.0～93.4",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.72",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.5～96.8",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.99",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.9～89.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "3.31",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.0～103.2",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.17",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "82.4～101.0",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.13",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.7～97.8",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.04",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.0～99.2",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.75",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.4～97.5",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.78",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.4～94.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.27",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～97.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.38",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.1～95.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.24",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.5～104.0",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.24",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "79.2～97.2",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.82",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～99.1",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.60",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    },
+    {
+      "method_id": "GB 23200.90—2016",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "methiocarb",
+      "CAS_number": "029973-13-5",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "226.0",
+          "product_mz": "121.2",
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": "19",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": "226.0",
+          "product_mz": "169.1",
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": "10",
+            "unit": "eV"
+          },
+          "source_ion_label": "Product Ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Formula",
+          "value": "C11H15NO2S",
+          "unit": null,
+          "context": null
+        },
+        {
+          "parameter_name": "RT",
+          "value": "6.79",
+          "unit": "min",
+          "context": null
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.9～109.3",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "8.41",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.0～99.2",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.74",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.2～94.4",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.21",
+          "unit": "%",
+          "context": "Matrix: 纯奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.5～96.7",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.37",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.2～99.6",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.87",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "83.6～98.1",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.49",
+          "unit": "%",
+          "context": "Matrix: 酸奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～96.1",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.69",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "84.0～98.6",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.47",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.5～97.1",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.23",
+          "unit": "%",
+          "context": "Matrix: 奶粉; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.2～98.8",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.09",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.6～99.2",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.40",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "81.1～99.4",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "7.72",
+          "unit": "%",
+          "context": "Matrix: 奶酪; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "78.5～89.7",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "4.77",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.010 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "87.6～100.4",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "5.33",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.050 mg/kg"
+        },
+        {
+          "parameter_name": "Recovery",
+          "value": "80.6～97.1",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        },
+        {
+          "parameter_name": "RSD",
+          "value": "6.28",
+          "unit": "%",
+          "context": "Matrix: 果奶; Spike Level: 0.100 mg/kg"
+        }
+      ]
+    }
+  ]
+}

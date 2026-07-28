@@ -1,0 +1,1836 @@
+{
+  "detections": [
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 371.2,
+          "product_mz": 281.3,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -21,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -10,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 371.2,
+          "product_mz": 59.1,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -42,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -7,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 386.1,
+          "product_mz": 296.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -21,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -10,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 386.1,
+          "product_mz": 59.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -42,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -7,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 355.2,
+          "product_mz": 265.2,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -22,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -13,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -20,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 355.2,
+          "product_mz": 59.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -13,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -20,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 370.2,
+          "product_mz": 310.3,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -22,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -13,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -20,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 370.2,
+          "product_mz": 59.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -13,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -20,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "3/15-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 397.2,
+          "product_mz": 307.1,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -20,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -5,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "3/15-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 397.2,
+          "product_mz": 59.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -5,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 414.2,
+          "product_mz": 323.2,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -20,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -5,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 414.2,
+          "product_mz": 59.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+AcO)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -60,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -10,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -5,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.0,
+          "product_mz": 263.2,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 17,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 20,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 5,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 4,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.0,
+          "product_mz": 215.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 17,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 20,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 5,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 463.9,
+          "product_mz": 278.1,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 17,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 20,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 5,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 4,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 463.9,
+          "product_mz": 229.2,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 17,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 20,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 5,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.3,
+          "product_mz": 215.2,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 45,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.3,
+          "product_mz": 185.3,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 45,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.0,
+          "product_mz": 229.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 45,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.0,
+          "product_mz": 198.3,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": 45,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": 7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": 3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 317.0,
+          "product_mz": 175.1,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M-H)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -70,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 317.0,
+          "product_mz": 130.9,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M-H)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -70,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -2,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 335.0,
+          "product_mz": 185.1,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -30,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M-H)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -70,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -3,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-001",
+      "compound_english_name": "13C-ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 335.0,
+          "product_mz": 140.0,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": -40,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M-H)-",
+          "unit": null,
+          "context": "Quasi molecular ion"
+        },
+        {
+          "parameter_name": "Declustering Potential (DP)",
+          "value": -70,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Entrance Potential (EP)",
+          "value": -7,
+          "unit": null,
+          "context": "EPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential (CXP)",
+          "value": -2,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 313.13,
+          "product_mz": 175.0755,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 313.13,
+          "product_mz": 137.0598,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 328.18,
+          "product_mz": 186.1124,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-NIV",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 328.18,
+          "product_mz": 145.0868,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 297.13,
+          "product_mz": 203.1061,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 297.13,
+          "product_mz": 231.101,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 312.18,
+          "product_mz": 216.1502,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-DON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 312.18,
+          "product_mz": 245.1484,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 339.14,
+          "product_mz": 231.1016,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 339.14,
+          "product_mz": 213.091,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "15-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 339.14,
+          "product_mz": 137.094,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "15-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 339.14,
+          "product_mz": 261.1123,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 356.2,
+          "product_mz": 245.1488,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-3-AcDON",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 356.2,
+          "product_mz": 227.1382,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.24,
+          "product_mz": 263.1274,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.24,
+          "product_mz": 215.1065,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 464.32,
+          "product_mz": 278.175,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-HT-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 464.32,
+          "product_mz": 229.1538,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 18,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.25,
+          "product_mz": 215.1058,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.25,
+          "product_mz": 305.1368,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.33,
+          "product_mz": 229.1535,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-T-2",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.33,
+          "product_mz": 322.195,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 15,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+NH4)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 319.15,
+          "product_mz": 187.075,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 319.15,
+          "product_mz": 283.1322,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 337.21,
+          "product_mz": 199.1155,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17280:2019",
+      "run_config_id": "LC-MS/MS-002",
+      "compound_english_name": "13C-ZEN",
+      "CAS_number": null,
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 337.21,
+          "product_mz": 301.1932,
+          "parameter_type": "Unknown",
+          "collision_energy": {
+            "value": 27,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ions (m/z)"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "Quasi Molecular Ion",
+          "value": "(M+H)+",
+          "unit": null,
+          "context": "Quasimolecularion"
+        }
+      ]
+    }
+  ]
+}

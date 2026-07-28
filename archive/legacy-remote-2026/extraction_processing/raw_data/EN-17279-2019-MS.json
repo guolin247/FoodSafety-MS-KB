@@ -1,0 +1,1548 @@
+{
+  "detections": [
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Aflatoxin B1",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 313.1,
+          "product_mz": 285.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.45,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 16.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Aflatoxin B1 [13C17]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 330.1,
+          "product_mz": 301.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.45,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 16.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Deoxynivalenol",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 297.1,
+          "product_mz": 249.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 15.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.09,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 30.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 15.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Deoxynivalenol [13C15]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 312.2,
+          "product_mz": 263.2,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 15.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.09,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 30.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 15.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B1",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 722.4,
+          "product_mz": 334.3,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 57.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.55,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 4.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B1 [13C34]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 756.5,
+          "product_mz": 356.4,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 57.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.55,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 4.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B2",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 706.4,
+          "product_mz": 336.3,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 53.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.82,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 8.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B2 [13C34]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 740.5,
+          "product_mz": 358.4,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 53.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.82,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 8.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "HT-2 toxin",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.2,
+          "product_mz": 263.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 19.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.63,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 6.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "HT-2 toxin [13C22]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 464.3,
+          "product_mz": 278.2,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 19.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.63,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 6.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Ochratoxin A",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 404.1,
+          "product_mz": 239.0,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.86,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 16.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Ochratoxin A [13C20]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 424.2,
+          "product_mz": 250.0,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.86,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 16.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "T-2 toxin",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.3,
+          "product_mz": 215.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 25.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.77,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 18.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "T-2 toxin [13C24]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.3,
+          "product_mz": 229.2,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": 25.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.77,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": 40.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": 18.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Zearalenone",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 317.1,
+          "product_mz": 175.0,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": -32.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.9,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "neg",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": -175.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": -15.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Zearalenone [13C18]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-001",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 335.2,
+          "product_mz": 185.1,
+          "parameter_type": "Target",
+          "collision_energy": {
+            "value": -32.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product m/z"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.9,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "neg",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Declustering Potential",
+          "value": -175.0,
+          "unit": null,
+          "context": "DPa"
+        },
+        {
+          "parameter_name": "Collision Cell Exit Potential",
+          "value": -15.0,
+          "unit": null,
+          "context": "CXPa"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Aflatoxin B1",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 313.1,
+          "product_mz": 241.0,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 313.1,
+          "product_mz": 285.0,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 21.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.05,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Aflatoxin B1 [13C17]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 330.1,
+          "product_mz": 255.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 330.1,
+          "product_mz": 301.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 21.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.05,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Deoxynivalenol",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 297.3,
+          "product_mz": 203.2,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 13.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 297.3,
+          "product_mz": 249.0,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 9.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.29,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Deoxynivalenol [13C15]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 312.2,
+          "product_mz": 263.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 9.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 312.2,
+          "product_mz": 216.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 13.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 2.29,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B1",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 722.8,
+          "product_mz": 352.3,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 37.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 722.8,
+          "product_mz": 334.4,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 49.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.66,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B1 [13C34]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 756.5,
+          "product_mz": 374.4,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 40.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.66,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B2",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 706.8,
+          "product_mz": 336.3,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 706.8,
+          "product_mz": 318.4,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.35,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Fumonisin B2 [13C34]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 740.5,
+          "product_mz": 358.4,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 40.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.35,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "HT-2 toxin",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.5,
+          "product_mz": 263.2,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 9.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 442.5,
+          "product_mz": 215.0,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 13.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.55,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+NH4",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "HT-2 toxin [13C22]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 464.3,
+          "product_mz": 278.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 9.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 464.3,
+          "product_mz": 229.2,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 9.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.55,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+NH4",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Ochratoxin A",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 404.1,
+          "product_mz": 238.9,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 21.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 404.1,
+          "product_mz": 221.0,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.2,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Ochratoxin A [13C20]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 424.2,
+          "product_mz": 250.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 29.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 424.2,
+          "product_mz": 232.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 41.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.2,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "T-2 toxin",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.5,
+          "product_mz": 305.0,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 8.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 484.5,
+          "product_mz": 215.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 17.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.89,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+NH4",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "T-2 toxin [13C24]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.3,
+          "product_mz": 322.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": 8.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Positive",
+          "precursor_mz": 508.3,
+          "product_mz": 229.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": 17.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 3.89,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "pos",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M+NH4",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Zearalenone",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 317.3,
+          "product_mz": 175.0,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": -25.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 317.3,
+          "product_mz": 131.1,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": -33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.23,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "neg",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M-H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    },
+    {
+      "method_id": "EN 17279:2019",
+      "compound_english_name": "Zearalenone [13C18]",
+      "CAS_number": null,
+      "run_config_id": "LC-MS/MS-002",
+      "mass_spec_params": [
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 335.2,
+          "product_mz": 185.1,
+          "parameter_type": "Quantification",
+          "collision_energy": {
+            "value": -25.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 1"
+        },
+        {
+          "ms_level": "MS2",
+          "polarity": "Negative",
+          "precursor_mz": 335.2,
+          "product_mz": 140.0,
+          "parameter_type": "Confirmation",
+          "collision_energy": {
+            "value": -33.0,
+            "unit": "eV"
+          },
+          "source_ion_label": "Product ion 2"
+        }
+      ],
+      "performance_parameters": [
+        {
+          "parameter_name": "RT",
+          "value": 4.23,
+          "unit": "min",
+          "context": "RT min"
+        },
+        {
+          "parameter_name": "Polarity",
+          "value": "neg",
+          "unit": null,
+          "context": "Polarity"
+        },
+        {
+          "parameter_name": "Pre-cursor",
+          "value": "M-H",
+          "unit": null,
+          "context": "Pre-cursor"
+        }
+      ]
+    }
+  ]
+}

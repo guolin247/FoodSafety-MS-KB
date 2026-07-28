@@ -1,0 +1,4412 @@
+[
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Aconitine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "646.2",
+        "product_mz": "526.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "36",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "646.2",
+        "product_mz": "368.1",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "42",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.11",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "42",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Aldicarb",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "213.0",
+        "product_mz": "88.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "213.0",
+        "product_mz": "97.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "8",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.15",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Aldicarb sulfone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "223.1",
+        "product_mz": "86.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "15",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "223.1",
+        "product_mz": "148.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "8",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.99",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "15",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Aldicarb-sulfoxide",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "207.1",
+        "product_mz": "89.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "207.1",
+        "product_mz": "132.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "5.50",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Apomorphine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "268.0",
+        "product_mz": "190.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "28",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "268.0",
+        "product_mz": "236.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "12",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.71",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "54",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Atropine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "123.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "76.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "52",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.30",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "72",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Berberine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "336.1",
+        "product_mz": "321.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "14",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "336.1",
+        "product_mz": "292.7",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "44",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.15",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Brodifacoum",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "523.0",
+        "product_mz": "334.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "18",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "523.0",
+        "product_mz": "291.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "34",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "21.71",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "38",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Brucine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "395.1",
+        "product_mz": "243.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "34",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "395.1",
+        "product_mz": "324.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "28",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.20",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Carbaryl",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "202.1",
+        "product_mz": "145.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "202.1",
+        "product_mz": "127.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "28",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.45",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Codeine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "152.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "56",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "164.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "38",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.10",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Colchicine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "400.2",
+        "product_mz": "358.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "25",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "400.2",
+        "product_mz": "152.1",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "76",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.68",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Coumaphos",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "363.0",
+        "product_mz": "226.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "24",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "363.0",
+        "product_mz": "306.8",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "20.88",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "22",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Digoxigenin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "391.1",
+        "product_mz": "355.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "12",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "391.1",
+        "product_mz": "337.1",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "12.28",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "42",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Digitoxigenin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "375.1",
+        "product_mz": "339.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "12",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "375.1",
+        "product_mz": "90.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "68",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.77",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "44",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Emetine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "481.2",
+        "product_mz": "246.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "481.2",
+        "product_mz": "230.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "52",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.99",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "74",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Eserine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "276.0",
+        "product_mz": "218.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "8",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "276.0",
+        "product_mz": "161.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "24",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.39",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "38",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ethiofencarb",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "226.1",
+        "product_mz": "107.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "226.1",
+        "product_mz": "168.8",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.61",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Fenamiphos",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.2",
+        "product_mz": "217.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "22",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.2",
+        "product_mz": "234.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "12",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "20.05",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "52",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Fenamiphos sulfoxide",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "320.0",
+        "product_mz": "107.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "42",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "320.0",
+        "product_mz": "232.8",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "24",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.62",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "66",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Heroin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "370.2",
+        "product_mz": "165.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "46",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "370.2",
+        "product_mz": "268.1",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "24",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "10.71",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Hydrastine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "384.0",
+        "product_mz": "322.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "384.0",
+        "product_mz": "189.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "18",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "10.78",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "34",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Hydrocodone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "198.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "26",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "127.8",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "58",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.97",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "32",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Hyoscyamine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.2",
+        "product_mz": "124.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.2",
+        "product_mz": "260.1",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.30",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "54",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Methamidophos",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "141.9",
+        "product_mz": "125.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "13",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "141.9",
+        "product_mz": "93.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "24",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "3.40",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "42",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Methiocarb",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "242.1",
+        "product_mz": "185.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "242.1",
+        "product_mz": "122.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "10.51",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "30",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Oxamyl",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "242.1",
+        "product_mz": "185.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "242.1",
+        "product_mz": "121.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "8",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.50",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Oxycodone",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "316.1",
+        "product_mz": "241.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "28",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "316.1",
+        "product_mz": "256.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "22",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.46",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "26",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Pentazocine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "286.0",
+        "product_mz": "68.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "22",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "286.0",
+        "product_mz": "217.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "13.19",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "60",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Picrotin",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "311.0",
+        "product_mz": "114.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "70",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "311.0",
+        "product_mz": "165.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "30",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.60",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "44",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Ricinine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "165.0",
+        "product_mz": "137.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "15",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "165.0",
+        "product_mz": "163.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "15",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "5.99",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "54",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Scopolamine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.0",
+        "product_mz": "137.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.0",
+        "product_mz": "156.0",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "16",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.48",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "28",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Solanine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "868.5",
+        "product_mz": "398.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "70",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "868.5",
+        "product_mz": "706.3",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "66",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.45",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "72",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Strychnine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.1",
+        "product_mz": "183.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "32",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.1",
+        "product_mz": "155.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "42",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.95",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "66",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "Yohimbine",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "355.1",
+        "product_mz": "143.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "28",
+          "unit": "V"
+        },
+        "source_ion_label": "Quant ion (m/z)"
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "355.1",
+        "product_mz": "211.9",
+        "parameter_type": "Confirmation",
+        "collision_energy": {
+          "value": "20",
+          "unit": "V"
+        },
+        "source_ion_label": "Qual ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.20",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "Cone Voltage",
+        "value": "72",
+        "unit": "V",
+        "context": "Source Key: Cone (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aconitine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "646.1",
+        "product_mz": "526.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "55",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "17.00",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aconitine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "646.1",
+        "product_mz": "368.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "93",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "17.00",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb sulfone-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "222.9",
+        "product_mz": "89.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "23",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.56",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "51",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb sulfone-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "222.9",
+        "product_mz": "59.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "23",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.56",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "51",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "212.9",
+        "product_mz": "86.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "21",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.84",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "90",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "212.9",
+        "product_mz": "76.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "13",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.84",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "90",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb-sulfoxide-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "206.9",
+        "product_mz": "132.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "9",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.21",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "80",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Aldicarb-sulfoxide-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "206.9",
+        "product_mz": "89.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "19",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.21",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "80",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Apomorphine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "268.0",
+        "product_mz": "191.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "41",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.86",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "81",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Apomorphine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "268.0",
+        "product_mz": "236.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "23",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.86",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "81",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Atropine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "124.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "33",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.27",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Atropine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "77.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "87",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.27",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Berberine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.9",
+        "product_mz": "320.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "41",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.4",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Berberine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.9",
+        "product_mz": "291.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "41",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.4",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Brodifacoum-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "522.8",
+        "product_mz": "80.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "-86",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "22.69",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "-190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "-5",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Brodifacoum-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "520.9",
+        "product_mz": "78.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "-98",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "22.69",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "-190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "-5",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Brucine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "395.1",
+        "product_mz": "324.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "43",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.39",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Brucine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "395.1",
+        "product_mz": "243.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "49",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.39",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "18",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Carbaryl-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "201.9",
+        "product_mz": "145.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "15",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.48",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "85",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Carbaryl-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "201.9",
+        "product_mz": "127.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "37",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.48",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "85",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Codeine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "152.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "87",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.87",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Codeine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "165.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "57",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "6.87",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Colchicine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "400.0",
+        "product_mz": "358.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "31",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.98",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Colchicine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "400.0",
+        "product_mz": "152.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "111",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.98",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Coumaphos-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "362.9",
+        "product_mz": "226.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "33",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "20.83",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "125",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Coumaphos-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "362.9",
+        "product_mz": "306.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "25",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "20.83",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "125",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "22",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Digitoxigenin-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "375.1",
+        "product_mz": "355.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "19",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "13.23",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "91",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Digitoxigenin-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "375.1",
+        "product_mz": "373.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "15",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "13.23",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "91",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Digoxigenin-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "391.1",
+        "product_mz": "329.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "10",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.8",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "96",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "19",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Digoxigenin-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "391.1",
+        "product_mz": "91.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "89",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.8",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "96",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Emetine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "481.1",
+        "product_mz": "246.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "47",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.93",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "140",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "20",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Emetine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "481.1",
+        "product_mz": "229.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "71",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.93",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "140",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Eserine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "276.0",
+        "product_mz": "219.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "17",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.64",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "110",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Eserine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "276.0",
+        "product_mz": "162.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "29",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.64",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "56",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Ethiofencarb-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "225.9",
+        "product_mz": "107.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "29",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.74",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "46",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Ethiofencarb-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "225.9",
+        "product_mz": "77.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "59",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "18.74",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "46",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Fenamiphos sulfoxide-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "319.9",
+        "product_mz": "216.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "33",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "19.77",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "170",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Fenamiphos sulfoxide-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "319.9",
+        "product_mz": "234.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "23",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "19.77",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "170",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Fenamiphos-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "303.9",
+        "product_mz": "232.8",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "33",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.69",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Fenamiphos-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "303.9",
+        "product_mz": "108.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "55",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "15.69",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Heroin-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "370.0",
+        "product_mz": "152.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "97",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.09",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Heroin-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "370.0",
+        "product_mz": "165.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "67",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.09",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hydrastine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "384.0",
+        "product_mz": "323.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "31",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.33",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hydrastine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "384.0",
+        "product_mz": "190.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "31",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.33",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "160",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hydrocodone-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "199.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "39",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.15",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hydrocodone-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "300.0",
+        "product_mz": "128.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "75",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.15",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hyoscyamine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "124.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "33",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.27",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Hyoscyamine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "290.0",
+        "product_mz": "77.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "87",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.27",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "6",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Methamidophos-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "141.9",
+        "product_mz": "94.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "21",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "3.97",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "100",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Methamidophos-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "141.9",
+        "product_mz": "125.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "19",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "3.97",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "100",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Methiocarb-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "241.9",
+        "product_mz": "185.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "19",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "12.00",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "56",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Methiocarb-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "241.9",
+        "product_mz": "122.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "39",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "12.00",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "56",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Oxamyl-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "241.9",
+        "product_mz": "224.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "11",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.84",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "46",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Oxamyl-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "241.9",
+        "product_mz": "86.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "27",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "8.84",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "46",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Oxycodone-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "316.0",
+        "product_mz": "298.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "27",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.50",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Oxycodone-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "316.0",
+        "product_mz": "240.9",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "39",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.50",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "150",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Pentazocine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "286.0",
+        "product_mz": "218.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "29",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "12.85",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Pentazocine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "286.0",
+        "product_mz": "69.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "41",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "12.85",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "190",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Picrotin-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "310.9",
+        "product_mz": "165.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "69",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.97",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "191",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Picrotin-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "310.9",
+        "product_mz": "115.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "93",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "14.97",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "191",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "14",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Ricinine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "164.9",
+        "product_mz": "163.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "55",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.17",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "226",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Ricinine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "164.9",
+        "product_mz": "115.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "51",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.17",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "226",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Scopolamine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.0",
+        "product_mz": "138.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "27",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.58",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "130",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Scopolamine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "304.0",
+        "product_mz": "156.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "23",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "7.58",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "130",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "12",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Solanine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "868.2",
+        "product_mz": "398.2",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "93",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "13.85",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "16",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Solanine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "868.2",
+        "product_mz": "722.3",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "93",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "13.85",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "20",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Strychnine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.0",
+        "product_mz": "184.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "51",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.01",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "50",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Strychnine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "335.0",
+        "product_mz": "156.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "61",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "9.01",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "50",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "8",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Yohimbine-1",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "355.0",
+        "product_mz": "115.1",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "103",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.42",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  },
+  {
+    "method_id": "CLG-TOX2.00",
+    "run_config_id": "LC-MS/MS-002",
+    "compound_english_name": "Yohimbine-2",
+    "CAS_number": null,
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "precursor_mz": "355.0",
+        "product_mz": "117.0",
+        "parameter_type": "Quantification",
+        "collision_energy": {
+          "value": "75",
+          "unit": "V"
+        },
+        "source_ion_label": "Fragment Ion (m/z)"
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "RT",
+        "value": "11.42",
+        "unit": "min",
+        "context": "Source Key: Retention Time (min)"
+      },
+      {
+        "parameter_name": "DP",
+        "value": "180",
+        "unit": "V",
+        "context": "Source Key: Declustering Potential (V)"
+      },
+      {
+        "parameter_name": "CXP",
+        "value": "10",
+        "unit": "V",
+        "context": "Source Key: Cell Exit Potential (V)"
+      }
+    ]
+  }
+]

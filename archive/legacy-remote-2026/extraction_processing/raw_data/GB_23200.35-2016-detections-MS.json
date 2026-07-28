@@ -1,0 +1,1487 @@
+[
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "fenuron",
+    "CAS_number": "101-42-8",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "165",
+        "product_mz": "72",
+        "cone_voltage": "34",
+        "collision_energy": {
+          "value": "13",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "165",
+        "product_mz": "92",
+        "cone_voltage": "34",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "非草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "fenuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "101-42-8",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C9H12N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "164.20",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "0 ~ 2 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "非草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "1.22",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "metoxuron",
+    "CAS_number": "19937-59-8",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "229",
+        "product_mz": "72",
+        "cone_voltage": "50",
+        "collision_energy": {
+          "value": "15",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "229",
+        "product_mz": "156",
+        "cone_voltage": "50",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "甲氧隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "metoxuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "19937-59-8",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C10H13ClN2O2",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "228.68",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "0 ~ 2 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "甲氧隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "1.81",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "monuron",
+    "CAS_number": "150-68-5",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "199",
+        "product_mz": "72",
+        "cone_voltage": "44",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "199",
+        "product_mz": "126",
+        "cone_voltage": "44",
+        "collision_energy": {
+          "value": "27",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "灭草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "monuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "150-68-5",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C9H11ClN2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "198.68",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2 ~ 3.5 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "灭草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.17",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "chlorotoluron",
+    "CAS_number": "15545-48-9",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "213",
+        "product_mz": "72",
+        "cone_voltage": "42",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "213",
+        "product_mz": "140",
+        "cone_voltage": "42",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "绿麦隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "chlorotoluron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "15545-48-9",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C10H13ClN2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "212.70",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2 ~ 3.5 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "绿麦隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.81",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "methabenzthiazuron",
+    "CAS_number": "18691-97-9",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "222",
+        "product_mz": "150",
+        "cone_voltage": "34",
+        "collision_energy": {
+          "value": "32",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "222",
+        "product_mz": "165",
+        "cone_voltage": "34",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "甲基苯噻隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "methabenzthiazuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "18691-97-9",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C10H11N3OS",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "221.28",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2 ~ 3.5 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "甲基苯噻隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.89",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "fluometuron",
+    "CAS_number": "2164-17-2",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "72",
+        "cone_voltage": "24",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "160",
+        "cone_voltage": "24",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "氟草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "fluometuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "2164-17-2",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C10H11F3N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "232.20",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2 ~ 3.5 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "氟草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "2.77",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "diuron",
+    "CAS_number": "330-54-1",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "72",
+        "cone_voltage": "24",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "160",
+        "cone_voltage": "24",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "敌草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "diuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "330-54-1",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C9H10Cl2N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "233.09",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2 ~ 3.5 min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "敌草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.09",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "cycluron",
+    "CAS_number": "2163-69-1",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "199",
+        "product_mz": "69",
+        "cone_voltage": "40",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "199",
+        "product_mz": "72",
+        "cone_voltage": "40",
+        "collision_energy": {
+          "value": "23",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "环莠隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "cycluron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "2163-69-1",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C11H22N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "198.31",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "环莠隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.14",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "isoproturon",
+    "CAS_number": "34123-59-6",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "207",
+        "product_mz": "72",
+        "cone_voltage": "44",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "207",
+        "product_mz": "165",
+        "cone_voltage": "44",
+        "collision_energy": {
+          "value": "15",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "异丙隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "isoproturon",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "34123-59-6",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C12H18N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "206.28",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "异丙隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.05",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "isonoruron",
+    "CAS_number": "28805-78-9",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "223",
+        "product_mz": "72",
+        "cone_voltage": "52",
+        "collision_energy": {
+          "value": "25",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "223",
+        "product_mz": "89",
+        "cone_voltage": "52",
+        "collision_energy": {
+          "value": "19",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "异草完隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "isonoruron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "28805-78-9",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C13H22N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "222.33",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "异草完隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.50",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "siduron",
+    "CAS_number": "1982-49-6",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "94",
+        "cone_voltage": "40",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "233",
+        "product_mz": "137",
+        "cone_voltage": "40",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "环草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "siduron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "1982-49-6",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C14H20N2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "232.32",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "环草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.53",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "buturon",
+    "CAS_number": "3766-60-7",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "237",
+        "product_mz": "84",
+        "cone_voltage": "48",
+        "collision_energy": {
+          "value": "21",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "237",
+        "product_mz": "126",
+        "cone_voltage": "48",
+        "collision_energy": {
+          "value": "37",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "炔草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "buturon",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "3766-60-7",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C12H13ClN2O",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "236.70",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "炔草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.05",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "linuron",
+    "CAS_number": "330-55-2",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "249",
+        "product_mz": "160",
+        "cone_voltage": "30",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "249",
+        "product_mz": "182",
+        "cone_voltage": "30",
+        "collision_energy": {
+          "value": "20",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "利谷隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "linuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "330-55-2",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C9H10Cl2N2O2",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "249.09",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "利谷隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.51",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "difenoxuron",
+    "CAS_number": "14214-32-5",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "287",
+        "product_mz": "72",
+        "cone_voltage": "58",
+        "collision_energy": {
+          "value": "19",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "287",
+        "product_mz": "123",
+        "cone_voltage": "58",
+        "collision_energy": {
+          "value": "19",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "枯莠隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "difenoxuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "14214-32-5",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C16H18N2O3",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "286.33",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "枯莠隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.08",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  },
+  {
+    "method_id": "GB 23200.35—2016",
+    "run_config_id": "LC-MS/MS-001",
+    "compound_english_name": "chloroxuron",
+    "CAS_number": "1982-47-4",
+    "mass_spec_params": [
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Quantification",
+        "source_ion_label": "子离子",
+        "precursor_mz": "291",
+        "product_mz": "72",
+        "cone_voltage": "22",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      },
+      {
+        "ms_level": "MS2",
+        "polarity": "Positive",
+        "parameter_type": "Confirmation",
+        "source_ion_label": "子离子",
+        "precursor_mz": "291",
+        "product_mz": "164",
+        "cone_voltage": "22",
+        "collision_energy": {
+          "value": "17",
+          "unit": "eV"
+        }
+      }
+    ],
+    "performance_parameters": [
+      {
+        "parameter_name": "农药名称",
+        "value": "枯草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "农药名称"
+      },
+      {
+        "parameter_name": "English Name_check",
+        "value": "chloroxuron",
+        "unit": null,
+        "context": null,
+        "source_original_key": "英文名"
+      },
+      {
+        "parameter_name": "CAS_number_check",
+        "value": "1982-47-4",
+        "unit": null,
+        "context": null,
+        "source_original_key": "CAS 号"
+      },
+      {
+        "parameter_name": "Molecular Formula",
+        "value": "C15H15ClN2O2",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子式"
+      },
+      {
+        "parameter_name": "Molecular Weight",
+        "value": "290.74",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分子量"
+      },
+      {
+        "parameter_name": "质谱分段采集时间设置",
+        "value": "2.8 ~ 6min",
+        "unit": null,
+        "context": null,
+        "source_original_key": "质谱分段采集时间设置"
+      },
+      {
+        "parameter_name": "分析物",
+        "value": "枯草隆",
+        "unit": null,
+        "context": null,
+        "source_original_key": "分析物"
+      },
+      {
+        "parameter_name": "RT",
+        "value": "3.97",
+        "unit": "min",
+        "context": null,
+        "source_original_key": "参考保留时间 /min"
+      },
+      {
+        "parameter_name": "采集时间",
+        "value": "0.05",
+        "unit": "s",
+        "context": null,
+        "source_original_key": "采集时间 /s"
+      }
+    ]
+  }
+]
