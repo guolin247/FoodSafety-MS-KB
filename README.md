@@ -21,8 +21,11 @@ data/
 ├── detections.json
 ├── compounds.json
 ├── v3_data_draft_summary.json
+├── data_report.json          # 与 v3 摘要相同的旧部署兼容别名
 └── corrections.json
 ```
+
+`data_report.json` 与 `v3_data_draft_summary.json` 内容完全一致，仅用于兼容仍缓存旧加载器的托管部署；当前代码以 v3 文件名为准。
 
 这批数据来自 `v3_data_draft`。数据契约校验、主键校验和跨表关系校验均已通过，但科学单位归一化、语义值修正、记录去重与身份重新评估尚未完成。应用中的“数据质量”页会明确展示这些边界。
 

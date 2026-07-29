@@ -28,6 +28,11 @@ class DataLayerTests(unittest.TestCase):
             with self.subTest(filename=filename):
                 self.assertTrue((DATA_DIR / filename).is_file(), filename)
 
+    def test_legacy_report_alias_matches_v3(self) -> None:
+        legacy_report = (DATA_DIR / "data_report.json").read_bytes()
+        v3_report = (DATA_DIR / DATA_FILES["report"]).read_bytes()
+        self.assertEqual(legacy_report, v3_report)
+
     def test_v3_counts(self) -> None:
         kb = self.knowledge_base
         self.assertEqual(len(kb["documents"]), 450)
