@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
+import base64
 import html
 import json
 
@@ -622,6 +623,88 @@ def render_detection_detail(context: dict[str, Any]) -> None:
             [row["地区"], display_value(document.get("document_type"))],
         )
 
+    st.markdown("### 化合物身份详情")
+    structure_column, identity_column = st.columns([0.8, 1.8])
+    with structure_column:
+        st.markdown("#### 化学结构")
+        images = cas_detail.get("images") or []
+        if images:
+            encoded_svg = base64.b64encode(str(images[0]).encode("utf-8")).decode("ascii")
+            st.image(
+                f"data:image/svg+xml;base64,{encoded_svg}",
+                caption=f"CAS {compound.get('cas_number', '—')}",
+                width="stretch",
+            )
+        else:
+            st.info("暂无结构图。")
+    with identity_column:
+        replaced_rns = "；".join(str(value) for value in cas_detail.get("replacedRns") or [])
+        identity_rows = [
+            {"字段": "规范英文名", "值": compound.get("canonical_english_name") or "—"},
+            {"字段": "CAS 首选名", "值": cas_detail.get("name") or "—"},
+            {"字段": "CAS RN", "值": compound.get("cas_number") or "—"},
+            {"字段": "分子式", "值": plain_formula(cas_detail.get("molecularFormula"))},
+            {"字段": "分子量", "值": cas_detail.get("molecularMass") or "—"},
+            {"字段": "InChIKey", "值": str(cas_detail.get("inchiKey") or "—").replace("InChIKey=", "")},
+            {"字段": "Canonical SMILES", "值": cas_detail.get("canonicalSmile") or "—"},
+            {"字段": "SMILES", "值": cas_detail.get("smile") or "—"},
+            {"字段": "InChI", "值": cas_detail.get("inchi") or "—"},
+            {"字段": "历史/替代 CAS", "值": replaced_rns or "—"},
+            {"字段": "Molfile", "值": "已收录" if (compound.get("cas_export") or {}).get("molfile") else "未收录"},
+        ]
+        st.dataframe(
+            pd.DataFrame(identity_rows), width="stretch", hide_index=True, height=422
+        )
+    synonyms = [plain_formula(value) for value in cas_detail.get("synonyms") or []]
+    properties = cas_detail.get("experimentalProperties") or []
+    citations = cas_detail.get("propertyCitations") or []
+    synonym_tab, property_tab, citation_tab = st.tabs(
+        [
+            f"同义名（{len(synonyms)}）",
+            f"实验性质（{len(properties)}）",
+            f"属性来源（{len(citations)}）",
+        ]
+    )
+    with synonym_tab:
+        if synonyms:
+            st.dataframe(
+                pd.DataFrame({"同义名": synonyms}),
+                width="stretch",
+                hide_index=True,
+                height=250,
+            )
+        else:
+            st.caption("暂无同义名。")
+    with property_tab:
+        if properties:
+            property_rows = [
+                {
+                    "性质": value.get("name", "—"),
+                    "数值": value.get("property", "—"),
+                    "来源编号": value.get("sourceNumber", "—"),
+                }
+                for value in properties
+            ]
+            st.dataframe(
+                pd.DataFrame(property_rows), width="stretch", hide_index=True, height=250
+            )
+        else:
+            st.caption("暂无实验性质记录。")
+    with citation_tab:
+        if citations:
+            citation_rows = [
+                {
+                    "来源编号": value.get("sourceNumber", "—"),
+                    "来源": value.get("source", "—"),
+                    "文档 URI": value.get("docUri", "—") or "—",
+                }
+                for value in citations
+            ]
+            st.dataframe(
+                pd.DataFrame(citation_rows), width="stretch", hide_index=True, height=250
+            )
+        else:
+            st.caption("暂无属性来源记录。")
     render_correction_notice(document)
     st.markdown("### 离子与定量参数")
     loq_column, rt_column, level_column = st.columns(3)
@@ -680,11 +763,12 @@ def render_detection_detail(context: dict[str, Any]) -> None:
 
 def render_overview(kb: dict[str, Any]) -> None:
     report_counts = kb["report"].get("counts") or {}
+    generated_date = str(kb["report"].get("generated_at_utc") or "—")[:10]
     render_hero(
-        "Schema v2 · Regulatory method intelligence",
+        "V3 data draft · Regulatory method intelligence",
         "把官方检测标准，变成可检索的质谱方法上下文",
         "覆盖中国、日本、美国与欧洲标准，将化合物身份、样品前处理、色谱条件、质谱参数和原文证据串联在同一条记录中。",
-        "数据生成于 2026-07-28 · 当前为待清洗草稿",
+        f"数据生成于 {generated_date} · 当前为待清洗草稿",
     )
     render_metric_cards(
         [
@@ -753,13 +837,13 @@ def render_overview(kb: dict[str, Any]) -> None:
 
 
 def render_search(kb: dict[str, Any]) -> None:
+    frame = kb["detections_df"]
     render_hero(
         "Compound search",
         "化合物与检测条件检索",
         "输入名称、CAS、标准编号、基质或仪器关键词，再按区域、平台与 MS 层级收窄结果。",
-        "17,771 条记录 · 支持中英文混合检索",
+        f"{len(frame):,} 条记录 · 支持中英文混合检索",
     )
-    frame = kb["detections_df"]
     query = st.text_input(
         "检索词",
         placeholder="例如：Aflatoxin B1、1162-65-8、GB 23200、牛奶、QTRAP",
@@ -831,7 +915,7 @@ def render_documents(kb: dict[str, Any]) -> None:
         "Standards & methods",
         "标准与方法目录",
         "从法规文档出发，查看每份标准覆盖的方法配置、样品基质、分析平台和化合物数量。",
-        "451 份文档 · 1,130 个方法配置",
+        f"{len(kb['documents']):,} 份文档 · {len(kb['methods']):,} 个方法配置",
     )
     frame = kb["documents_df"]
     query = st.text_input(
@@ -951,17 +1035,26 @@ def render_documents(kb: dict[str, Any]) -> None:
 def render_quality(kb: dict[str, Any]) -> None:
     report = kb["report"]
     counts = report.get("counts") or {}
+    pipeline_version = report.get("pipeline_version", "3.0-v3-data-file-draft")
+    relationship_status = (
+        (report.get("relationship_validation") or {}).get("status") or "unknown"
+    )
+    relationship_label = (
+        "PASS"
+        if relationship_status.lower() == "passed"
+        else relationship_status.upper()
+    )
     render_hero(
         "Data provenance & quality",
         "数据状态与质量边界",
-        "展示 Schema v2 投影的校验结果、字段可用性和尚未执行的清洗步骤，帮助正确理解当前数据。",
-        "Pipeline 2.0 · Draft for cleaning",
+        "展示 V3 数据投影的校验结果、字段可用性和尚未执行的清洗步骤，帮助正确理解当前数据。",
+        f"Pipeline {pipeline_version} · Draft for cleaning",
     )
     st.markdown(
         """
         <div class="draft-alert">
             <strong>当前数据不是最终发布版。</strong><br>
-            四类 JSON 已通过结构校验和关系校验，但科学单位归一化、语义值修正与重复检测合并尚未执行。
+            四类 JSON 已通过数据契约校验和关系校验，但科学单位归一化、语义值修正与记录去重尚未执行。
             页面会展示原始单位和原文证据，不将这些草稿值包装为已完成清洗的结果。
         </div>
         """,
@@ -973,7 +1066,7 @@ def render_quality(kb: dict[str, Any]) -> None:
             (f"{counts.get('method_count', 0):,}", "方法关系节点"),
             (f"{counts.get('compound_detection_item_count', 0):,}", "检测项"),
             (f"{counts.get('compound_count', 0):,}", "化合物实体"),
-            ("PASS", "主键与跨表关系"),
+            (relationship_label, "主键与跨表关系"),
         ]
     )
 
@@ -1011,14 +1104,17 @@ def render_quality(kb: dict[str, Any]) -> None:
 
     schema_column, relation_column = st.columns(2)
     with schema_column:
-        st.markdown("### Schema 校验")
-        schema = report.get("schema_validation") or {}
+        st.markdown("### 数据契约校验")
+        schema = (
+            report.get("data_contract_validation")
+            or report.get("schema_validation")
+            or {}
+        )
         schema_rows = [
             {
                 "数据集": name,
                 "状态": details.get("status", "unknown"),
                 "错误数": details.get("error_count", "—"),
-                "校验器": details.get("validator", "—"),
             }
             for name, details in schema.items()
         ]
@@ -1044,16 +1140,34 @@ def render_quality(kb: dict[str, Any]) -> None:
 
     issue_column, boundary_column = st.columns(2)
     with issue_column:
-        st.markdown("### 已识别的草稿问题")
-        issues = report.get("draft_issues") or {}
-        issue_rows = []
-        for name, details in issues.items():
-            issue_rows.append(
-                {
-                    "项目": name.replace("_", " "),
-                    "状态": details.get("status", "—"),
-                }
-            )
+        st.markdown("### V3 投影边界")
+        draft_notes = report.get("draft_notes") or {}
+        cas_evidence = draft_notes.get("cas_source_evidence") or {}
+        search_response = draft_notes.get("representative_search_response") or {}
+        issue_rows = [
+            {
+                "项目": "身份或完整信息不足，未纳入本草稿",
+                "数量": report.get(
+                    "excluded_from_draft_but_retained_in_identity_ledger", 0
+                ),
+            },
+            {
+                "项目": "当前 CAS 由身份解析获得，源记录无同值证据",
+                "数量": cas_evidence.get(
+                    "derived_current_cas_without_source_evidence", 0
+                ),
+            },
+            {
+                "项目": "源证据支持当前 CAS",
+                "数量": cas_evidence.get("source_evidence_supports_current_cas", 0),
+            },
+            {
+                "项目": "存在多个检索查询来源的化合物实体",
+                "数量": search_response.get(
+                    "entities_with_multiple_search_queries", 0
+                ),
+            },
+        ]
         st.dataframe(pd.DataFrame(issue_rows), width="stretch", hide_index=True)
     with boundary_column:
         st.markdown("### 尚未执行")
@@ -1061,10 +1175,16 @@ def render_quality(kb: dict[str, Any]) -> None:
             "scientific unit conversion": "科学单位换算与归一化",
             "semantic value correction": "语义值修正",
             "duplicate detection deletion or merging": "重复检测删除或合并",
+            "record deduplication": "记录去重",
             "source compound-name replacement": "源化合物名称替换",
             "identity reassessment": "化合物身份重新评估",
         }
-        for item in report.get("cleaning_not_performed") or []:
+        cleaning_not_performed = (
+            (report.get("draft_notes") or {}).get("cleaning_not_performed")
+            or report.get("cleaning_not_performed")
+            or []
+        )
+        for item in cleaning_not_performed:
             st.markdown(f"- {labels.get(item, item)}")
 
     generated = report.get("generated_at_utc", "—")
@@ -1076,7 +1196,7 @@ def render_footer() -> None:
     st.markdown(
         """
         <div class="footer">
-            Food Safety MS Knowledge Base · Schema v2 interface ·
+            Food Safety MS Knowledge Base · V3 data draft interface ·
             Values remain linked to their regulatory source evidence.
         </div>
         """,
@@ -1106,7 +1226,7 @@ with st.sidebar:
     st.markdown(
         """
         <div class="side-status">
-            <span class="status-dot"></span><strong>Schema v2 draft</strong><br>
+            <span class="status-dot"></span><strong>V3 data draft</strong><br>
             结构与关系校验已通过；单位、语义和重复记录仍待清洗。
         </div>
         """,

@@ -22,12 +22,24 @@ class DataLayerTests(unittest.TestCase):
             data_signature(DATA_DIR),
         )
 
-    def test_schema_v2_counts(self) -> None:
+    def test_v3_counts(self) -> None:
         kb = self.knowledge_base
-        self.assertEqual(len(kb["documents"]), 451)
-        self.assertEqual(len(kb["methods"]), 1_130)
-        self.assertEqual(len(kb["detections_df"]), 17_771)
+        self.assertEqual(len(kb["documents"]), 450)
+        self.assertEqual(len(kb["methods"]), 1_129)
+        self.assertEqual(len(kb["detections_df"]), 17_770)
         self.assertEqual(len(kb["compounds"]), 1_298)
+
+    def test_v3_report_validation(self) -> None:
+        report = self.knowledge_base["report"]
+        self.assertEqual(report["pipeline_version"], "3.0-v3-data-file-draft")
+        self.assertTrue(
+            all(
+                details["status"] == "passed" and details["error_count"] == 0
+                for details in report["data_contract_validation"].values()
+            )
+        )
+        self.assertEqual(report["relationship_validation"]["status"], "passed")
+        self.assertTrue(all(report["relationship_validation"]["checks"].values()))
 
     def test_every_detection_has_identity_and_context(self) -> None:
         frame = self.knowledge_base["detections_df"]
@@ -67,6 +79,14 @@ class DataLayerTests(unittest.TestCase):
         self.assertEqual(corrected_row["地区"], "日本")
         self.assertEqual(corrected_row["标准编号"], "JP 000473283（内部记录）")
 
+    def test_compound_identity_is_searchable(self) -> None:
+        kb = self.knowledge_base
+        matches = kb["detections_df"].loc[kb["detections_df"]["CAS"] == "50-24-8"]
+        self.assertFalse(matches.empty)
+        self.assertTrue(matches["search_blob"].str.contains("codelcortone").all())
+        compound = kb["compounds_by_cas"]["50-24-8"]
+        self.assertTrue((compound.get("cas_detail") or {}).get("images"))
+        self.assertTrue((compound.get("cas_export") or {}).get("molfile"))
     def test_display_normalization(self) -> None:
         self.assertEqual(normalize_region("中华人民共和国", "GB_1"), "中国")
         self.assertEqual(normalize_region(None, "JP_0001"), "日本")

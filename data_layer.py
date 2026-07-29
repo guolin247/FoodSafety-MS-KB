@@ -1,6 +1,6 @@
 """Data loading and indexing for the Food Safety MS Knowledge Base.
 
-The Schema v2 data is intentionally kept in its source shape on disk.  This
+The V3 draft data is intentionally kept in its source shape on disk. This
 module creates lightweight indexes and tabular projections for the Streamlit
 application without mutating the source records.
 """
@@ -18,31 +18,31 @@ import pandas as pd
 
 
 DATA_FILES = {
-    "documents": "documents.json",
-    "methods": "methods.json",
-    "detections": "detections.json",
-    "compounds": "compounds.json",
-    "report": "data_report.json",
+    "documents": "documents_draft.json",
+    "methods": "methods_draft.json",
+    "detections": "detections_draft.json",
+    "compounds": "compounds_draft.json",
+    "report": "v3_data_draft_summary.json",
     "corrections": "corrections.json",
 }
 
 
 def field_value(field: Any) -> Any:
-    """Return the value from a Schema v2 value/evidence object."""
+    """Return the value from a V3 value/evidence object."""
     if isinstance(field, dict) and "value" in field:
         return field.get("value")
     return field
 
 
 def field_evidence(field: Any) -> Any:
-    """Return evidence text from a Schema v2 value/evidence object."""
+    """Return evidence text from a V3 value/evidence object."""
     if isinstance(field, dict):
         return field.get("evidence")
     return None
 
 
 def field_unit(field: Any) -> Any:
-    """Return a unit from a Schema v2 measurement object."""
+    """Return a unit from a V3 measurement object."""
     if isinstance(field, dict):
         return field.get("unit")
     return None
@@ -193,7 +193,7 @@ def build_knowledge_base(
     data_dir: str | Path,
     _signature: tuple[tuple[str, int, int], ...] | None = None,
 ) -> dict[str, Any]:
-    """Load Schema v2 data and build indexes used by the application."""
+    """Load V3 draft data and build indexes used by the application."""
     root = Path(data_dir)
     documents = _load_collection(root, "documents")
     methods = _load_collection(root, "methods")
@@ -276,6 +276,8 @@ def build_knowledge_base(
             )
             loq = display_value(item.get("limit_of_quantification"))
             retention_time = display_value(item.get("retention_time"))
+            compound = compounds_by_cas.get(cas_number, {})
+            compound_detail = compound.get("cas_detail") or {}
             row = {
                 "row_id": row_id,
                 "化合物": english_name,
@@ -309,13 +311,26 @@ def build_knowledge_base(
                     "仪器描述",
                 )
             )
+            compound_identity_terms = [
+                compound.get("canonical_english_name"),
+                compound_detail.get("name"),
+                compound_detail.get("inchiKey"),
+                compound_detail.get("molecularFormula"),
+                *(compound_detail.get("synonyms") or []),
+                *(compound_detail.get("replacedRns") or []),
+            ]
+            row["search_blob"] += " " + " ".join(
+                str(value).lower()
+                for value in compound_identity_terms
+                if value not in (None, "")
+            )
             rows.append(row)
             detection_lookup[row_id] = {
                 "item": item,
                 "block": block,
                 "method": method,
                 "document": document,
-                "compound": compounds_by_cas.get(cas_number, {}),
+                "compound": compound,
                 "row": row,
             }
             document_detection_counts[document_id] += 1
