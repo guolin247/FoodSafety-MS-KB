@@ -2,6 +2,7 @@ from pathlib import Path
 import unittest
 
 from data_layer import (
+    DATA_FILES,
     build_knowledge_base,
     classify_platform,
     data_signature,
@@ -21,6 +22,11 @@ class DataLayerTests(unittest.TestCase):
             DATA_DIR,
             data_signature(DATA_DIR),
         )
+
+    def test_configured_data_files_exist(self) -> None:
+        for filename in DATA_FILES.values():
+            with self.subTest(filename=filename):
+                self.assertTrue((DATA_DIR / filename).is_file(), filename)
 
     def test_v3_counts(self) -> None:
         kb = self.knowledge_base

@@ -18,10 +18,10 @@ import pandas as pd
 
 
 DATA_FILES = {
-    "documents": "documents_draft.json",
-    "methods": "methods_draft.json",
-    "detections": "detections_draft.json",
-    "compounds": "compounds_draft.json",
+    "documents": "documents.json",
+    "methods": "methods.json",
+    "detections": "detections.json",
+    "compounds": "compounds.json",
     "report": "v3_data_draft_summary.json",
     "corrections": "corrections.json",
 }

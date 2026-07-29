@@ -16,10 +16,10 @@
 
 ```text
 data/
-├── documents_draft.json
-├── methods_draft.json
-├── detections_draft.json
-├── compounds_draft.json
+├── documents.json
+├── methods.json
+├── detections.json
+├── compounds.json
 ├── v3_data_draft_summary.json
 └── corrections.json
 ```
